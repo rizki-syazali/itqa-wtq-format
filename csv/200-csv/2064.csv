@@ -1,0 +1,9 @@
+kharakteristik,"waktu respons awal, bagian setelah pajak marginal","waktu respons awal, rata-rata bagian setelah pajak","waktu respons awal, bagian marjinal dan rata-rata setelah pajak","waktu respons awal, bagian marjinal dan rata-rata setelah pajak","waktu respons yang tertunda, bagian setelah pajak marjinal","penundaan waktu respons, rata-rata bagian setelah pajak","waktu respons yang tertunda, bagian marjinal dan rata-rata setelah pajak","waktu respons yang tertunda, bagian marjinal dan rata-rata setelah pajak"
+panel estimasi koefisien a: margin intensif,,,,,,,,
+"perkiraan koefisien panel a: margin intensif, bagian bersih dari pajak",1.004,,0.573,-0.112,-0.276,,-0.178,-0.122
+perkiraan koefisien panel a: rata-rata margin intensif bagian bersih pajak,,1.838,1.293,0.421,,-0.457,-0.288,-0.208
+perkiraan koefisien panel a: total margin intensif pendapatan setelah pajak,,,,0.028,,,,-0.134
+panel perkiraan koefisien b: margin yang luas,,,,,,,,
+"perkiraan koefisien panel b: margin luas, bagian marjinal setelah pajak",0.202,,0.145,0.011,-0.033,,-0.018,-0.019
+perkiraan koefisien panel b: rata-rata margin luas bagian bersih pajak,,0.148,0.104,-0.005,,-0.033,-0.028,-0.028
+perkiraan koefisien panel b: total margin luas pendapatan setelah pajak,,,,-0.015,,,,-0.006

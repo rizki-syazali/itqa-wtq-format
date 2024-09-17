@@ -1,0 +1,9 @@
+kharakteristik,distribusi nomor pemilik,distribusi persen pemilik,distribusi bagian pemilik pelapor pajak
+imigran,,,
+laki-laki imigran,117880.0,66.2,0.064
+perempuan imigran,60110.0,33.8,0.03
+imigran semua imigran,177990.0,100.0,0.046
+non-imigran,,,
+laki-laki non-imigran,586490.0,65.9,0.064
+perempuan non-imigran,303740.0,34.1,0.033
+non-imigran semua non-imigran,890240.0,100.0,0.048

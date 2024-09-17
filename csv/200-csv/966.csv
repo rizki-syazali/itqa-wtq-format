@@ -1,0 +1,21 @@
+kharakteristik,angka kematian jumlah kematian,kematian asmr,mortalitas 95% interval kepercayaan dari,mortalitas 95% interval kepercayaan hingga,periode analisis tren,analisis tren perubahan persen tahunan di asmr,analisis tren interval kepercayaan 95% dari,analisis tren interval kepercayaan 95% hingga,analisis tren nilai p
+semua,850.0,0.6,0.56,0.64,1992 to 2016,0.3,-0.4,1.0,0.417
+seks,,,,,,,,,
+jenis kelamin perempuan,455.0,0.58,0.52,0.63,1992 to 2016,-0.3,-1.1,0.6,0.487
+jenis kelamin laki-laki,395.0,0.62,0.56,0.68,1992 to 2016,1.2,0.2,2.3,0.021
+kelompok umur,,,,,,,,,
+kelompok usia 44 tahun ke bawah,25.0,0.03,0.02,0.05,,,,,
+kelompok usia 45 hingga 54 tahun,55.0,0.27,0.2,0.35,1992 to 2016,-0.9,-3.0,1.2,0.388
+kelompok usia 55 hingga 64 tahun,130.0,0.73,0.61,0.86,1992 to 2016,-0.7,-2.1,0.8,0.357
+kelompok usia 65 hingga 74 tahun,220.0,1.89,1.65,2.16,1992 to 2016,0.2,-1.1,1.5,0.763
+kelompok usia 75 atau lebih,415.0,4.56,4.13,5.02,1992 to 2016,0.9,0.1,1.7,0.033
+propinsi,,,,,,,,,
+provinsi columbia inggris,145.0,0.55,0.46,0.63,1992 to 2016,-0.5,-1.7,0.8,0.451
+provinsi alberta,110.0,0.66,0.54,0.79,1992 to 2016,0.3,-1.5,2.2,0.709
+provinsi saskatchewan,35.0,0.56,0.38,0.79,1992 to 2016,-0.5,-3.0,2.1,0.702
+provinsi manitoba,50.0,0.75,0.55,1.0,1992 to 2016,0.5,-2.1,3.1,0.701
+provinsi ontario,415.0,0.58,0.52,0.64,1992 to 2016,0.2,-0.7,1.1,0.687
+provinsi brunswick baru,25.0,0.57,0.37,0.85,,,,,
+provinsi nova scotia,40.0,0.73,0.52,1.01,1992 to 2016,2.0,-0.4,4.4,0.1
+provinsi pulau pangeran edward,5.0,0.58,0.19,1.48,,,,,
+provinsi newfoundland dan labrador,25.0,0.81,0.52,1.22,1992 to 2016,2.6,-0.6,5.8,0.103

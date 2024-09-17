@@ -1,0 +1,5 @@
+kharakteristik,inovasi perusahaan dengan pertumbuhan tinggi,inovasi perusahaan dengan pertumbuhan sedang,inovasi perusahaan dengan pertumbuhan rendah,inovasi perusahaan muda di pasar yang sudah mapan,inovasi perusahaan yang berpengalaman di pasar yang sudah mapan,inovasi perusahaan muda di pasar negara berkembang,inovasi yang dialami perusahaan di pasar negara berkembang,sampel penuh inovasi
+model logit mp_index,0.215 (0.108,0.209 (0.080,0.596 (0.180,0.511 (0.157,0.361 (0.161,0.126 (0.079,0.126 (0.057,0.386 (0.109
+model logit strat_lt_index,0.283 (0.152,0.177 (0.084,-0.457 (0.265,-0.181(0.199,-0.284 (0.250,-0.073 (0.057,0.095 (0.071,-0.113 (0.166
+model logit semu r2,0.546,0.263,0.133,0.584,0.101,0.665,0.171,0.127
+nomor model logit perusahaan,302.0,895.0,1669.0,262.0,1592.0,154.0,858.0,2866.0

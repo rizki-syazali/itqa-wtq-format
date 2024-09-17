@@ -1,0 +1,49 @@
+kharakteristik,non-imigran,imigran belajar di Kanada,imigran belajar di luar Kanada
+prediksi probabilitas jenis kelamin,,,
+prediksi probabilitas jenis kelamin wanita,3.6,4.7,15.0
+prediksi probabilitas jenis kelamin pria,3.5,4.4,13.2
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi,,,
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar sarjana tanpa studi lebih lanjut,4.7,6.4,16.8
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar sarjana dengan studi lebih lanjut,1.4,2.7,11.7
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi sertifikat universitas atau diploma di atas tingkat sarjana tanpa studi lebih lanjut,1.8,1.2,13.8
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi sertifikat universitas atau diploma di atas tingkat sarjana dengan studi lebih lanjut,1.0,0.7,10.7
+"prediksi probabilitas tingkat pencapaian pendidikan tertinggi dalam bidang kedokteran, kedokteran gigi, kedokteran hewan atau optometri",0.2,0.5,10.1
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar master tanpa studi lebih lanjut,1.0,1.1,9.5
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi gelar master dengan studi lebih lanjut,0.1,ne,2.1
+prediksi probabilitas tingkat pencapaian pendidikan tertinggi doktor yang diperoleh,0.2,ne,2.4
+bidang studi probabilitas yang diprediksi,,,
+prediksi probabilitas bidang studi pendidikan,1.5,3.0,17.7
+"prediksi probabilitas bidang studi seni visual dan pertunjukan, dan teknologi komunikasi",6.0,8.7,15.1
+prediksi probabilitas bidang studi humaniora,8.9,8.7,24.8
+prediksi probabilitas bidang studi ilmu sosial dan perilaku serta hukum,5.6,7.8,19.7
+"prediksi probabilitas bidang studi bisnis, manajemen dan administrasi publik",3.3,4.6,15.9
+bidang studi ilmu dan teknologi fisika dan kehidupan,4.2,4.4,14.5
+"prediksi probabilitas bidang studi matematika, ilmu komputer dan informasi",1.4,1.5,8.0
+"prediksi probabilitas bidang studi arsitektur, teknik, dan teknologi terkait",1.0,2.9,10.5
+"prediksi probabilitas bidang studi pertanian, sumber daya alam dan konservasi",4.2,7.2,25.4
+prediksi probabilitas bidang studi kesehatan dan bidang terkait,1.7,2.6,9.9
+prediksi probabilitas bidang studi lainnya,10.1,ne,18.3
+prediksi tingkat kemungkinan keakraban dengan bahasa resmi,,,
+prediksi tingkat kemungkinan keakraban dengan bahasa resmi 1. tingkat tertinggi,3.3,2.9,7.9
+prediksi tingkat kemungkinan keakraban dengan bahasa resmi 2,3.7,3.8,6.0
+prediksi tingkat kemungkinan keakraban dengan bahasa resmi3,3.7,3.3,10.4
+prediksi tingkat kemungkinan keakraban dengan bahasa resmi4,3.4,4.8,12.5
+prediksi tingkat kemungkinan keakraban dengan bahasa resmi5,4.5,5.5,14.0
+prediksi tingkat kemungkinan keakraban dengan bahasa resmi 6. tingkat terendah,5.0,6.7,16.1
+prediksi kemungkinan lokasi studi,,,
+prediksi kemungkinan lokasi penelitian Kanada,3.5,,
+prediksi kemungkinan lokasi studi di Amerika Utara,,,7.3
+prediksi kemungkinan lokasi studi di Amerika tengah dan selatan,,,8.2
+prediksi kemungkinan lokasi studi Karibia dan Bermuda,,,15.2
+prediksi kemungkinan lokasi studi di eropa barat,,,6.9
+prediksi kemungkinan lokasi studi di eropa timur,,,11.6
+prediksi kemungkinan lokasi studi di eropa utara,,,5.2
+prediksi kemungkinan lokasi studi di eropa selatan,,,8.8
+prediksi kemungkinan lokasi penelitian di sub-sahara afrika,,,10.2
+prediksi kemungkinan lokasi studi di afrika utara,,,8.5
+prediksi kemungkinan lokasi studi di asia tengah barat,,,10.4
+prediksi kemungkinan lokasi studi di asia timur,,,10.0
+prediksi kemungkinan lokasi studi di asia tenggara,,,23.6
+prediksi kemungkinan lokasi studi di asia selatan,,,22.0
+prediksi kemungkinan lokasi studi di Oseania,,,11.3
+prediksi kemungkinan lokasi studi di luar Kanada,4.7,,

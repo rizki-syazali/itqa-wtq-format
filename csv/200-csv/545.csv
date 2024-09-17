@@ -1,0 +1,9 @@
+kharakteristik,skor total ces-8,skor total ces-30,ptsd,mdd,pikiran,berkeluyuran,ide bunuh diri,minum berisiko tinggi
+skor total ces-8,1.0,,,,,,,
+skor total ces-30,0.85,1.0,,,,,,
+ptsd,0.267,0.218,1.0,,,,,
+mdd,0.125,0.085,0.458,1.0,,,,
+pikiran,0.052000000000000005,0.037,0.217,-0.034,1.0,,,
+berkeluyuran,0.064,0.04,0.206,0.158,0.114,1.0,,
+ide bunuh diri,0.091,0.071,0.328,0.395,0.024,0.142,1.0,
+minum berisiko tinggi,0.17600000000000002,0.186,0.203,0.12,0.072,0.063,0.123,1.0

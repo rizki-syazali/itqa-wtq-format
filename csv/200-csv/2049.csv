@@ -1,0 +1,38 @@
+kharakteristik,pemilik,penyewa di perumahan sosial dan terjangkau,penyewa tidak di perumahan sosial dan terjangkau
+jenis kelamin orang,,,
+orang berjenis kelamin laki-laki,50.0,44.0,50.0
+orang berjenis kelamin perempuan,50.0,56.0,50.0
+kelompok umur orang,,,
+kelompok usia orang kurang dari 35 tahun,39.0,46.0,51.0
+orang kelompok umur 35 sampai 54 tahun,27.0,22.0,26.0
+kelompok usia orang 55 hingga 64 tahun,15.6,12.6,9.5
+kelompok usia orang 65 tahun ke atas,18.3,19.4,13.2
+status perkawinan seseorang,,,
+orang status perkawinan menikah,42.0,13.7,24.0
+status perkawinan orang yang hidup menurut hukum adat,12.7,9.1,16.4
+status perkawinan orang belum pernah menikah,37.0,54.0,47.0
+orang yang status perkawinannya berpisah/bercerai/janda,9.1,23.0,13.2
+tingkat pendidikan tertinggi seseorang,,,
+tingkat pendidikan tertinggi seseorang kurang dari ijazah sekolah menengah atas,12.8,31.0,14.7
+ijazah sekolah menengah atas tingkat pendidikan tertinggi orang,25.0,30.0,26.0
+"orang yang memiliki tingkat pendidikan tertinggi, ijazah atau sertifikat pasca sekolah menengah",28.0,23.0,25.0
+orang tingkat pendidikan tertinggi gelar universitas,34.0,16.0,34.0
+aktivitas utama seseorang dalam 12 bulan terakhir,,,
+aktivitas utama seseorang dalam 12 bulan terakhir bekerja pada pekerjaan berbayar atau wiraswasta,55.0,24.0,55.0
+Aktivitas utama seseorang dalam 12 bulan terakhir adalah mencari pekerjaan,1.8,5.1,3.3
+aktivitas utama seseorang dalam 12 bulan terakhir bersekolah,11.1,15.8,14.6
+aktivitas utama seseorang dalam 12 bulan terakhir menjaga rumah,3.3,5.0,2.6
+aktivitas utama seseorang dalam 12 bulan terakhir merawat anggota keluarga lainnya,3.6,6.9,3.7
+aktivitas utama seseorang dalam 12 bulan terakhir pensiun,20.0,19.9,12.8
+aktivitas utama seseorang dalam 12 bulan terakhir karena sakit atau cacat jangka panjang,2.8,15.5,4.8
+aktivitas utama seseorang dalam 12 bulan terakhir melakukan pekerjaan sukarela,0.7,2.1,0.8
+aktivitas utama orang dalam 12 bulan terakhir tidak ada aktivitas utama atau lainnya,1.9,5.2,2.3
+orang-orang yang terlihat sebagai minoritas,,,
+orang minoritas yang terlihat minoritas yang terlihat,23.0,40.0,32.0
+"orang-orang minoritas yang terlihat, bukan minoritas yang terlihat",77.0,60.0,68.0
+identitas pribumi seseorang,,,
+orang adat identitas adat,3.1,9.4,3.8
+identitas masyarakat adat non-pribumi,96.9,90.6,96.2
+status veteran orang tersebut,,,
+orang yang berstatus veteran veteran atau saat ini menjadi anggota angkatan bersenjata Kanada,2.2,2.5,2.3
+orang yang berstatus veteran tidak pernah memiliki dinas militer Kanada,97.8,97.5,97.7

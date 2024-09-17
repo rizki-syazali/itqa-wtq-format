@@ -1,0 +1,12 @@
+kharakteristik,kolom provinsi-negara bagian 1,kolom provinsi-negara bagian 2,wilayah ekonomi kolom 3,wilayah ekonomi kolom 4
+perbatasan Kanada-Amerika Serikat,,,,
+koefisien perbatasan Kanada-Amerika Serikat,-1.435,-1.555,-1.568,-1.434
+kesalahan standar yang kuat di perbatasan Kanada-AS,0.37,0.531,0.187,0.243
+perbatasan provinsi,,,,
+koefisien batas provinsi,,,-0.576,-0.785
+kesalahan standar kuat perbatasan provinsi,,,0.126,0.127
+perbatasan negara,,,,
+koefisien batas negara,,,-0.387,-0.301
+kesalahan standar yang kuat di perbatasan negara bagian,,,0.049,0.048
+arus intra-daerah perbatasan negara,yes,no,yes,no
+jumlah pengamatan batas negara,3364.0,3306.0,40401.0,40200.0

@@ -1,0 +1,562 @@
+id	table_id	utterance	context	targetValue
+ns-0	182	berapa persen per tahun peningkatan realokasi pada tingkat naics tiga digit yang berkontribusi terhadap pertumbuhan produktivitas tenaga kerja agregat untuk periode 1991 hingga 2000?	csv/200-csv/182.csv	0,7
+ns-1	1028	di 10 provinsi dan wilayah pelapor yang data hak asuh dan data komunitasnya tersedia, berapa banyak pelaku dewasa yang berada dalam tahanan atau program komunitas pada hari tertentu?	csv/200-csv/1028.csv	116442
+ns-2	1985	ada juga arus masuk yang signifikan dari populasi non-aborigin ke populasi metis tahun 2016. dari mereka yang teridentifikasi sebagai metis pada tahun 2016, berapa persentase yang teridentifikasi sebagai non-aborigin pada tahun 2011?	csv/200-csv/1985.csv	39.1
+ns-3	2541	pada tahun 2014/2015, berapa poin persentase hukuman percobaan yang dijatuhkan untuk kasus-kasus yang melibatkan ancaman?	csv/200-csv/2541.csv	76.0
+ns-4	2776	berapa persentase seluruh kasus pidana dewasa yang diselesaikan jika tidak mematuhi perintah pengadilan pada tahun 2013/2014?	csv/200-csv/2776.csv	0,09848
+ns-5	2451	berapa persentase dari empat bidang yang mencakup seluruh lulusan?	csv/200-csv/2451.csv	83.9
+ns-6	118	berapa persentase pertumbuhan PDB budaya nunavut pada tahun 2014?	csv/200-csv/118.csv	2.2
+ns-7	1870	berapa tahun peningkatan angka harapan hidup saat lahir pada laki-laki pada tahun 2014/2016 dibandingkan dengan nilai yang tercatat pada periode 2013/2015?	csv/200-csv/1870.csv	0,1
+ns-8	354	berapa persentase orang tanpa penyakit kronis yang mengalami tinitus dari tahun 2012 hingga 2015 di Kanada?	csv/200-csv/354.csv	34.1
+ns-9	928	di kalangan cmas, berapa tingkat kelowna yang melaporkan pelanggaran terkait kokain?	csv/200-csv/928.csv	192.0
+ns-10	1535	berapakah jumlah ashr laki-laki kelahiran Kanada per 10.000 orang?	csv/200-csv/1535.csv	665.2
+ns-11	1781	selama periode penelitian enam tahun, berapa tingkat rata-rata kekerasan seksual tahunan yang dilaporkan di wilayah barat laut?	csv/200-csv/1781.csv	404.3
+ns-12	195	untuk perusahaan non-pemberi kerja di semua tingkat industri, berapa kali lipat pendapatan per penduduk di csds non-pribumi dibandingkan di csds inuit?	csv/200-csv/195.csv	2.451602
+ns-13	1789	pada tahun 2014, berapa persen penduduk non-Aborigin yang dilaporkan merasa puas atau sangat puas dengan keselamatan diri mereka dari kejahatan?	csv/200-csv/1789.csv	88.0
+ns-14	2090	berapa juta dolar ekspor barang dan jasa yang direvisi pada tahun 2017?	csv/200-csv/2090.csv	935.0
+ns-15	1178	berapa persentase seluruh entri awal berada di bawah pengawasan komunitas lain pada tahun 2017/2018?	csv/200-csv/1178.csv	22.0
+ns-16	363	di antara populasi rumah tangga di negara-negara pertama, berapa persentase kemungkinan hidup sampai usia 75 tahun bagi laki-laki pada tahun 2011?	csv/200-csv/363.csv	53.2
+ns-17	1295	berapa poin persentase penurunan dukungan terkait kesehatan dan perawatan pribadi sejak 2010 hingga 2013?	csv/200-csv/1295.csv	4
+ns-18	1674	Salah satu faktor yang menonjol adalah sejauh mana rendahnya ekspektasi guru menghambat pembelajaran: berapa persentase kepala sekolah swasta yang melaporkan bahwa rendahnya ekspektasi guru menghambat pembelajaran “sebagian” atau “banyak”?	csv/200-csv/1674.csv	0,005
+ns-19	2316	berapakah rasio juru masak muda dan juru masak tua pada tahun 2016?	csv/200-csv/2316.csv	2.38
+ns-20	2085	berapa poin persentase penurunan tingkat pertumbuhan PDB nominal tahunan setelah revisi tahun 2016?	csv/200-csv/2085.csv	0,12
+ns-21	2388	berapa persentase laki-laki yang bekerja di lingkungan bising selama kurang dari lima tahun?	csv/200-csv/2388.csv	44.6
+ns-22	122	berapa poin persentase penurunan PDB industri budaya di wilayah barat laut pada tahun 2014?	csv/200-csv/122.csv	2.7
+ns-23	2802	berapa kali perempuan yang bertugas di cagar alam primer dibandingkan laki-laki mengalami perilaku seksual atau diskriminatif?	csv/200-csv/2802.csv	2.615385
+ns-24	1033	bagi mereka yang tidak menyaksikan kekerasan orang tua, berapa persen orang yang mengatakan bahwa mereka adalah korban kekerasan fisik pada masa kanak-kanak?	csv/200-csv/1033.csv	13.3
+ns-25	398	berapakah probabilitas pekerjaan bagi penduduk non-aborigin berketerampilan tinggi menurut model 3 untuk melek huruf?	csv/200-csv/398.csv	0,912
+ns-26	1305	kelompok pendapatan manakah yang memiliki kemungkinan lebih rendah untuk melewatkan pembayaran hipotek, keluarga yang berada pada kuintil pendapatan teratas (kelima) atau keluarga pada kuintil pendapatan terbawah (pertama)?	csv/200-csv/1305.csv	kuintil kelima
+ns-27	2237	berapa kemungkinan mendapatkan pekerjaan bagi mereka yang menyelesaikan program peningkatan atau kesetaraan tetapi tidak memiliki pendidikan pasca sekolah menengah?	csv/200-csv/2237.csv	0,58
+ns-28	1245	pada tahun 2016, berapa poin persentase peningkatan csi yang dicatat winnipeg?	csv/200-csv/1245.csv	16.0
+ns-29	749	di british columbia, kelompok minoritas terbesar ketiga yang terlihat adalah orang filipina, berapa persentase populasi perempuan minoritas yang terlihat di provinsi tersebut?	csv/200-csv/749.csv	11.8
+ns-30	2361	berapa kisaran tarif kelompok pembanding pada tahun 2012?	csv/200-csv/2361.csv	1.3|6.0
+ns-31	1033	untuk semua individu yang berusia 15 hingga 74 tahun, berapa tingkat pengalaman kekerasan fisik di masa kanak-kanak jika mereka juga menyaksikan kekerasan yang dilakukan orang tua setidaknya enam kali?	csv/200-csv/1033.csv	69.5
+ns-32	2305	tipe perempuan muda kelahiran Kanada manakah yang memiliki tingkat pengangguran tertinggi?	csv/200-csv/2305.csv	ilmu pengetahuan dan teknologi
+ns-33	2733	berapa persentase perbedaan tingkat bahaya antara perusahaan milik perempuan dan perusahaan milik laki-laki?	csv/200-csv/2733.csv	0,149
+ns-34	434	kota mana yang memiliki konsentrasi pemukiman terbesar?	csv/200-csv/434.csv	montreal
+ns-35	2214	pemuda aborigin terlalu banyak terwakili dalam hak asuh dan pengawasan masyarakat, berapa persen penerimaan hak asuh?	csv/200-csv/2214.csv	50.0
+ns-36	71	pada tahun 2011, berapa persen pekerja pertanian berbahasa Inggris di wilayah pertanian Quebec yang berjenis kelamin laki-laki?	csv/200-csv/71.csv	69.9|62.7|69|67.6|71.8
+ns-37	118	berapa persentase pertumbuhan PDB budaya Quebec pada tahun 2013?	csv/200-csv/118.csv	4.0
+ns-38	2679	ketika rawat inap yang terkait dengan kelahiran tidak disertakan, berapa kali lipat angka rawat inap secara keseluruhan pada usia 10 hingga 19 tahun di negara-negara pertama yang hidup dalam cadangan dibandingkan dengan jumlah rawat inap di kalangan pemuda non-Aborigin?	csv/200-csv/2679.csv	2.539568
+ns-39	2422	berapa persentase warga Kanada yang mengatakan bahwa mereka sangat percaya pada polisi setempat?	csv/200-csv/2422.csv	45.0
+ns-40	928	Di antara CMA, wilayah manakah yang memiliki tingkat pelanggaran terkait ganja tertinggi?	csv/200-csv/928.csv	kelowna
+ns-41	2736	berapa persentase anak laki-laki usia 12-17 tahun yang memenuhi ketiga rekomendasi tersebut?	csv/200-csv/2736.csv	8.7
+ns-42	1250	pada tahun 2016, berapa banyak pembunuhan yang dilaporkan di Greater Sudbury?	csv/200-csv/1250.csv	0,0
+ns-43	910	berapa persen penurunan pertumbuhan mfp tanpa modal alam pada periode 2000 hingga 2013?	csv/200-csv/910.csv	3.6
+ns-44	1192	provinsi atau wilayah manakah yang menyumbang kontribusi terbesar terhadap produk domestik bruto nasional?	csv/200-csv/1192.csv	ontario
+ns-45	2470	berapa persen perempuan yang pernah mengalami pelecehan seksual juga lebih cenderung mengatakan bahwa mereka takut?	csv/200-csv/2470.csv	38.0
+ns-46	525	berapa rata-rata lama tinggal di daerah berisiko tinggi?	csv/200-csv/525.csv	17.4
+ns-47	746	berapa proporsi perempuan di kelompok Asia Barat dibandingkan dengan dua populasi referensi yang sama?	csv/200-csv/746.csv	48.9
+ns-48	2745	berapa persentase anak perempuan usia 2 tahun yang diimunisasi rubella?	csv/200-csv/2745.csv	89,5
+ns-49	1135	berapa persentase imigran yang beragama islam?	csv/200-csv/1135.csv	18.3
+ns-50	1424	berapa persentase perusahaan-perusahaan tua yang memperhitungkan seluruh kehilangan pekerjaan kotor?	csv/200-csv/1424.csv	38.6
+ns-51	1621	daftarkan 3 jenis organisasi dan asosiasi teratas yang dilaporkan oleh perempuan senior dan persentasenya masing-masing.	csv/200-csv/1621.csv	kelompok senior|organisasi budaya, pendidikan, atau hobi|kelompok agama
+ns-52	1261	pada tahun 2007, berapa posisi kewajiban bersih per kapita yang dicatat oleh newfoundland?	csv/200-csv/1261.csv	13505.0
+ns-53	1472	di antara rumah tangga yang memiliki akses internet di rumah, berapa persentase rumah tangga yang memiliki kurang dari satu perangkat yang mendukung internet per anggota rumah tangga.	csv/200-csv/1472.csv	58.4
+ns-54	722	berapa tingkat pengeringan (bunga/daun) satu-satunya produk yang digunakan?	csv/200-csv/722.csv	45.2
+ns-55	1224	berapa banyak petugas polisi per 100.000 penduduk di kotamadya richmond di british columbia?	csv/200-csv/1224.csv	97.0
+ns-56	911	berapa persen perlambatan pertumbuhan mfp pada dua periode tersebut?	csv/200-csv/911.csv	4.3
+ns-57	1961	berapa persen perubahannya dari tahun sebelumnya pada tahun 2017?	csv/200-csv/1961.csv	2.0
+ns-58	1064	berapa banyak dari total penerimaan di Kanada yang masuk ke fasilitas perumahan lainnya.	csv/200-csv/1064.csv	6.0
+ns-59	1245	pada tahun 2016, berapa poin persentase kenaikan csi yang tercatat di ottawa?	csv/200-csv/1245.csv	10.0
+ns-60	902	berapa persen perubahan angka wirausaha mandiri pada periode 1989 hingga 1998 dalam komposisi kelompok umur?	csv/200-csv/902.csv	0,005
+ns-61	1781	selama masa studi enam tahun, berapa tingkat kekerasan seksual di ontario?	csv/200-csv/1781.csv	57.3
+ns-62	489	apakah prevalensi orang Kanada yang terpapar atau menggunakan produk laser lebih tinggi di Ontario atau di Quebec?	csv/200-csv/489.csv	Quebec
+ns-63	239	berapa usia rata-rata perempuan berdasarkan sensus 2006- survei rumah tangga nasional tahun 2011?	csv/200-csv/239.csv	30.5
+ns-64	2620	di sisi ekonomi, berapa persen imigran generasi kedua yang merasa bangga atau sangat bangga dengan pencapaian Kanada?	csv/200-csv/2620.csv	58
+ns-65	1104	berapa persentase kasus rata-rata setiap tahunnya yang menunjukkan perbedaan antara file t1ff dan t4 tidak lebih dari satu dolar antar sumber data?	csv/200-csv/1104.csv	94.808333
+ns-66	1091	berapa kali proporsi perempuan Kanada berusia 25 hingga 44 tahun yang memiliki gelar sarjana meningkat dari tahun 1997 hingga 2015?	csv/200-csv/1091.csv	2
+ns-67	2340	berapa persentase perempuan dan laki-laki yang bekerja di kelompok 90% terbawah yang masing-masing sudah menikah atau memiliki hubungan hukum adat?	csv/200-csv/2340.csv	59.5|59.9
+ns-68	1577	Berapa kali perempuan dengan disabilitas berat atau sangat berat lebih besar kemungkinannya dibandingkan perempuan dengan disabilitas ringan atau sedang untuk melaporkan kesulitan melakukan pemesanan, karena hal tersebut tidak diperbolehkan pada menit-menit terakhir?	csv/200-csv/1577.csv	2.243902
+ns-69	2797	di mana tentara cadangan melaporkan prevalensi kekerasan seksual yang lebih tinggi secara keseluruhan pada tahun 2018, di angkatan laut kerajaan Kanada atau di angkatan darat Kanada?	csv/200-csv/2797.csv	angkatan laut kerajaan Kanada
+ns-70	1243	dibandingkan dengan tahun 2015, berapa poin persentase penurunan indeks keparahan kejahatan (csi) di quebec pada tahun 2016?	csv/200-csv/1243.csv	3
+ns-71	2322	di daerah pedesaan, kelompok mana yang memiliki rata-rata paparan PM2.5 yang lebih rendah, kelompok rumah tangga berpendapatan rendah atau rumah tangga berpendapatan tinggi?	csv/200-csv/2322.csv	berpenghasilan rendah
+ns-72	906	berapa persen penurunan pertumbuhan produktivitas tenaga kerja setelah tahun 2000?	csv/200-csv/906.csv	0,7
+ns-73	1120	berapa persentase tumor kandung kemih yang menerima perawatan bedah di newfoundland dan labrador?	csv/200-csv/1120.csv	94.0
+ns-74	403	kelompok umur manakah yang memiliki prevalensi merokok harian terendah pada tahun 2012?	csv/200-csv/403.csv	65 atau lebih
+ns-75	639	berapa persen tingkat kepuasan perumahan yang lebih rendah di antara rumah tangga yang memiliki hipotek atas rumah terpisah milik mereka dibandingkan di antara mereka yang bebas hipotek dalam cmas?	csv/200-csv/639.csv	3
+ns-76	1900	pada tahun 2011, di antara perempuan berusia 25 hingga 64 tahun tanpa ijazah, diploma atau gelar, berapa tingkat pengangguran perempuan aborigin?	csv/200-csv/1900.csv	12.2
+ns-77	1999	Berapa peningkatan terbesar dalam CSI non-kekerasan yang terjadi di Calgary?, semua ini terutama disebabkan oleh peningkatan tingkat pembobolan dan pencurian sebesar $5.000 atau kurang.	csv/200-csv/1999.csv	36.0
+ns-78	1305	berapa persentase mereka yang memiliki rasio utang terhadap aset terendah akan melewatkan atau menunda pembayaran hipotek?	csv/200-csv/1305.csv	0,016
+ns-79	2745	berapa persentase anak laki-laki umur 2 tahun yang diimunisasi campak?	csv/200-csv/2745.csv	89.7
+ns-80	2541	pada tahun 2014/2015, berapa poin persentase hukuman percobaan yang dijatuhkan untuk kasus-kasus yang melibatkan tindak pidana pelecehan?	csv/200-csv/2541.csv	89.0
+ns-81	1854	mana yang memiliki perbedaan penilaian rata-rata lebih kecil di vancouver, kondominium, atau rumah semi-terpisah?	csv/200-csv/1854.csv	kondominium
+ns-82	2745	berapa persentase anak laki-laki usia 2 tahun yang diimunisasi terhadap infeksi meningokokus?	csv/200-csv/2745.csv	87.4
+ns-83	1250	dibandingkan dengan tahun 2015, berapa poin persentase yang dilaporkan saskatoon terhadap peningkatan pencurian kendaraan bermotor pada tahun 2016?	csv/200-csv/1250.csv	16.0
+ns-84	932	kasus terkait ganja mencakup lebih dari separuh kasus terkait narkoba yang diselesaikan di pengadilan pidana dewasa di setiap provinsi, kecuali British Columbia, berapa persentase kasus terkait narkoba yang diselesaikan yang melibatkan ganja di provinsi ini dari tahun 2008/2009 sampai tahun 2011/2012?	csv/200-csv/932.csv	32.2
+ns-85	2470	Hal yang sama juga terjadi pada mereka yang pernah mengalami pelecehan seksual: berapa persen perempuan yang dilaporkan merasa cemas?	csv/200-csv/2470.csv	40.2
+ns-86	913	berapa persen penurunan pertumbuhan mfp dari tahun 2000 hingga 2015?	csv/200-csv/913.csv	0,18
+ns-87	1934	apa hubungan ganda antara metis yang melaporkan gangguan mood dan/atau kecemasan dan mereka yang tidak?	csv/200-csv/1934.csv	3
+ns-88	1391	berapa tahun perkiraan ex post untuk aset berumur panjang?	csv/200-csv/1391.csv	29.4
+ns-89	122	berapa poin persentase pertumbuhan PDB industri budaya di new brunswick pada tahun 2014?	csv/200-csv/122.csv	0,9
+ns-90	85	di bagian timur ontario, berapa banyak pekerja yang termasuk dalam kelompok minoritas berbahasa perancis?	csv/200-csv/85.csv	1980
+ns-91	2709	buatlah daftar hasil perilaku dalam tabel.	csv/200-csv/2709.csv	masalah perilaku total|melakukan masalah|emosi/kecemasan|hiperaktif|perilaku prososial yang rendah|masalah teman sebaya
+ns-92	2778	berapa persentase kasus percobaan pembunuhan yang ditunda/ditarik?	csv/200-csv/2778.csv	65.0
+ns-93	2593	berapa persen hukuman penjara yang dijatuhkan selama satu bulan atau kurang untuk kasus non-IPV?	csv/200-csv/2593.csv	44.0
+ns-94	464	berapa banyak orang yang melaporkan perasaan negatif tentang interaksi mereka dengan orang lain karena kondisi mereka?	csv/200-csv/464.csv	39.3
+ns-95	1479	berapa persentase pendidikan perguruan tinggi yang dikaitkan dengan pendapatan rata-rata per tahun bagi kaum muda yang masing-masing berasal dari keluarga di kuintil pendapatan terbawah dan kuintil pendapatan teratas?	csv/200-csv/1479.csv	140.3|16.3
+ns-96	1973	berapa persen perubahan CSI pemuda non-kekerasan dari tahun sebelumnya pada tahun 2017?	csv/200-csv/1973.csv	-4.0
+ns-97	744	Dari semua korban kejahatan kekerasan yang menyasar penduduk Muslim yang dilaporkan ke polisi, berapa persentase perempuan atau anak perempuan?	csv/200-csv/744.csv	45.0
+ns-98	1863	berapa kisaran upah dan gaji yang diperoleh di alberta akuntansi di pulau pangeran edward, nova scotia, new brunswick, manitoba, dan wilayah barat laut?	csv/200-csv/1863.csv	30.6|45.3
+ns-99	2203	hak asuh berarti tingkat penahanan orang dewasa sebesar 136 orang dewasa per 100.000 populasi orang dewasa, berapa persentase penurunannya dari tahun 2015/2016?	csv/200-csv/2203.csv	2
+ns-100	1250	dibandingkan dengan tahun 2015, berapa poin persentase yang dilaporkan edmonton terhadap peningkatan pencurian kendaraan bermotor pada tahun 2016?	csv/200-csv/1250.csv	10.0
+ns-101	923	berapa persentase pria di quebec yang mengalami pelecehan seksual dalam 12 bulan terakhir tahun 2018?	csv/200-csv/923.csv	0,5
+ns-102	2745	berapa persentase anak perempuan berusia 7 tahun yang mendapatkan imunisasi tetanus terkini?	csv/200-csv/2745.csv	70.6
+ns-103	1243	dua tempat manakah yang melaporkan krisis non-kekerasan terendah?	csv/200-csv/1243.csv	Quebec|ontario
+ns-104	288	berapa penghasilan wanita yang memiliki gelar master di bidang bisnis dan studi terkait dibandingkan wanita yang memiliki gelar sarjana di bidang yang sama?	csv/200-csv/288.csv	27.9
+ns-105	2351	berapa persentase kejadian kejahatan dengan kekerasan yang diklasifikasikan sebagai tidak berdasar?	csv/200-csv/2351.csv	12.2
+ns-106	2214	berapa persen penerimaan pemuda aborigin yang masuk ke lembaga pemasyarakatan pada tahun 2016/2017?	csv/200-csv/2214.csv	46.0
+ns-107	1555	berapa persen orang di nova scotia menggunakan radio?	csv/200-csv/1555.csv	55.0
+ns-108	2115	berapa persentase kejahatan dengan kekerasan yang diwakili oleh tingkat penyerangan umum yang dilaporkan oleh polisi yang melayani mayoritas penduduk non-pribumi?	csv/200-csv/2115.csv	0,39064
+ns-109	2802	berapa kali persentase anggota perempuan dibandingkan laki-laki yang dilaporkan menjadi sasaran perilaku diskriminasi total.	csv/200-csv/2802.csv	5
+ns-110	2661	pada tahun 2014, berapa persen penduduk Kanada yang berusia 25 tahun atau lebih, yaitu 1,3 juta orang, yang melaporkan satu atau lebih dari tiga kondisi mup?	csv/200-csv/2661.csv	5.5
+ns-111	2542	berapa poin persentase laki-laki di antara terdakwa di pengadilan pidana dewasa?	csv/200-csv/2542.csv	80.0
+ns-112	1250	berapakah tingkat pembunuhan per 100.000 penduduk yang tercatat di Thunder Bay pada tahun 2016?	csv/200-csv/1250.csv	6.64
+ns-113	134	Sehubungan dengan keseluruhan kontribusi dampak perusahaan terhadap kesenjangan pendapatan berdasarkan gender, berapa persentase kesenjangan yang disebabkan oleh bagian pendapatan yang spesifik pada perusahaan tersebut?	csv/200-csv/134.csv	0,228
+ns-114	906	berapa persen pertumbuhan mfp per tahun pada periode 1980 sampai 2000?	csv/200-csv/906.csv	0,4
+ns-115	918	di kalangan perempuan, berapa persentase mereka yang tidak mengetahui hubungan pelaku dengan mereka dalam 12 bulan terakhir tahun 2018?	csv/200-csv/918.csv	27.9
+ns-116	1555	berapa proporsi penduduk Quebec yang menonton berita dan kejadian terkini di televisi?	csv/200-csv/1555.csv	82.0
+ns-117	439	berapa jumlah penduduk berlatar belakang imigran yang menunjukkan rasa memiliki yang kuat terhadap Kanada?	csv/200-csv/439.csv	94.0
+ns-118	1600	berapa penghasilan rata-rata dolar per jam yang diperoleh karyawan aborigin yang bekerja penuh waktu?	csv/200-csv/1600.csv	26.0
+ns-119	343	berapa persentase pasangan atau pasangan intim lainnya di antara korban perempuan yang dituduh melakukan penyerangan tingkat 3 (penyerangan dengan senjata) pada tahun 2015?	csv/200-csv/343.csv	51.1
+ns-120	740	berapa persentase penduduk kanada yang dilaporkan berafiliasi dengan agama kristen?	csv/200-csv/740.csv	67.3
+ns-121	1334	pada tahun 2011, berapa persentase anak non-aborigin berusia 14 tahun ke bawah yang tinggal dalam keluarga dengan empat anak atau lebih dalam kelompok usia yang sama?	csv/200-csv/1334.csv	6.7
+ns-122	329	CD mana yang memiliki tingkat migrasi intraprovinsi terendah di Kanada?	csv/200-csv/329.csv	divisi no. 16
+ns-123	945	berapa persentase penurunan hasil yang menunjukkan bahwa akses terhadap oas/gis mengurangi tingkat pendapatan rendah di antara semua imigran senior yang berusia di atas 65 tahun setelah dilakukan pengendalian terhadap variabel sosial ekonomi dan demografi pada tahun 2016?	csv/200-csv/945.csv	0,043
+ns-124	2327	berapa persentase total responden yang melaporkan bahwa perilaku online mereka yang tidak diinginkan adalah seseorang memublikasikan atau mengancam akan memublikasikan gambar intim atau seksual eksplisit tanpa persetujuan mereka?	csv/200-csv/2327.csv	2.0
+ns-125	2449	berapa persentase kelompok minoritas yang terlihat dan tidak terlihat yang masing-masing dipekerjakan selama pse mereka?	csv/200-csv/2449.csv	71.6|83.7
+ns-126	1410	berapa banyak orang dewasa per 100.000 penduduk dewasa di nova scotia?	csv/200-csv/1410.csv	62.0
+ns-127	85	pada tahun 2011, berapa persen pekerja di sektor pertanian ontario yang berasal dari ontario utara?	csv/200-csv/85.csv	0,032186
+ns-128	1173	berapa penurunan penerimaan pengawasan komunitas dari tahun 2016/2017 di tingkat federal?	csv/200-csv/1173.csv	5
+ns-129	2448	berapa persentase lulusan laki-laki yang mempunyai pekerjaan selama pendidikan pasca-sekolah menengah dan perempuan yang mempunyai pekerjaan?	csv/200-csv/2448.csv	84|78.1
+ns-130	1562	berapa persentase nilai agregat pendapatan oas pelapor pajak awal di t1 hpmf yang ditangkap oleh t1 pmf?	csv/200-csv/1562.csv	100,0
+ns-131	1234	berapa persentase pelanggar yang melakukan kontak ulang ketika pelanggaran rj pertama adalah kejahatan properti?	csv/200-csv/1234.csv	15.0
+ns-132	1124	pada tahun 2014, berapa persentase kejadian pelanggaran terhadap administrasi peradilan dari seluruh pelanggaran hukum pidana (tidak termasuk lalu lintas) yang dilaporkan oleh polisi?	csv/200-csv/1124.csv	0,095918
+ns-133	2200	berapa nilai rata-rata tes melek huruf di Kanada, dimana pekerja mendapat nilai rata-rata?	csv/200-csv/2200.csv	278.3
+ns-134	1521	berapa persentase laki-laki gay yang dilaporkan berhubungan seks dengan lebih dari satu pasangan?	csv/200-csv/1521.csv	67.4
+ns-135	1179	berapa perubahan total penerimaan di wilayah barat laut dari tahun 2016/2017?	csv/200-csv/1179.csv	32.0
+ns-136	1120	berapa tingkat tumor kandung kemih yang menerima perawatan bedah?	csv/200-csv/1120.csv	91.0
+ns-137	215	Perusahaan mana yang kecil kemungkinannya untuk mengimpor dari wilayah yang bukan merupakan wilayah asal pemiliknya, perusahaan milik imigran, atau milik Kanada?	csv/200-csv/215.csv	milik imigran di t-1
+ns-138	1334	pada tahun 2011, berapa persentase anak-anak Aborigin berusia 14 tahun ke bawah yang tinggal dalam sebuah keluarga dengan empat anak atau lebih dalam kelompok usia yang sama?	csv/200-csv/1334.csv	16.6
+ns-139	2237	bagi mereka yang menyelesaikan program peningkatan atau kesetaraan sekolah menengah atas tetapi tidak memperoleh kualifikasi pasca sekolah menengah, berapa peluang untuk mendapatkan pekerjaan?	csv/200-csv/2237.csv	0,58
+ns-140	632	berapa angka kematian pada laki-laki dan perempuan pada akhir masa tindak lanjut (31 Desember 2006)?	csv/200-csv/632.csv	16|12
+ns-141	19	untuk lahan pertanian yang dioperasikan oleh perempuan, berapa persentase total lahan pertanian yang dimiliki oleh operator pertanian yang dipinjam?	csv/200-csv/19.csv	71.3
+ns-142	239	berapa persentase perempuan wiraswasta yang tergabung dalam data sensus 2006 secara lengkap?	csv/200-csv/239.csv	1.6
+ns-143	1502	berapa tingkat PTB di kalangan ibu di Amerika Tengah, yang didorong oleh Ontario?	csv/200-csv/1502.csv	0,88
+ns-144	121	berapa persentase pekerjaan olahraga di pulau pangeran edward pada tahun 2014?	csv/200-csv/121.csv	1.1
+ns-145	2348	berapa jumlah median tingkat aset yang dimiliki oleh keluarga lanjut usia yang mempunyai utang pada tahun 2016?	csv/200-csv/2348.csv	607400.0
+ns-146	1110	provinsi manakah yang mengalami penurunan terbesar kedua?	csv/200-csv/1110.csv	saskatchewan
+ns-147	2017	Patut dicatat juga bahwa tinggal di rumah tangga yang berpartisipasi dalam kegiatan perencanaan darurat dalam jumlah sedang atau tinggi paling banyak terjadi pada kelompok usia termuda, yaitu mereka yang berusia 15 hingga 24 tahun pada tahun 2014, berapa persentasenya?	csv/200-csv/2017.csv	52.0
+ns-148	2310	berapa median pendapatan kerja perempuan pemegang ijazah perguruan tinggi di bidang bisnis, manajemen, pemasaran dan layanan dukungan terkait?	csv/200-csv/2310.csv	43645.0
+ns-149	1875	jenis wanita manakah yang memiliki peluang lebih rendah untuk mendapatkan kesehatan mental yang utuh pada model yang tidak disesuaikan, wanita biseksual atau wanita heteroseksual?	csv/200-csv/1875.csv	biseksual
+ns-150	1005	di antara perempuan imigran kulit hitam, wilayah kelahiran manakah yang memiliki tingkat pekerjaan lebih tinggi? wanita yang lahir di Karibia atau di Amerika Latin untuk wanita yang lahir di Afrika?	csv/200-csv/1005.csv	Karibia dan Amerika Latin
+ns-151	360	dari total pengeluaran operasional Kanada dalam dolar saat ini, berapa persentase pengeluaran yang terkait dengan layanan kepolisian kota yang berdiri sendiri pada tahun 2016/2017?	csv/200-csv/360.csv	0,527331
+ns-152	122	berapa poin persentase pertumbuhan PDB industri budaya di pulau pangeran edward pada tahun 2013?	csv/200-csv/122.csv	1.0
+ns-153	1585	"berapa persentase pemuda berusia 15 tahun ke atas yang bekerja paruh waktu karena alasan ""preferensi pribadi""?"	csv/200-csv/1585.csv	28.0
+ns-154	604	berapa pengeluaran rata-rata yang dibelanjakan pembeli online yang membeli layanan peer-to-peer untuk layanan transportasi?	csv/200-csv/604.csv	341
+ns-155	1999	berapa persentase kenaikan csi yang juga tercatat di victoria pada tahun 2015?	csv/200-csv/1999.csv	16.0
+ns-156	957	rata-rata pada tahun 2018/2019, berapa jumlah belanja jasa kustodian per hari per pelaku provinsi/teritorial?	csv/200-csv/957.csv	259.0
+ns-157	1521	berapa persentase orang berusia 20-24 tahun yang dilaporkan melakukan hubungan seks dalam 12 bulan terakhir?	csv/200-csv/1521.csv	71.5
+ns-158	1056	di kalangan minoritas seksual, berapa persen orang biseksual Kanada yang melaporkan bahwa mereka didiagnosis menderita gangguan mood atau kecemasan?	csv/200-csv/1056.csv	50.8
+ns-159	1863	negara manakah yang merupakan tiga sumber pendapatan antarprovinsi terbesar bagi penduduk nunavut?	csv/200-csv/1863.csv	wilayah barat laut|ontario|Quebec
+ns-160	343	berapa persentase pemerasan dalam kejahatan kekerasan yang dilakukan oleh perempuan terhadap orang asing pada tahun 2015?	csv/200-csv/343.csv	23.4
+ns-161	632	berapa usia rata-rata anggota kelompok negara pertama yang terdaftar untuk laki-laki dan perempuan?	csv/200-csv/632.csv	40.3 (sd 12.9|39.7 (sd 12.6
+ns-162	464	dari mereka yang tidak bekerja, berapa banyak yang mengalami perubahan akibat kondisi tersebut?	csv/200-csv/464.csv	27
+ns-163	2012	di cmas masyarakat halifax memiliki radio yang dioperasikan dengan angin atau baterai di rumahnya, berapa persentasenya?	csv/200-csv/2012.csv	76.0
+ns-164	1301	karakteristik kelompok perempuan manakah yang kurang terwakili di antara semua karakteristik tersebut?	csv/200-csv/1301.csv	tidak menikah atau mertua|penganggur
+ns-165	906	berapa persen dampak komposisi tenaga kerja dari tahun 1980 hingga 2000?	csv/200-csv/906.csv	0,4
+ns-166	57	pertanian di kawasan pertanian mana yang lebih cenderung menggunakan akses internet berkecepatan tinggi, dibandingkan dengan semua pertanian di New Brunswick?	csv/200-csv/57.csv	peternakan yang memiliki akses internet berkecepatan tinggi
+ns-167	122	berapa poin persentase peningkatan PDB industri budaya di british columbia pada tahun 2014?	csv/200-csv/122.csv	4.2
+ns-168	363	kelompok mana yang memiliki kemungkinan lebih rendah untuk hidup sampai usia 75 tahun, suku Metis atau non-pribumi pada tahun 2011?	csv/200-csv/363.csv	metis
+ns-169	2730	berapa persentase pengguna NMO yang memiliki keinginan atau dorongan kuat untuk menggunakan ganja dan pengguna sdmnm?	csv/200-csv/2730.csv	14.1|22.8
+ns-170	1901	berapa persen laki-laki aborigin lebih besar kemungkinannya untuk bekerja di bidang penjualan dan jasa?	csv/200-csv/1901.csv	19.8
+ns-171	2305	berapa tingkat pengangguran perempuan muda imigrasi dengan gelar non-stem?	csv/200-csv/2305.csv	10.2
+ns-172	525	berapa hari rata-rata lama rawat inap untuk semua pasien rawat inap yang berhubungan dengan TBC?	csv/200-csv/525.csv	14.0
+ns-173	694	kelompok masyarakat manakah yang cenderung menilai kinerja polisi lebih rendah? mereka yang menjadi korban kejahatan dalam 12 bulan sebelumnya atau bukan korban?	csv/200-csv/694.csv	korban kejahatan
+ns-174	2470	berapa persen perempuan yang mengalami pelecehan seksual dilaporkan menghindari bangunan tertentu di sekolah?	csv/200-csv/2470.csv	17.6
+ns-175	1568	berapakah perbedaan antara persentil ke-99,9 dari total pendapatan pada tahun 2010?	csv/200-csv/1568.csv	7850
+ns-176	749	berapa persentase populasi perempuan minoritas Tionghoa terbesar kedua di Alberta?	csv/200-csv/749.csv	20.8
+ns-177	918	berapa persentase perempuan yang menyatakan pelakunya adalah orang asing dalam 12 bulan terakhir tahun 2018?	csv/200-csv/918.csv	31.1
+ns-178	2366	bagi perempuan, siapakah yang memiliki masa bertahan hidup lebih pendek, partisipan rendah, atau partisipan tinggi?	csv/200-csv/2366.csv	partisipasi rendah
+ns-179	6	berapa poin persentase kontribusi total minuman terhadap asupan energi harian lebih rendah pada tahun 2015 dibandingkan tahun 2004?	csv/200-csv/6.csv	4.5
+ns-180	2454	berapa persentase lulusan yang menganggap pekerjaannya selama pse berguna untuk mendapatkan pekerjaan karir pertamanya yang memiliki pekerjaan selama pse yang terkait dengan bidang studinya?	csv/200-csv/2454.csv	79.4
+ns-181	464	berapa banyak penghuni rumah tangga penderita epilepsi yang tidak mempunyai pekerjaan?	csv/200-csv/464.csv	40.3
+ns-182	1261	pada tahun 2008, tempat manakah yang mencatat posisi kewajiban bersih tertinggi?	csv/200-csv/1261.csv	Quebec
+ns-183	459	pada tahun 2018, berapa proporsi anggota pasukan reguler yang setuju bahwa perilaku seksual yang tidak pantas tidak ditoleransi di unit mereka saat ini?	csv/200-csv/459.csv	94
+ns-184	1960	berapa tingkat pembunuhan pasangan intim yang dilaporkan masing-masing pada tahun 2016 dan 2015?	csv/200-csv/1960.csv	0,24|0,28
+ns-185	1065	berapa persen perempuan yang berada di tempat penampungan pada saat pengambilan gambar menyebutkan ancaman sebagai salah satu alasan mereka mencari perlindungan?	csv/200-csv/1065.csv	36.0
+ns-186	1305	berapa persentase keluarga dengan rasio utang terhadap aset di atas 0,5 akan melewatkan pembayaran non-hipotek?	csv/200-csv/1305.csv	0,128
+ns-187	354	berapa persentase orang yang terpapar asap rokok secara tidak langsung melalui perokok pasif yang pernah mengalami tinitus dari tahun 2012 hingga 2015 di Kanada?	csv/200-csv/354.csv	43.2
+ns-188	1243	dibandingkan dengan tahun 2015, berapa poin persentase penurunan indeks keparahan kejahatan (csi) alberta pada tahun 2016?	csv/200-csv/1243.csv	1
+ns-189	2327	berapa persentase perempuan yang menjadi sasaran setidaknya salah satu perilaku online yang tidak diinginkan yang diukur dengan sspps?	csv/200-csv/2327.csv	24.0
+ns-190	2578	berapa persentase poin yang diperoleh laki-laki yang lulus dalam waktu lima tahun di antara mereka yang tetap bertahan pada bidang studi awal mereka?	csv/200-csv/2578.csv	78.7
+ns-191	1901	berapa proporsi perempuan Metis yang melaporkan pekerjaan manajemen?	csv/200-csv/1901.csv	7.6
+ns-192	363	berapa poin persentase yang lebih rendah pada kemungkinan hidup sampai usia 75 tahun bagi perempuan di antara populasi rumah tangga negara pertama dibandingkan dengan populasi rumah tangga non-pribumi pada tahun 2011?	csv/200-csv/363.csv	17.9
+ns-193	284	Secara keseluruhan, berapa proporsi perbedaan sebesar 21,9 poin persentase yang dapat dijelaskan oleh perbedaan karakteristik sosial ekonomi pada tahun 1999?	csv/200-csv/284.csv	0,136
+ns-194	2464	berapa persen perempuan yang mengindikasikan bahwa laki-laki adalah pelaku dalam semua kasus kekerasan seksual yang mereka alami di lingkungan pascasekolah menengah?	csv/200-csv/2464.csv	89.9
+ns-195	1521	berapa persentase orang berusia 18-19 tahun yang dilaporkan melakukan hubungan seks dalam 12 bulan terakhir?	csv/200-csv/1521.csv	52.4
+ns-196	1002	berapa persen perempuan imigran kulit hitam berusia 25 hingga 59 tahun pada tahun 2016 adalah orang tua tunggal?	csv/200-csv/1002.csv	29.2
+ns-197	525	berapa hari rata-rata lamanya rata-rata pada kelompok imigran baru dari tahun 2001 hingga 2013?	csv/200-csv/525.csv	11.0
+ns-198	2316	berapa persentase pria berusia 55 tahun ke atas di antara pengemudi truk pengangkut pada tahun 2016?	csv/200-csv/2316.csv	31.4
+ns-199	1120	sebutkan provinsi di mana 88% tumor kandung kemih menerima perawatan bedah.	csv/200-csv/1120.csv	ontario|manitoba|yukon
+ns-200	1241	dibandingkan tahun 2015, berapa persentase peningkatan csi kanada pada tahun 2016?	csv/200-csv/1241.csv	1.0
+ns-201	983	berapa persentase laki-laki yang pernah mengalami pelecehan karena merasa tidak puas dengan pekerjaannya saat ini?	csv/200-csv/983.csv	13.7
+ns-202	987	apa hubungan ganda antara pemuda kulit hitam dan pemuda lain yang tinggal di kuintil pendapatan keluarga terbawah?	csv/200-csv/987.csv	1.85
+ns-203	2419	apa perubahan kejahatan properti di alberta dan pelanggaran hukum pidana lainnya di newfoundland dan labrador dan new brunswick dari tahun 2009 hingga 2017?	csv/200-csv/2419.csv	13.0|37.0|14.0
+ns-204	2237	di antara laki-laki masyarakat adat yang tidak memiliki kualifikasi pasca sekolah menengah, berapa peluang untuk mendapatkan pekerjaan berdasarkan kelulusan atau peningkatan sekolah menengah atas?	csv/200-csv/2237.csv	0,65
+ns-205	1853	seberapa besar peningkatan partisipasi laki-laki jika semua faktor ini dipertahankan secara konstan?	csv/200-csv/1853.csv	6.9
+ns-206	1224	berapa jumlah petugas polisi per 100,000 penduduk di richelieu saint-laurent,quebec?	csv/200-csv/1224.csv	105.0
+ns-207	934	berapa persentase kasus terkait penyediaan obat lain yang menghasilkan putusan bersalah dari tahun 2008/2009 hingga 2011/2012?	csv/200-csv/934.csv	61.0
+ns-208	2631	wilayah mana yang kurang menguntungkan dalam penilaian mereka terhadap polisi setempat.	csv/200-csv/2631.csv	vancouver|winnipeg
+ns-209	780	berapakah tingkat hop yang distandardisasi usia lebih rendah di antara kelompok minoritas yang terlihat atau di antara orang-orang yang bukan anggota kelompok minoritas yang terlihat?	csv/200-csv/780.csv	minoritas yang terlihat
+ns-210	1257	berapa persentase orang yang meninggal yang dirawat di rumah sakit pada tahun terakhir hidupnya yang menerima konsultasi pc rawat inap di nova scotia?	csv/200-csv/1257.csv	30.6
+ns-211	2682	kelompok usia manakah yang lebih cenderung menyebut waktu sebagai hambatan untuk tidak mengumpulkan tanaman atau buah liar, orang dewasa inti usia kerja, atau orang dewasa yang lebih tua?	csv/200-csv/2682.csv	25 hingga 54 tahun
+ns-212	2802	berapa persentase individu yang menunjukkan bahwa mereka secara pribadi menjadi sasaran setidaknya satu perilaku seksual atau diskriminatif?	csv/200-csv/2802.csv	17.0
+ns-213	2661	tingkat pendidikan manakah yang lebih mungkin mengalami sindrom kelelahan kronis, individu yang tidak lulus sekolah menengah atau mereka yang memiliki ijazah atau gelar pasca sekolah menengah?	csv/200-csv/2661.csv	kurang dari kelulusan pasca sekolah menengah
+ns-214	175	berapa persen penurunan agregat teknologi dari tahun 2003 hingga 2009?	csv/200-csv/175.csv	7
+ns-215	2342	berapa persentase perempuan yang termasuk dalam 1% teratas yang belajar di bidang bisnis, manajemen dan administrasi publik dan rekan-rekan mereka?	csv/200-csv/2342.csv	28.5|35.8
+ns-216	953	berapa jumlah orang dewasa yang berada dalam tahanan federal pada tahun 2018/2019?	csv/200-csv/953.csv	47.0
+ns-217	311	di antara laki-laki kulit hitam, yang tingkat partisipasinya lebih tinggi, laki-laki imigran atau rekan mereka yang lahir di Kanada?	csv/200-csv/311.csv	imigran
+ns-218	464	berapa banyak orang yang merasa tersisih dalam berinteraksi dengan orang lain?	csv/200-csv/464.csv	18.7
+ns-219	2533	lingkungan fisik mana yang memiliki proporsi orang yang melaporkan kesehatan mental sedang atau buruk yang lebih tinggi?	csv/200-csv/2533.csv	rumah yang membutuhkan perbaikan besar
+ns-220	1955	berapa persentase yang terkait dengan geng di saskatchewan masing-masing pada tahun 2016 dan 2015?	csv/200-csv/1955.csv	24.5|11.4
+ns-221	118	berapa persentase pertumbuhan PDB budaya saskatchewan pada tahun 2014?	csv/200-csv/118.csv	3.3
+ns-222	1225	berapa proporsi perwira yang memenuhi syarat untuk pensiun di pulau pangeran edward?	csv/200-csv/1225.csv	18.0
+ns-223	1193	berapa persentase ibu tunggal berusia 18 hingga 64 tahun yang memiliki tempat tinggal yang layak?	csv/200-csv/1193.csv	91.4
+ns-224	2045	berapa persen kesenjangan partisipasi dalam bidang pernapasan yang dapat menjelaskan perbedaan dalam kemampuan melek huruf?	csv/200-csv/2045.csv	5.5
+ns-225	746	pada tahun 2011, Asia Selatan merupakan kelompok minoritas terbesar yang terlihat di antara perempuan dan laki-laki untuk pertama kalinya, berapa persentase minoritas laki-laki yang terlihat?	csv/200-csv/746.csv	26.0
+ns-226	119	berapa persen kenaikan PDB olahraga di Quebec pada tahun 2014?	csv/200-csv/119.csv	3.1
+ns-227	2465	berapa persen dari mereka yang mengalami kontak fisik atau menyarankan hubungan seksual mengatakan hal tersebut?	csv/200-csv/2465.csv	65.3
+ns-228	1028	pada tahun 2013/2014, berapa banyak pelanggar dewasa yang berada dalam tahanan federal?	csv/200-csv/1028.csv	15141
+ns-229	1065	pada tanggal tersebut, berapa banyak perempuan yang mengindikasikan perdagangan manusia sebagai alasan untuk mencari perlindungan?	csv/200-csv/1065.csv	67.0
+ns-230	750	berapa bagian dari total populasi perempuan yang tinggal di cma montreal?	csv/200-csv/750.csv	11.5
+ns-231	932	Di antara provinsi-provinsi tersebut, berapa proporsi kasus terkait narkoba yang melibatkan ganja yang diselesaikan di pengadilan pidana dewasa di Nova Scotia dari tahun 2008/2009 hingga 2011/2012?	csv/200-csv/932.csv	65.5
+ns-232	2682	kelompok umur manakah yang lebih mungkin menyebutkan hambatan waktu karena alasan tidak pernah berburu, menangkap ikan atau terjebak, orang dewasa usia kerja atau orang dewasa yang lebih tua?	csv/200-csv/2682.csv	25 hingga 54 tahun
+ns-233	2374	berapa persentase mereka yang lajang pada tahun 2016?	csv/200-csv/2374.csv	17.1
+ns-234	1670	ketika faktor-faktor lain diperhitungkan dalam model multivariat, berapakah prediksi kemungkinan menjadi bilingual dalam bahasa Inggris dan Perancis pada tahun 2016 lebih tinggi untuk anak-anak dan remaja yang menggunakan bahasa Inggris sebagai bahasa ibu?	csv/200-csv/1670.csv	0,61
+ns-235	1250	dibandingkan dengan tahun 2015, berapa poin persentase peningkatan tingkat perampokan di moncton pada tahun 2016?	csv/200-csv/1250.csv	62.0
+ns-236	1781	selama periode penelitian enam tahun, berapa tingkat kekerasan seksual yang paling rendah di pulau pangeran edward?	csv/200-csv/1781.csv	48.3
+ns-237	958	pada tahun 2018/2019, berapa tingkat penahanan remaja di nunavut?	csv/200-csv/958.csv	11.0
+ns-238	928	di antara masyarakat cmas, berapa tingkat kelowna yang melaporkan pelanggaran terkait ganja?	csv/200-csv/928.csv	563.0
+ns-239	1225	menurut laporan polisi, berapa persentase petugas yang meninggalkan dinas untuk pensiun pada tahun 2015/2016?	csv/200-csv/1225.csv	69.0
+ns-240	2713	berapa persentase tumor yang secara probabilistik terkait dengan hin di masing-masing registrasi asuransi kesehatan untuk ontario dan manitoba?	csv/200-csv/2713.csv	97.9|95.8
+ns-241	889	pada tahun 2018, berapa revisi PDB nominal yang sebagian besar disebabkan oleh peningkatan pengeluaran konsumsi akhir rumah tangga dan peningkatan pembentukan modal tetap bruto pemerintah?	csv/200-csv/889.csv	4.8
+ns-242	2342	berapa persentase perempuan pekerja yang termasuk dalam 1% teratas yang memperoleh gelar sarjana atau lebih tinggi pada tahun 2015.	csv/200-csv/2342.csv	74.2
+ns-243	1141	berdasarkan jenis kelamin orang tua, jenis orang tua manakah yang memiliki perbedaan relatif terbesar antara kedua definisi tersebut?	csv/200-csv/1141.csv	orang tua tunggal laki-laki
+ns-244	2464	berapa proporsi perempuan yang mengalami pelecehan seksual yang bervariasi dari satu kejadian ke kejadian lainnya?	csv/200-csv/2464.csv	9.2
+ns-245	1521	berapa persentase anak usia 15 hingga 24 tahun di Kanada yang dilaporkan melakukan hubungan seksual (vaginal atau anal) dalam 12 bulan terakhir?	csv/200-csv/1521.csv	54.1
+ns-246	923	berapa persentase perempuan di quebec yang mengalami pelecehan seksual dalam 12 bulan terakhir tahun 2018?	csv/200-csv/923.csv	2.1
+ns-247	1261	antara tahun 2007 dan 2012, berapa persentase poin posisi kewajiban bersih per kapita yang meningkat di pulau pangeran edward?	csv/200-csv/1261.csv	0,345773
+ns-248	2765	berapa tingkat viktimisasi kekerasan pada orang-orang yang dilaporkan tidak terlibat dalam pesta minuman keras?	csv/200-csv/2765.csv	147.0
+ns-249	485	Dengan asumsi bahwa pola penerimaan bantuan sosial sama antara pemohon yang terkait dan tidak terkait, berapakah persentase minimum jumlah tahunan yang dibayarkan kepada pemohon pengungsi dari total pengeluaran bantuan sosial?	csv/200-csv/485.csv	2.7
+ns-250	2530	berapa proporsi penduduk perempuan di negara pertama yang menderita radang sendi pada tahun 2012?	csv/200-csv/2530.csv	23.0
+ns-251	2433	berapakah perbedaan jumlah pendapatan antara laki-laki dengan kesehatan umum yang buruk dan laki-laki dengan kesehatan umum baik hingga sangat baik?	csv/200-csv/2433.csv	-11800.0
+ns-252	1177	berapa penurunan jumlah remaja yang diawasi di lembaga pemasyarakatan di semua yurisdiksi di alberta dari tahun 2016/2017?	csv/200-csv/1177.csv	11
+ns-253	2682	kelompok negara pertama yang tidak dilindungi cadangan manakah yang lebih mungkin menghadapi keterbatasan waktu dalam berburu, menangkap ikan atau memasang perangkap, mempekerjakan atau tidak memiliki angkatan kerja?	csv/200-csv/2682.csv	dipekerjakan
+ns-254	2620	berapa persen non-imigran yang bangga dengan pencapaian ekonomi Kanada?	csv/200-csv/2620.csv	49
+ns-255	1294	berapa persentase non-relawan yang menyatakan kurangnya minat menjadi sukarelawan pada tahun 2013?	csv/200-csv/1294.csv	29.0
+ns-256	750	berapa persentase penduduk perempuan di cma vancouver?	csv/200-csv/750.csv	7.0
+ns-257	2682	kelompok usia manakah yang lebih mungkin menyebutkan hambatan waktu karena alasan tidak berburu, menangkap ikan, atau terjebak, remaja dan dewasa muda, atau dewasa tua?	csv/200-csv/2682.csv	15 hingga 24 tahun
+ns-258	2736	berapa persentase remaja yang memenuhi ketiga rekomendasi tersebut?	csv/200-csv/2736.csv	5.5
+ns-259	239	berapa persentase perempuan wiraswasta yang tidak mempunyai hubungan kerja berdasarkan data sensus tahun 2006?	csv/200-csv/239.csv	5.0
+ns-260	2085	berapa poin persentase penurunan tingkat pertumbuhan tahunan PDB nominal setelah revisi tahun 2015?	csv/200-csv/2085.csv	0,46
+ns-261	746	berapa proporsi perempuan di kelompok arab dibandingkan dengan dua populasi referensi yang sama?	csv/200-csv/746.csv	46.5
+ns-262	1242	dibandingkan tahun sebelumnya, berapa jumlah insiden kekerasan yang dilaporkan polisi pada tahun 2016?	csv/200-csv/1242.csv	521
+ns-263	2093	berapa poin persentase perempuan yang tinggal bersama pasangan biasa yang dimiliki trois-rivieres pada tahun 2011?	csv/200-csv/2093.csv	23.6
+ns-264	369	berapa nilai rata-rata penghasilan kena pajak, dengan syarat nilai-nilai tersebut benar-benar positif?	csv/200-csv/369.csv	39550.0
+ns-265	310	berapa proporsi perempuan bekerja yang berusia 55 tahun ke atas?	csv/200-csv/310.csv	13.5
+ns-266	949	dibandingkan dengan jumlah imigran yang tingkat keterampilannya relatif rendah (imigran dengan pendidikan rendah) dan jumlah imigran yang tingkat keterampilannya relatif tinggi, manakah yang jauh lebih tinggi?	csv/200-csv/949.csv	persentase imigran dengan pendidikan rendah
+ns-267	2603	berapa persen dari keseluruhan kontribusi asing terhadap MFP Kanada yang meningkat selama periode 2000 hingga 2007?	csv/200-csv/2603.csv	67
+ns-268	2714	berapa kisaran persentase kanker prostat berdasarkan catatan ayah yang diserahkan oleh institusi perawatan akut?	csv/200-csv/2714.csv	58.1|65.4
+ns-269	2322	berapa perbedaan rata-rata paparan pm2.5 antara imigran dan non-imigran, di antara penduduk inti perkotaan?	csv/200-csv/2322.csv	0,82
+ns-270	106	di wilayah pertanian alberta 7, pengaturan operasi mana yang memiliki proporsi lebih besar, kepemilikan perseorangan atau provinsi secara keseluruhan?	csv/200-csv/106.csv	kepemilikan tunggal
+ns-271	1085	berapa persen lowongan pekerjaan yang memerlukan gelar sarjana merupakan lowongan kerja jangka panjang?	csv/200-csv/1085.csv	15.2
+ns-272	1234	berapa persentase remaja yang pernah kontak ulang dengan rj, jarak antara kedua proses tersebut lebih dari satu tahun?	csv/200-csv/1234.csv	51.0
+ns-273	749	berapa persentase perempuan Amerika Latin yang merupakan kelompok minoritas terbesar ketiga di Quebec?	csv/200-csv/749.csv	13.8
+ns-274	2802	kelompok masyarakat manakah yang cenderung tidak mengalami perilaku diskriminatif total, apakah mereka termasuk dalam kelompok minoritas atau bukan?	csv/200-csv/2802.csv	minoritas yang terlihat
+ns-275	2748	berapa persentase bayi perempuan yang meninggal karena kelainan bawaan, kelainan bentuk dan kelainan kromosom?	csv/200-csv/2748.csv	25.0
+ns-276	562	berapakah jumlah indikator kesehatan yang dijelaskan untuk para veteran angkatan reguler yang dibebaskan antara tahun 1998 dan 2012?	csv/200-csv/562.csv	56000.0
+ns-277	861	berapa persentase korban kejahatan non-kebencian yang tidak melapor ke polisi karena mereka yakin terdakwa tidak akan dihukum atau dihukum setimpal?	csv/200-csv/861.csv	37.0
+ns-278	673	untuk vancouver, berapa ambang batas mbm untuk keluarga beranggotakan empat orang berdasarkan metodologi dasar 2018?	csv/200-csv/673.csv	48677.0
+ns-279	122	berapa poin persentase peningkatan PDB industri budaya nunavut pada tahun 2013?	csv/200-csv/122.csv	1.7
+ns-280	314	kelompok umur manakah yang memiliki tingkat keterkaitan tertinggi (tidak tertimbang) terhadap cmdb?	csv/200-csv/314.csv	75 atau lebih
+ns-281	119	berapa persentase kenaikan PDB olahraga di alberta pada tahun 2014?	csv/200-csv/119.csv	4.7
+ns-282	1957	berapa jumlah total pembunuhan terkait senjata api pada tahun 2016?	csv/200-csv/1957.csv	223.0
+ns-283	118	berapa persentase pertumbuhan PDB budaya di Nova Scotia pada tahun 2014?	csv/200-csv/118.csv	2.1
+ns-284	2654	karyawan dengan tingkat kecacatan yang mana yang lebih mungkin memerlukan tiga wpa atau lebih?	csv/200-csv/2654.csv	lebih parah
+ns-285	949	berapa persentase jumlah pekerja imigran dalam sampel?	csv/200-csv/949.csv	13.5
+ns-286	2202	berapa persen keterampilan literasi menyebabkan kesenjangan dalam pengelolaan sumber daya personel?	csv/200-csv/2202.csv	7.0
+ns-287	1181	berapa persentase lulusan perguruan tinggi dari nova scotia yang berpartisipasi dalam wil?	csv/200-csv/1181.csv	89.3
+ns-288	2303	berapa peringkat teknologi teknik dan bidang terkait teknik di antara pria berusia 25 hingga 64 tahun pada tahun 2011?	csv/200-csv/2303.csv	1.0
+ns-289	1476	berapakah persentase ibu dengan penghasilan tunggal dan ibu dengan penghasilan ganda yang masing-masing bekerja di bidang penjualan dan jasa?	csv/200-csv/1476.csv	25.6|19.7
+ns-290	1577	berapa proporsi laki-laki yang melaporkan bahwa mereka mengalami kesulitan mencapai atau menemukan halte bus?	csv/200-csv/1577.csv	31.6
+ns-291	2621	pada tahun 2036, wilayah mana yang memiliki tingkat partisipasi keseluruhan yang paling rendah?	csv/200-csv/2621.csv	Atlantik, di luar cmas
+ns-292	2802	berapa persentase perempuan yang melaporkan komunikasi verbal dan non-verbal yang tidak pantas?	csv/200-csv/2802.csv	26.0
+ns-293	1173	berapa penurunan jumlah penerimaan federal ke lembaga pemasyarakatan dewasa dari tahun 2016/2017?	csv/200-csv/1173.csv	2
+ns-294	2001	antara tahun 2014 dan 2015, berapakah tingkat peningkatan kekerasan seksual level 1?	csv/200-csv/2001.csv	3.0
+ns-295	300	apakah angka kematian neonatal lebih tinggi pada suku inuit atau non-aborigin?	csv/200-csv/300.csv	inuit
+ns-296	750	berapa bagian dari total populasi perempuan minoritas yang terlihat di CMA Calgary?	csv/200-csv/750.csv	5.3
+ns-297	2778	pada tahun 2013/2014, berapa persentase kejahatan kekerasan yang dinyatakan bersalah dalam bentuk perampokan?	csv/200-csv/2778.csv	59.0
+ns-298	484	berapa persentase terkecil dari simulasi ransum dengan kandungan natrium di atas ul?	csv/200-csv/484.csv	3
+ns-299	1250	berapa banyak pembunuhan yang tercatat di thunder bay pada tahun 2016?	csv/200-csv/1250.csv	8.0
+ns-300	284	seberapa besar perbedaan pendidikan orang tua terhadap perbedaan keseluruhan tingkat partisipasi pernapasan antara keluarga-keluarga di kuintil pendapatan teratas dan terbawah pada tahun 1999?	csv/200-csv/284.csv	0,052
+ns-301	949	berapa persentase bagian imigran mapan?	csv/200-csv/949.csv	5.75
+ns-302	122	berapa poin persentase pertumbuhan PDB industri budaya di alberta pada tahun 2013?	csv/200-csv/122.csv	4.5
+ns-303	2797	berapa kali lebih tinggi proporsi anggota yang diidentifikasi sebagai masyarakat adat dibandingkan dengan yang dilaporkan oleh anggota non-pribumi pada tahun 2018?	csv/200-csv/2797.csv	3.05
+ns-304	2501	berapa jumlah perusahaan milik perempuan?	csv/200-csv/2501.csv	275300.0
+ns-305	923	dibandingkan dengan proporsi perempuan yang menjadi korban kekerasan di Newfoundland dan Labrador dan secara keseluruhan dalam 12 bulan terakhir tahun 2018, manakah yang jauh lebih tinggi?	csv/200-csv/923.csv	provinsi
+ns-306	2006	provinsi dan wilayah lain melaporkan peningkatan krisis pemuda, berapa persentase saskatchewan pada tahun 2015?	csv/200-csv/2006.csv	11.0
+ns-307	2464	berapa persen laki-laki yang mengalami setidaknya satu kekerasan seksual dalam konteks pasca sekolah menengah mengatakan bahwa mereka yakin kekerasan seksual tersebut terkait dengan penggunaan alkohol atau obat-obatan oleh pelaku?	csv/200-csv/2464.csv	54.8
+ns-308	958	pada tahun 2018/2019, berapa tingkat penahanan remaja di wilayah barat laut?	csv/200-csv/958.csv	10.0
+ns-309	2530	berapa proporsi penduduk perempuan di negara pertama yang mengalami gangguan mood pada tahun 2012?	csv/200-csv/2530.csv	19.0
+ns-310	1901	berapa persen perempuan Aborigin berusia 15 tahun ke atas yang kemungkinan besar akan bekerja di bidang penjualan dan jasa?	csv/200-csv/1901.csv	30.8
+ns-311	85	berapa persen pekerja di ontario berasal dari ontario timur?	csv/200-csv/85.csv	0,112303
+ns-312	559	berapa poin persentase rata-rata revisi ke atas karena revisi ke bawah di beberapa kuartal sebagian besar mengimbangi revisi ke atas di kuartal lainnya?	csv/200-csv/559.csv	0,03
+ns-313	2214	berapa persen penerimaan hak asuh yang dilakukan remaja perempuan?	csv/200-csv/2214.csv	24.0
+ns-314	2736	berapa persentase anak yang memenuhi ketiga rekomendasi tersebut?	csv/200-csv/2736.csv	29.6
+ns-315	121	berapa persentase pekerjaan olahraga di nova scotia pada tahun 2014?	csv/200-csv/121.csv	4.2
+ns-316	1177	berapa banyak wilayah hukum yang tingkat penahanan remajanya turun sejak tahun 2016/2017?	csv/200-csv/1177.csv	9
+ns-317	2748	apa penyebab paling umum kematian bayi pada kedua jenis kelamin?	csv/200-csv/2748.csv	210
+ns-318	2340	berapa persentase laki-laki pekerja yang termasuk dalam kelompok 1% teratas yang memiliki dua anak atau lebih dan mempunyai pasangan perempuan?	csv/200-csv/2340.csv	45.2|38.8
+ns-319	55	pengaturan operasi seperti apa yang dilakukan mayoritas pertanian di tiga wilayah pertanian di new brunswick?	csv/200-csv/55.csv	kepemilikan tunggal
+ns-320	464	berapa banyak orang yang mengatakan bahwa kehidupan mereka terpengaruh sedikit atau sedang?	csv/200-csv/464.csv	43.6
+ns-321	311	di antara laki-laki Asia Selatan, yang tingkat pekerjaannya lebih tinggi, laki-laki imigran atau rekan mereka yang lahir di Kanada?	csv/200-csv/311.csv	imigran
+ns-322	1179	pada tahun 2017/2018, berapa jumlah remaja yang diterima di lembaga pemasyarakatan di antara sembilan wilayah hukum yang melaporkan?	csv/200-csv/1179.csv	16664.0
+ns-323	1233	berapa persentase pemuda yang berpartisipasi dalam keadilan restoratif yang tinggal di lokasi yang berada pada kuintil terbawah pada tahun 2009/2010?	csv/200-csv/1233.csv	0,43
+ns-324	722	berapa jumlah ganja kering (bunga/daun) yang digunakan konsumen?	csv/200-csv/722.csv	84.2
+ns-325	120	berapa persentase pekerjaan di bidang budaya di british columbia yang meningkat pada tahun 2013?	csv/200-csv/120.csv	0,1
+ns-326	2452	berapa persentase mereka yang menerima kredit akademik secara eksklusif dan menerima pembayaran secara eksklusif?	csv/200-csv/2452.csv	16.8|30.6
+ns-327	1242	berapa poin persentase dari sebagian besar kejahatan yang dilaporkan oleh polisi yang bersifat non-kekerasan dengan memperhitungkan insiden hukum pidana yang dilaporkan polisi pada tahun 2016?	csv/200-csv/1242.csv	0,798689
+ns-328	511	berapa persentase peserta magang yang memperoleh antara $45.000 dan $59.999 pada tahun pendaftaran lebih besar kemungkinannya untuk mendapatkan sertifikasi dibandingkan mereka yang memperoleh antara $15.000 dan $29.999?	csv/200-csv/511.csv	0,11
+ns-329	2305	berapa tingkat pengangguran imigran perempuan muda dengan gelar pendidikan non-stem?	csv/200-csv/2305.csv	7.9
+ns-330	1842	berapa persentase laki-laki imigran yang masuk sebagai sw pas pada kelompok pendaratan tahun 2010?	csv/200-csv/1842.csv	33.4
+ns-331	1853	berapa persentase peningkatan keseluruhan tingkat partisipasi laki-laki dari tahun 1996 hingga 2016 yang disebabkan oleh efek komposisi?	csv/200-csv/1853.csv	0,389381
+ns-332	284	Secara keseluruhan, berapa proporsi 42,6 poin persentase yang dapat dijelaskan oleh perbedaan karakteristik sosial ekonomi pada tahun 2012?	csv/200-csv/284.csv	0,70892
+ns-333	2047	berapa persen rumah tangga penyewa di perumahan sosial dan terjangkau yang tinggal di apartemen?	csv/200-csv/2047.csv	74
+ns-334	2770	berapa persentase penduduk nunavut yang melaporkan setidaknya satu tanda gangguan sosial?	csv/200-csv/2770.csv	50.0
+ns-335	2107	berapa kali rawat inap terkait diabetes di kalangan metis lebih tinggi dibandingkan di kalangan non-aborigin?	csv/200-csv/2107.csv	2.75
+ns-336	2745	berapa persentase anak laki-laki usia 2 tahun yang mendapat cakupan imunisasi pertusis?	csv/200-csv/2745.csv	74.9
+ns-337	1064	berapa persen dari total penerimaan di Kanada yang masuk ke tempat penampungan darurat dan pusat darurat perempuan?	csv/200-csv/1064.csv	41
+ns-338	2298	berapa persentase perempuan yang belum melunasi sebagian besar utang pelajarnya?	csv/200-csv/2298.csv	45.0
+ns-339	2594	berapa persen terdakwa kasus ipv yang dijatuhi hukuman percobaan, yang lebih dari enam bulan tetapi kurang dari satu tahun.	csv/200-csv/2594.csv	59.0
+ns-340	2745	berapa persentase anak perempuan usia 2 tahun yang diimunisasi terhadap infeksi meningokokus?	csv/200-csv/2745.csv	90.3
+ns-341	121	berapa persentase peningkatan pekerjaan olahraga di saskatchewan pada tahun 2013?	csv/200-csv/121.csv	5.6
+ns-342	2745	berapa persentase anak perempuan usia 2 tahun yang mendapat imunisasi?	csv/200-csv/2745.csv	73.3
+ns-343	1584	berapa rata-rata pendapatan rumah tangga laki-laki penyandang disabilitas berusia 15 tahun ke atas dalam situasi kehidupan ini?	csv/200-csv/1584.csv	83420.0
+ns-344	1480	jenis penyerangan manakah yang lebih jarang dilaporkan oleh laki-laki dalam 12 bulan?	csv/200-csv/1480.csv	penyerangan seksual
+ns-345	140	berapakah peningkatan persentase yang terjadi di Quebec?	csv/200-csv/140.csv	134.6
+ns-346	1885	apa dampak regresi wilayah ekonomi yang mampu mengukur dampak perbatasan provinsi secara bersamaan ketika arus internal dimasukkan?	csv/200-csv/1885.csv	-0,576
+ns-347	1033	di antara mereka yang berusia 15 hingga 74 tahun yang mengatakan bahwa mereka pernah mengalami kekerasan apa pun di masa kanak-kanak, berapa persen orang yang mengatakan bahwa kekerasan tersebut hanya berupa kekerasan fisik?	csv/200-csv/1033.csv	52.9
+ns-348	400	berapa rata-rata hui3 laki-laki berusia 85 tahun atau lebih pada populasi institusi pada tahun 1994/1995?	csv/200-csv/400.csv	0,17
+ns-349	1420	berapa poin persentase PDB pariwisata yang direvisi turun pada tahun 2015?	csv/200-csv/1420.csv	0,2
+ns-350	1257	Di seluruh provinsi, daerah manakah yang memiliki angka kematian terendah yang dirawat di rumah sakit pada tahun terakhir hidupnya, menerima konsultasi komputer rawat inap?	csv/200-csv/1257.csv	alberta
+ns-351	1853	berapa kenaikan angka partisipasi dari tahun 1996 ke tahun 2016?	csv/200-csv/1853.csv	13.9
+ns-352	1727	berapa jumlah total orang yang memperoleh upah minimum pada tahun 2017?	csv/200-csv/1727.csv	1018100.0
+ns-353	918	berapa persentase perempuan yang berbicara dengan konselor, psikolog, atau pekerja sosial dalam 12 bulan terakhir tahun 2018?	csv/200-csv/918.csv	9.1
+ns-354	2736	berapa persentase remaja yang memenuhi dua rekomendasi?	csv/200-csv/2736.csv	26.8
+ns-355	2680	kelompok mana yang lebih mungkin melaporkan perburuan, penangkapan ikan, atau penangkapan ikan untuk mendapatkan uang atau untuk menambah penghasilan, yaitu kelompok yang tinggal di daerah pedesaan atau perkotaan?	csv/200-csv/2680.csv	pedesaan
+ns-356	923	berapa proporsi perempuan di Newfoundland dan Labrador dalam 12 bulan terakhir tahun 2018 yang menjadi korban kekerasan?	csv/200-csv/923.csv	2.5
+ns-357	1997	berapa persentase penduduk nova scotia jika terjadi penurunan CSI tanpa kekerasan pada tahun 2015?	csv/200-csv/1997.csv	10
+ns-358	2663	di antara kuintil pendapatan manakah yang memiliki asmr tertinggi pada laki-laki pada tahun 2011?	csv/200-csv/2663.csv	q1
+ns-359	354	kelompok manakah yang lebih mungkin melaporkan tinitus dari tahun 2012 hingga 2015 di Kanada, orang yang terpapar asap rokok – secara langsung sebagai perokok atau secara tidak langsung melalui perokok pasif atau bukan perokok yang tidak terpapar asap rokok?	csv/200-csv/354.csv	perokok
+ns-360	1261	pada tahun 2007, berapa posisi kewajiban bersih per kapita yang dicatat oleh ontario?	csv/200-csv/1261.csv	9849.0
+ns-361	1815	berapa ambang batas pengungkapan (dolar) di alberta?	csv/200-csv/1815.csv	125000,0
+ns-362	1472	di antara rumah tangga yang termasuk dalam kuartil pendapatan tertinggi, berapa persentase rumah tangga yang memiliki kurang dari satu perangkat per anggota rumah tangga?	csv/200-csv/1472.csv	56.2
+ns-363	1555	siapa yang lebih cenderung menonton televisi, pria atau wanita?	csv/200-csv/1555.csv	wanita
+ns-364	15	tahun berapa rata-rata asupan gula total harian dari makanan saja lebih tinggi?	csv/200-csv/15.csv	2015.0
+ns-365	1311	di antara semua orang yang meninggal di coulumbia inggris yang melakukan kontak dengan polisi sebelum mengalami overdosis yang fatal, berapa persentase mereka yang melakukan hal tersebut karena kejahatan tanpa kekerasan?	csv/200-csv/1311.csv	83
+ns-366	2388	berapa tahun perempuan yang paling rentan bekerja di lingkungan yang bising?	csv/200-csv/2388.csv	kurang dari 5 tahun
+ns-367	2200	berapa persen pekerja Kanada adalah imigran?	csv/200-csv/2200.csv	0,265
+ns-368	369	berapa persentase individu dengan pendapatan investasi?	csv/200-csv/369.csv	44.6
+ns-369	2374	berapa persentase responden yang dilaporkan sebagai anggota kelompok minoritas yang terlihat?	csv/200-csv/2374.csv	25.2
+ns-370	861	berapa persentase korban yang bermotif kebencian dan percaya bahwa terdakwa tidak akan dihukum atau dihukum setimpal?	csv/200-csv/861.csv	58.0
+ns-371	281	untuk pekerjaan profesional di bidang pendidikan, berapa proporsi lowongan pekerjaan yang merupakan pekerjaan entry level?	csv/200-csv/281.csv	47.7
+ns-372	1245	pada tahun 2016, berapa poin persentase penurunan CSI non-kekerasan yang dilaporkan oleh trois-rivieres?	csv/200-csv/1245.csv	10
+ns-373	1387	rata-rata tingkat penyusutan untuk kategori mesin dan peralatan terpilih ini secara keseluruhan, berdasarkan bagian investasi dolarnya, berapa persentase peningkatannya dari tahun 1985 hingga 2001?	csv/200-csv/1387.csv	0,195
+ns-374	1480	siapa yang lebih mungkin menjadi korban penyerangan fisik sejak usia 15 tahun, perempuan atau laki-laki?	csv/200-csv/1480.csv	laki-laki
+ns-375	2452	berapa persentase mereka yang menerima kredit akademik dan pembayaran?	csv/200-csv/2452.csv	52.6
+ns-376	906	berapa persen pertumbuhan produktivitas tenaga kerja per tahun selama periode 2000 hingga 2015?	csv/200-csv/906.csv	1.0
+ns-377	2310	berapa pendapatan rata-rata perempuan lulusan perguruan tinggi di bidang bisnis, manajemen, pemasaran dan layanan pendukung terkait?	csv/200-csv/2310.csv	43645.0
+ns-378	1555	berapa persentase orang di alberta yang mengikuti berita dan kejadian terkini di internet?	csv/200-csv/1555.csv	63.0
+ns-379	1870	berapa tahun angka harapan hidup saat lahir perempuan pada tahun 2014/2016?	csv/200-csv/1870.csv	84.0
+ns-380	1521	berapa proporsi perempuan berusia 15 hingga 17 tahun yang dilaporkan mempunyai banyak pasangan seksual dalam satu tahun terakhir?	csv/200-csv/1521.csv	36.7
+ns-381	1901	berapa persen perempuan Aborigin berusia 15 tahun ke atas yang kemungkinan besar akan bekerja di bidang pendidikan, hukum dan layanan sosial, komunitas, dan pemerintah?	csv/200-csv/1901.csv	21.1
+ns-382	2203	Seperti tahun-tahun sebelumnya, berapa persen orang dewasa di lembaga pemasyarakatan provinsi dan kewilayahan pada tahun 2016/2017 yang mendapat pengawasan di masyarakat?	csv/200-csv/2203.csv	79.0
+ns-383	354	berapa persentase non-perokok yang tidak terpapar asap rokok yang pernah mengalami tinitus dari tahun 2012 hingga 2015 di Kanada?	csv/200-csv/354.csv	34.0
+ns-384	910	berapa persen hal ini menyebabkan perlambatan pertumbuhan mfp selama dua periode tersebut.	csv/200-csv/910.csv	2.9
+ns-385	1001	daftar negara asal Afrika yang memiliki lebih dari separuh imigran laki-laki yang diterima sebagai pelamar utama program ekonomi.	csv/200-csv/1001.csv	Kamerun|pantai gading|senegal
+ns-386	118	berapa persentase PDB budaya di wilayah barat laut yang dicabut pada tahun 2014?	csv/200-csv/118.csv	2.4
+ns-387	319	berapakah median kekayaan bersih seluruh keluarga Kanada yang mempunyai utang pada tahun 1999?	csv/200-csv/319.csv	131100.0
+ns-388	2304	berapa proporsi pria berusia 25 hingga 64 tahun yang memiliki gelar sarjana di bidang bisnis, manajemen, pemasaran dan layanan pendukung terkait?	csv/200-csv/2304.csv	21.0
+ns-389	320	berapa rasio utang terhadap pendapatan di antara mereka yang berusia 35 hingga 44 tahun pada tahun 1999?	csv/200-csv/320.csv	1.15
+ns-390	120	berapa persentase peningkatan pekerjaan budaya di new brunswick pada tahun 2013?	csv/200-csv/120.csv	8.2
+ns-391	2470	berapa persen pria yang pernah mengalami pelecehan seksual cenderung tidak mengatakan bahwa mereka takut?	csv/200-csv/2470.csv	14.7
+ns-392	2203	berapa persen pulau alberta mengalami penurunan terbesar kedua?	csv/200-csv/2203.csv	-8.0
+ns-393	2316	berapa persentase juru masak laki-laki berusia 55 tahun ke atas di antara seluruh juru masak pada tahun 2016?	csv/200-csv/2316.csv	10.2
+ns-394	562	berapakah jumlah indikator kesehatan yang dijelaskan untuk veteran angkatan reguler yang dibebaskan antara tahun 1954 dan 2003?	csv/200-csv/562.csv	302000.0
+ns-395	1973	berapa persen perubahan CSI kekerasan remaja dari tahun sebelumnya pada tahun 2017?	csv/200-csv/1973.csv	12.0
+ns-396	1056	berapa persen orang Kanada heteroseksual yang melaporkan kesehatan mentalnya buruk atau sedang?	csv/200-csv/1056.csv	10.7
+ns-397	1577	bagi perempuan penyandang disabilitas, berapa persentase perempuan yang dilaporkan mengalami kesulitan naik atau turun kendaraan?	csv/200-csv/1577.csv	51.0
+ns-398	464	dari mereka yang tidak bekerja, berapa banyak yang mengaku pernah menderita epilepsi saat bekerja dulu?	csv/200-csv/464.csv	78.5
+ns-399	607	berapa persen perempuan berusia 25 hingga 34 tahun tanpa ijazah sekolah menengah atas yang menjadi orang tua tunggal, dibandingkan dengan kurang dari 2% perempuan yang memiliki gelar sarjana pada tahun 2016?	csv/200-csv/607.csv	18.7
+ns-400	1193	berapa persentase laki-laki lajang yang tidak memiliki anak berusia 18 hingga 64 tahun yang tinggal di rumah milik sendiri?	csv/200-csv/1193.csv	38.4
+ns-401	1900	pada tahun 2011, di antara perempuan berusia 25 hingga 64 tahun tanpa ijazah, diploma atau gelar, berapa tingkat pengangguran perempuan aborigin?	csv/200-csv/1900.csv	19.8
+ns-402	1577	berapa proporsi perempuan yang dilaporkan mengalami kesulitan mencapai atau menemukan halte bus?	csv/200-csv/1577.csv	28.1
+ns-403	403	kelompok umur manakah yang mempunyai prevalensi merokok paling rendah?	csv/200-csv/403.csv	65 atau lebih
+ns-404	1865	berapa kali tingkat pekerjaan antarprovinsi di kalangan laki-laki dibandingkan di antara perempuan di pulau pangeran edward?	csv/200-csv/1865.csv	2.3
+ns-405	1728	berapa proporsi pekerja berupah minimum yang berusia 35 hingga 64 tahun pada kuartal pertama tahun 2018?	csv/200-csv/1728.csv	31.4
+ns-406	122	berapa poin persentase pertumbuhan PDB industri budaya di pulau pangeran edward pada tahun 2014?	csv/200-csv/122.csv	0,6
+ns-407	1545	pada awal tahun 2010an, berapa jumlah pelajar internasional yang datang ke Kanada untuk melanjutkan pendidikan universitas?	csv/200-csv/1545.csv	29
+ns-408	1898	di antara perempuan Aborigin berusia 55 hingga 64 tahun, berapa persen yang memiliki ijazah perguruan tinggi pada tahun 2011?	csv/200-csv/1898.csv	21.4
+ns-409	2684	wilayah mana yang lebih cenderung diburu, ditangkap, atau dijadikan perangkap untuk dibagikan kepada orang lain di komunitas, di pedesaan atau di perkotaan?	csv/200-csv/2684.csv	pedesaan
+ns-410	1243	dibandingkan dengan tahun 2015, berapa poin persentase peningkatan CSI kekerasan yang dilaporkan oleh yukon pada tahun 2016?	csv/200-csv/1243.csv	9.0
+ns-411	2684	kelompok usia manakah yang lebih kecil kemungkinannya untuk berburu, menangkap ikan, atau memasang perangkap karena alasan budaya, remaja dan dewasa muda, atau dewasa usia kerja?	csv/200-csv/2684.csv	15 hingga 24 tahun
+ns-412	1217	berapa persentase gar yang memiliki kualifikasi pasca sekolah menengah saat mendarat?	csv/200-csv/1217.csv	24.1
+ns-413	281	berapa proporsi lowongan di antara pengawas pemrosesan, manufaktur dan utilitas serta operator kendali pusat yang merupakan posisi entry-level?	csv/200-csv/281.csv	15.4
+ns-414	696	menurut cflim-at, berapakah tingkat pendapatan rendah bagi keluarga dengan orang tua tunggal perempuan?	csv/200-csv/696.csv	42.2
+ns-415	1345	berapa persentase pembobolan dan masuk juga pengemudi di banyak cmas dengan penurunan terbesar di st. catharines-niagara?	csv/200-csv/1345.csv	-10.0
+ns-416	2072	secara keseluruhan, kelompok usia manakah yang memiliki tingkat tuduhan pembunuhan tertinggi?	csv/200-csv/2072.csv	18 hingga 24
+ns-417	2374	berapa persentase lulusan batang yang teridentifikasi sebagai anggota kelompok penduduk asli dalam sampel longitudinal?	csv/200-csv/2374.csv	1.1
+ns-418	1467	berapa banyak responden yang melaporkan lebih dari satu bahasa ibu pada tahun 2016 yang tidak termasuk dalam salah satu dari tiga kelompok utama?	csv/200-csv/1467.csv	818630.0
+ns-419	121	berapa persentase penurunan pekerjaan olahraga di Kanada pada tahun 2014?	csv/200-csv/121.csv	2.8
+ns-420	1260	di antara perempuan yang mengandalkan nasihat dari penasihat keuangan dan yang tidak mengandalkan nasihat dari penasihat keuangan, manakah yang lebih mungkin menjawab lima pertanyaan dengan benar?	csv/200-csv/1260.csv	saran dari penasihat keuangan
+ns-421	1179	berapa penurunan penerimaan pengawasan masyarakat di antara sembilan yurisdiksi yang melaporkan pada tahun 2016/2017?	csv/200-csv/1179.csv	9
+ns-422	1892	berapa proporsi perempuan negara pertama yang berusia 14 tahun ke bawah?	csv/200-csv/1892.csv	28.8
+ns-423	1951	berapa persentase penurunan korban kekerasan pasangan yang dilaporkan ke polisi selama periode sepuluh tahun ini di Ontario?	csv/200-csv/1951.csv	11
+ns-424	1670	dari anak-anak dan remaja berusia 5 hingga 17 tahun pada tahun 2006 yang menggunakan bahasa Prancis sebagai bahasa ibu di Kanada di luar Quebec, berapa persentase penduduk yang bilingual dalam bahasa Inggris dan Prancis pada tahun 2016?	csv/200-csv/1670.csv	93.5
+ns-425	1951	mana yang memiliki tingkat pencurian properti pribadi lebih rendah pada tahun 2009, Quebec atau Kanada?	csv/200-csv/1951.csv	Quebec
+ns-426	1999	berapa persentase penduduk toronto yang berjumlah lebih dari sepertiga penduduk Kanada, yang dilaporkan mengalami penurunan dalam sepuluh tahun?	csv/200-csv/1999.csv	37
+ns-427	983	berapa persentase perempuan yang pernah mengalami pelecehan karena merasa tidak puas dengan pekerjaannya saat ini.	csv/200-csv/983.csv	13.6
+ns-428	632	berapa persen anggota kelompok negara pertama yang terdaftar berada pada kuintil pendapatan tertinggi?	csv/200-csv/632.csv	0,054291
+ns-429	1225	berapa persentase lulusan yang dipekerjakan oleh layanan kepolisian di kanada?	csv/200-csv/1225.csv	86.0
+ns-430	175	Ketika teknologi sudah pulih sepenuhnya setelah tahun 2009, berapa poin persentase kontribusi pendatang baru?	csv/200-csv/175.csv	0,7
+ns-431	175	Ketika teknologi sudah pulih sepenuhnya setelah tahun 2009, berapa poin persentase kontribusi kelompok produktivitas tinggi?	csv/200-csv/175.csv	7.0
+ns-432	1181	berapa tingkat partisipasi lulusan humaniora di tingkat sarjana?	csv/200-csv/1181.csv	18.7
+ns-433	906	berapa persen pertumbuhan output per tahun dari tahun 1980 sampai 2000?	csv/200-csv/906.csv	3.2
+ns-434	1790	berapa persentase perempuan Aborigin yang dilaporkan merasa puas atau sangat puas dengan keselamatan diri mereka dari kejahatan?	csv/200-csv/1790.csv	80.0
+ns-435	1217	berapa persentase prs yang memiliki gelar sarjana atau lebih tinggi?	csv/200-csv/1217.csv	8
+ns-436	1064	dari jumlah perempuan yang diterima di fasilitas shelter pada tahun 2013/2014, berapa persen dari total penerimaan di Kanada yang berada di rumah transisi?	csv/200-csv/1064.csv	50.0
+ns-437	1845	perubahan karakteristik mempunyai pengaruh yang lebih kecil terhadap pendapatan masuk kelompok mana selama tahun 1990an, imigran perempuan atau imigran laki-laki?	csv/200-csv/1845.csv	wanita
+ns-438	1584	berapa rata-rata pendapatan rumah tangga perempuan tanpa disabilitas berusia 15 tahun ke atas dalam situasi kehidupan ini?	csv/200-csv/1584.csv	96530.0
+ns-439	122	berapa poin persentase pertumbuhan PDB industri budaya di manitoba pada tahun 2013?	csv/200-csv/122.csv	4.7
+ns-440	1791	berapa persentase penduduk asli yang mengatakan bahwa mereka mengubah rutinitas atau aktivitas mereka atau menghindari orang atau tempat tertentu dan siapa yang mengatakan bahwa mereka memelihara anjing untuk melindungi mereka dari kejahatan?	csv/200-csv/1791.csv	33.0|17.0
+ns-441	1506	berapa persentase orang yang bukan korban kekerasan seksual yang tinggal di komunitas yang ramah?	csv/200-csv/1506.csv	92.0
+ns-442	1224	berapa poin persentase yang dimiliki pemerintah kota terrebonne, quebec dalam kekuatan polisi?	csv/200-csv/1224.csv	9.2
+ns-443	2374	bidang studi batang manakah yang memiliki proporsi lulusan batang terbesar?	csv/200-csv/2374.csv	rekayasa dan teknologi rekayasa
+ns-444	1233	berapa persentase peserta rj laki-laki yang mengajukan pajak tetapi tidak teridentifikasi tinggal bersama orang tua?	csv/200-csv/1233.csv	9.0
+ns-445	1997	berapa persentase pengecualian terhadap kenaikan csi nasional di pulau pangeran edward?	csv/200-csv/1997.csv	10
+ns-446	2298	berapa rata-rata utang yang harus dibayar pria setelah lulus 3 tahun?	csv/200-csv/2298.csv	6200.0
+ns-447	1028	berapa tingkat penahanan provinsi/teritorial?	csv/200-csv/1028.csv	87
+ns-448	2802	berapa persentase anggota yang mengalami komunikasi verbal atau nonverbal yang tidak pantas?	csv/200-csv/2802.csv	14.0
+ns-449	1896	berapa proporsi yang melaporkan bahasa ibu asli bagi perempuan Inuit yang berusia di bawah 15 tahun?	csv/200-csv/1896.csv	56.2
+ns-450	861	berapa persentase orang yang mengaku sebagai korban insiden bermotif kebencian tidak melaporkan insiden tersebut ke polisi?	csv/200-csv/861.csv	64.0
+ns-451	2470	Hal yang sama juga terjadi pada mereka yang pernah mengalami pelecehan seksual: berapa persen pria yang melaporkan mengalami depresi?	csv/200-csv/2470.csv	8.9
+ns-452	1250	dibandingkan dengan tahun 2015, berapa poin persentase peningkatan tingkat perampokan di winnipeg pada tahun 2016?	csv/200-csv/1250.csv	27.0
+ns-453	1892	berapa persen wanita inuit berusia 65 tahun ke atas?	csv/200-csv/1892.csv	4.4
+ns-454	953	pada tahun 2018/2019, tingkat penahanan tahanan nasional adalah 127 orang dewasa per 100.000 penduduk, berapa persentasenya di bawah angka tahun sebelumnya?	csv/200-csv/953.csv	4
+ns-455	1954	CMA mana yang melaporkan jumlah pembunuhan tertinggi pada tahun 2016?	csv/200-csv/1954.csv	toronto
+ns-456	1901	pada tahun 2011, berapa persen perempuan non-aborigin yang dilaporkan memiliki posisi manajer?	csv/200-csv/1901.csv	9.0
+ns-457	1175	apa perubahan penerimaan laki-laki aborigin di british columbia dibandingkan tahun 2007/2008?	csv/200-csv/1175.csv	83.0
+ns-458	121	berapa persentase penurunan pekerjaan olahraga di saskatchewan pada tahun 2013?	csv/200-csv/121.csv	0,7
+ns-459	1241	berapa persentase peningkatan indeks keparahan kejahatan tanpa kekerasan (csi) Kanada pada tahun 2016?	csv/200-csv/1241.csv	2.0
+ns-460	122	berapa poin persentase peningkatan PDB industri budaya di saskatchewan pada tahun 2013?	csv/200-csv/122.csv	1.9
+ns-461	1997	Selain itu, berapa persentase Newfoundland dan Labrador yang melaporkan kenaikan CSI pada tahun 2015?	csv/200-csv/1997.csv	5.0
+ns-462	2637	daftarkan semua provinsi yang mengalami revisi ke atas setiap tahunnya.	csv/200-csv/2637.csv	newfoundland dan labrador|Quebec
+ns-463	521	berapa persentase negara-negara yang termasuk dalam daftar IRCC untuk tb?	csv/200-csv/521.csv	73.9
+ns-464	1577	berapa proporsi laki-laki yang melaporkan bahwa mereka merasa transit tersebut penuh sesak?	csv/200-csv/1577.csv	30.4
+ns-465	284	seberapa besar pengaruh perbedaan pendidikan orang tua terhadap keseluruhan perbedaan tingkat partisipasi pendidikan antar kuintil pendapatan pada tahun 2012?	csv/200-csv/284.csv	0,241784
+ns-466	310	Secara keseluruhan, berapa proporsi perempuan adat berusia 55 tahun ke atas yang bekerja pada tahun 2016?	csv/200-csv/310.csv	16
+ns-467	2106	berapa banyak responden sensus yang terdiri dari kelompok tersebut?	csv/200-csv/2106.csv	2864300
+ns-468	464	berapa banyak orang yang menyatakan bahwa mereka kadang-kadang dilarang mengemudi karena epilepsi?	csv/200-csv/464.csv	63.6
+ns-469	1875	status perkawinan mana yang memiliki peluang tertinggi untuk mendapatkan kesehatan mental yang lengkap bagi wanita, janda, berpisah, bercerai, belum pernah menikah atau menikah, atau berada dalam hubungan hukum adat?	csv/200-csv/1875.csv	menikah atau hidup sebagai mertua
+ns-470	195	bagi perusahaan non-pemberi kerja di semua tingkat industri, berapa kali lebih besar pendapatan per penduduk di csds non-pribumi dibandingkan dengan pendapatan per penduduk di csds negara-negara pertama?	csv/200-csv/195.csv	3.971635
+ns-471	122	berapa poin persentase pertumbuhan PDB industri budaya di yukon pada tahun 2013?	csv/200-csv/122.csv	0,0
+ns-472	2115	berapa kali jumlah insiden kejahatan dengan kekerasan per 100.000 penduduk yang dilaporkan oleh polisi yang melayani masyarakat adat pada tahun 2018 lebih tinggi dibandingkan dengan polisi yang melayani masyarakat non-pribumi?	csv/200-csv/2115.csv	8.806113
+ns-473	2593	berapa persen kasus non-ipv yang terjadi lebih dari satu tahun?	csv/200-csv/2593.csv	11
+ns-474	1288	berapa banyak warga Kanada berusia 15 tahun ke atas yang melaporkan menjadi sukarelawan pada tahun 2013?	csv/200-csv/1288.csv	12716.0
+ns-475	932	Di antara provinsi-provinsi tersebut, berapa proporsi kasus terkait narkoba yang melibatkan ganja yang diselesaikan di pengadilan pidana dewasa di Saskatchewan dari tahun 2008/2009 hingga 2011/2012?	csv/200-csv/932.csv	65.8
+ns-476	1997	berapa persentase alberta yang mencatat peningkatan terbesar dalam CSI non-kekerasan pada tahun 2015?	csv/200-csv/1997.csv	20.0
+ns-477	1213	berapa persentase orang yang memiliki penyakit lain yang menganggap kesehatan mereka baik-baik saja atau buruk?	csv/200-csv/1213.csv	34.8
+ns-478	1243	dibandingkan dengan tahun 2015, berapa poin persentase penurunan indeks keparahan kejahatan (csi) di new brunswick pada tahun 2016?	csv/200-csv/1243.csv	2
+ns-479	497	berapa persen peningkatan kemungkinan suatu perusahaan akan berinovasi yang dapat disebabkan oleh peningkatan satu poin dalam indeks praktik manajemen secara keseluruhan?	csv/200-csv/497.csv	0,386 (0,109
+ns-480	395	berapa prevalensi imigran yang melaporkan kesehatan yang baik menurut chms?	csv/200-csv/395.csv	89.6
+ns-481	1728	berapakah proporsi pekerja berupah minimum dari seluruh pekerja pada awal tahun 2017?	csv/200-csv/1728.csv	6.2
+ns-482	489	antara kelompok usia 12 hingga 17 tahun dan kelompok usia 45 tahun ke atas, mana yang memiliki prevalensi paparan lebih tinggi?	csv/200-csv/489.csv	12 hingga 17
+ns-483	120	berapa persentase penurunan pekerjaan di bidang budaya di Quebec pada tahun 2014?	csv/200-csv/120.csv	0,2
+ns-484	113	berapa persentase seluruh lahan pertanian yang dijadikan padang rumput pada tahun 2011?	csv/200-csv/113.csv	40.3
+ns-485	2629	berapa persen warga Kanada yang merasa sangat puas dan percaya bahwa polisi telah melakukan tugasnya dengan baik dalam menegakkan hukum?	csv/200-csv/2629.csv	75.0
+ns-486	2049	berapa persen penyewa yang tidak berada di perumahan sosial dan terjangkau telah menikah?	csv/200-csv/2049.csv	24.0
+ns-487	1245	pada tahun 2016, berapa poin persentase kenaikan csi yang dicatat regina?	csv/200-csv/1245.csv	15.0
+ns-488	1476	berapa persentase ibu rumah tangga yang memiliki setidaknya satu anak berusia di bawah 5 tahun di rumah?	csv/200-csv/1476.csv	57.7
+ns-489	2222	berapa banyak insiden viktimisasi kekerasan untuk setiap 1.000 perempuan berusia 15 tahun ke atas tanpa disabilitas?	csv/200-csv/2222.csv	58.0
+ns-490	434	kota mana yang memiliki konsentrasi populasi imigran lebih tinggi, toronto atau vancouver?	csv/200-csv/434.csv	toronto
+ns-491	119	berapa persentase kenaikan PDB olahraga di Nova Scotia pada tahun 2014?	csv/200-csv/119.csv	0,4
+ns-492	608	pekerjaan apa yang paling umum dilakukan oleh pekerja laki-laki pada tahun 1990?	csv/200-csv/608.csv	pengemudi truk pengangkut
+ns-493	1480	berapa persentase penduduk wilayah yang dilaporkan mengalami setidaknya satu serangan seksual atau fisik dalam 12 bulan?	csv/200-csv/1480.csv	7.8
+ns-494	2802	identitas masyarakat adat manakah yang lebih mungkin mengalami perilaku diskriminasi total, baik masyarakat adat atau non-pribumi?	csv/200-csv/2802.csv	orang pribumi (bangsa pertama, metis, inuit).
+ns-495	918	berapa persentase pria yang berbicara dengan temannya dalam 12 bulan terakhir tahun 2018?	csv/200-csv/918.csv	36.3
+ns-496	1243	dibandingkan dengan tahun 2015, berapa poin persentase penurunan CSI kekerasan yang dilaporkan di wilayah barat laut pada tahun 2016?	csv/200-csv/1243.csv	9
+ns-497	120	berapa persentase peningkatan pekerjaan budaya di yukon pada tahun 2014?	csv/200-csv/120.csv	3.4
+ns-498	521	berapa persentase imigran perempuan dalam kelompok penelitian?	csv/200-csv/521.csv	51.6
+ns-499	800	apa korelasi pearson antara perkiraan ipaq dan paaq?	csv/200-csv/800.csv	0,375
+ns-500	934	pengadilan pemuda melaporkan pengelompokan keputusan yang serupa berdasarkan jenis narkoba dan jenis pelanggaran, berapa persentase dari seluruh kasus yang diselesaikan yang menghasilkan keputusan bersalah dari tahun 2008/2009 hingga 2011/2012?	csv/200-csv/934.csv	48.0
+ns-501	1897	pada tahun 2011, berapa persentase perempuan Aborigin berusia 25 hingga 64 tahun yang memiliki gelar sarjana?	csv/200-csv/1897.csv	12.1
+ns-502	122	berapa poin persentase kenaikan PDB industri budaya di british columbia pada tahun 2013?	csv/200-csv/122.csv	3.1
+ns-503	2298	berapa persentase laki-laki yang belum melunasi sebagian besar utang pelajarnya?	csv/200-csv/2298.csv	53.0
+ns-504	1997	sekitar setengah dari peningkatan csi nasional pada tahun 2015 dapat dijelaskan oleh peningkatan besar dalam kejahatan yang dilaporkan polisi di alberta, berapa persentase kenaikan csi provinsi?	csv/200-csv/1997.csv	18.0
+ns-505	1562	berapa total pendapatan pekerjaan di antara pelapor pajak awal pada tahun 2010 berdasarkan data t1 pmf?	csv/200-csv/1562.csv	681.2
+ns-506	1872	jenis kelamin manakah yang lebih mungkin teridentifikasi sebagai homoseksual pada kelompok usia 25 hingga 44 tahun, pria atau wanita?	csv/200-csv/1872.csv	laki-laki
+ns-507	343	berapa persentase individu yang dikenal atau terkait dengan pelaku di antara korban kejahatan kekerasan yang dilakukan oleh perempuan pada tahun 2015?	csv/200-csv/343.csv	88.3
+ns-508	1999	satu-satunya CMA yang melaporkan peningkatan dibandingkan tahun 2005 adalah saguenay, berapa persentase CSI yang tercatat relatif rendah pada tahun 2005 dibandingkan tahun sebelum dan sesudahnya?	csv/200-csv/1999.csv	1.0
+ns-509	1997	Selain itu, berapa peningkatan signifikan dalam kekerasan CSI di Newfoundland dan Labrador pada tahun 2015?	csv/200-csv/1997.csv	15.0
+ns-510	1875	status perkawinan mana yang memiliki peluang tertinggi untuk mendapatkan kesehatan mental lengkap bagi pria, janda, berpisah, bercerai, belum pernah menikah atau menikah, atau berada dalam hubungan hukum adat?	csv/200-csv/1875.csv	menikah atau hidup sebagai mertua
+ns-511	1896	berapa proporsi anak perempuan metis berusia 25 hingga 54 tahun?	csv/200-csv/1896.csv	1.7
+ns-512	14	untuk anak-anak berusia 9 hingga 18 tahun, berapa rata-rata asupan gula harian dari makanan dan minuman di kalangan reporter yang masuk akal pada tahun 2015?	csv/200-csv/14.csv	116
+ns-513	2237	berapa persen di antara mereka yang putus sekolah tanpa ijazah?	csv/200-csv/2237.csv	0,54
+ns-514	2680	jika menyangkut perburuan, penangkapan ikan, atau penangkapan ikan untuk kepentingan sendiri atau kepentingan keluarga sendiri, berapa proporsi penduduk dewasa usia kerja?	csv/200-csv/2680.csv	86
+ns-515	2018	berapa persentase kebakaran hutan yang menduduki peringkat kedua risiko paling umum di alberta pada tahun 2014?	csv/200-csv/2018.csv	51.0
+ns-516	1213	berapa persentase orang dengan kelainan yang terjadi secara bersamaan yang melaporkan bahwa mereka memiliki setidaknya dua kondisi kronis?	csv/200-csv/1213.csv	29.1
+ns-517	1728	berapa proporsi pekerja berupah minimum yang berusia 35 hingga 64 tahun pada kuartal pertama tahun 2017?	csv/200-csv/1728.csv	25.2
+ns-518	852	berapa persentase lulusan sarjana di bidang 'humaniora' yang melaporkan tingkat kepuasan kerja yang lebih rendah?	csv/200-csv/852.csv	71.0
+ns-519	2203	layanan pemasyarakatan menunjukkan angka 422 pelanggar per 100.000 penduduk dewasa, berapa penurunan dari tahun 2012/2013?	csv/200-csv/2203.csv	17
+ns-520	2714	berapa kisaran persentase kanker paru-paru yang dikaitkan dengan setidaknya satu catatan ayah?	csv/200-csv/2714.csv	92.8|96.3
+ns-521	118	berapa persentase PDB budaya di wilayah barat laut yang meningkat pada tahun 2013?	csv/200-csv/118.csv	2.6
+ns-522	744	Berapa prevalensi viktimisasi yang paling tinggi dilakukan oleh seseorang yang mereka kenal di antara korban kejahatan rasial yang menyasar penduduk kulit hitam?	csv/200-csv/744.csv	43.0
+ns-523	923	berapa proporsi perempuan di Quebec yang menjadi korban kekerasan dalam 12 bulan terakhir tahun 2018?	csv/200-csv/923.csv	3.1
+ns-524	217	berapa poin persentase kemungkinan perusahaan milik imigran mengekspor ke daerah asal pemilik imigran lebih tinggi dibandingkan perusahaan milik Kanada?	csv/200-csv/217.csv	0,022
+ns-525	2684	wilayah mana yang masyarakatnya lebih cenderung berburu, menangkap ikan, atau menangkap ikan untuk digunakan sendiri atau digunakan untuk keluarga sendiri, di daerah pedesaan atau perkotaan?	csv/200-csv/2684.csv	pedesaan
+ns-526	1842	berapa persentase imigran laki-laki utama yang masuk melalui PNP pada tahun 1999?	csv/200-csv/1842.csv	0,5
+ns-527	1842	berapa persentase laki-laki pendatang yang masuk sebagai pn pas pada angkatan pendaratan tahun 1999?	csv/200-csv/1842.csv	0,3
+ns-528	2615	sehubungan dengan penghormatan terhadap budaya penduduk asli, berapa persen imigran yang percaya bahwa penduduk Kanada juga menganut nilai ini?	csv/200-csv/2615.csv	40.0
+ns-529	987	berapakah persentase remaja kulit hitam dan remaja lainnya yang hidup hanya dengan satu orang tua pada tahun 2006?	csv/200-csv/987.csv	45.0|17.0
+ns-530	1461	apa saja variabel kunci sensus (bentuk panjang) dan nhs.	csv/200-csv/1461.csv	komposisi keluarga dan status perkawinan, pendidikan, tenaga kerja, pekerjaan, pendapatan dan sumber pendapatan, identitas masyarakat adat, keragaman etnis dan imigrasi, negara kelahiran, perumahan, bahasa, tempat tinggal kolektif
+ns-531	2203	berapa persen pulau pangeran edward mengalami penurunan terbesar?	csv/200-csv/2203.csv	-11.0
+ns-532	2514	berapa persentase dakwaan ganda yang dianggap dapat didakwa setelah tahun 2015?	csv/200-csv/2514.csv	80.0
+ns-533	1056	berapa persen orang Kanada heteroseksual yang melaporkan bahwa mereka pernah berpikir serius untuk bunuh diri pada suatu saat dalam hidup mereka?	csv/200-csv/1056.csv	14.9
+ns-534	450	berapa jumlah pelaku yang paling umum?	csv/200-csv/450.csv	sejumlah pelaku
+ns-535	1476	berapa persentase ibu dengan penghasilan tunggal dan ibu dengan penghasilan ganda yang masing-masing memiliki ijazah sekolah menengah atas atau kurang?	csv/200-csv/1476.csv	27.5|19.9
+ns-536	1985	berapa persentase penduduk Indian non-status negara pertama pada tahun 2016 dalam kumpulan data terpadu yang dilaporkan sebagai non-aborigin pada sensus sebelumnya?	csv/200-csv/1985.csv	52.4
+ns-537	1929	berapa total pembunuhan pada tahun 2018, thunder bay terus mencatat angka pembunuhan tertinggi di antara cmas?	csv/200-csv/1929.csv	8.0
+ns-538	1345	berapa persen yang membobol dan masuk juga pengemudi di banyak cma dengan penurunan terbesar di saskatoon?	csv/200-csv/1345.csv	-8.0
+ns-539	2098	berapa tingkat kesuburan total yang ditemukan di nunavut?	csv/200-csv/2098.csv	2.97
+ns-540	465	berapa banyak orang dewasa di negara pertama yang studi ini secara keseluruhan meneliti hasil kematian selama periode 1991 hingga 2006?	csv/200-csv/465.csv	61220
+ns-541	1179	berapa penurunan jumlah remaja yang diterima di lembaga pemasyarakatan di antara sembilan yurisdiksi yang melaporkan dibandingkan dengan tahun 2016/2017?	csv/200-csv/1179.csv	12
+ns-542	1192	provinsi atau wilayah manakah yang menyumbang kontribusi terbesar kedua terhadap produk domestik bruto nasional?	csv/200-csv/1192.csv	Quebec
+ns-543	1177	berapa penurunan angka penahanan remaja di wilayah barat laut pada tahun 2016/2017?	csv/200-csv/1177.csv	13
+ns-544	2049	kelompok masyarakat manakah yang memiliki proporsi penghuni lebih tinggi di antara para penyewa perumahan sosial dan terjangkau? wanita atau pria?	csv/200-csv/2049.csv	perempuan
+ns-545	2533	berapa proporsi orang yang dilaporkan tinggal di rumah yang memerlukan perbaikan besar dan dilaporkan memiliki setidaknya satu kondisi kronis?	csv/200-csv/2533.csv	0,7
+ns-546	489	antara kelompok usia 18 hingga 34 tahun dan kelompok usia 45 tahun ke atas, mana yang memiliki prevalensi paparan lebih tinggi?	csv/200-csv/489.csv	18 hingga 34
+ns-547	1093	bagi perempuan, berapa persen peningkatan kemungkinan kepuasan terhadap pekerjaan mereka dikaitkan dengan pengendalian satu atau dua aspek fleksibilitas pekerjaan.	csv/200-csv/1093.csv	0,063
+ns-548	2012	di cmas individu winnipeg memiliki radio yang dioperasikan dengan angin atau baterai di rumah mereka, berapa persentasenya?	csv/200-csv/2012.csv	49.0
+ns-549	1555	berapa persen orang di pulau pangeran edward menggunakan radio?	csv/200-csv/1555.csv	57.0
+ns-550	606	berapa persen perempuan Aborigin yang tidak memiliki ijazah sekolah menengah atas?	csv/200-csv/606.csv	15.9
+ns-551	2447	berapa persentase lulusan yang memiliki pekerjaan yang berhubungan dengan bidang studinya pada suatu saat selama masa jabatannya.	csv/200-csv/2447.csv	45.7
+ns-552	1897	pada tahun 2011, berapa persentase perempuan Aborigin berusia 25 hingga 64 tahun yang memiliki sertifikat perdagangan?	csv/200-csv/1897.csv	9.4
+ns-553	464	berapa banyak orang yang merasa malu dengan interaksinya dengan orang lain?	csv/200-csv/464.csv	24.9
+ns-554	2721	berapa persentase revisi poin persentase absolut rata-rata terhadap tingkat pertumbuhan tahunan PDB nominal untuk periode 2014 hingga 2016?	csv/200-csv/2721.csv	0,13
+ns-555	382	berapa prevalensi disabilitas pada orang berusia 75 tahun ke atas?	csv/200-csv/382.csv	42.5
+ns-556	1506	pada saat berapa para korban lebih mungkin melaporkan bahwa kejahatan meningkat di lingkungan mereka dalam lima tahun sebelum survei dibandingkan dengan mereka yang bukan korban?	csv/200-csv/1506.csv	2.083333
+ns-557	744	motivasi manakah yang menjadi target korban kejahatan rasial dan kekerasan yang lebih mungkin mengakibatkan cedera?	csv/200-csv/744.csv	ras/etnis
+ns-558	641	di antara laki-laki berusia 25 hingga 29 tahun, berapa persen penurunan tingkat pekerjaan penuh waktu dari tahun 1976 hingga 2014?	csv/200-csv/641.csv	10.2
+ns-559	1875	identitas mana yang dikaitkan dengan peluang lebih rendah untuk mendapatkan kesehatan mental yang lengkap dalam model yang tidak disesuaikan untuk laki-laki, pribumi atau non-pribumi?	csv/200-csv/1875.csv	asli
+ns-560	1774	dari 625 orang yang menggunakan bahasa Prancis di rumah di nunavut, bagaimana banyak orang yang tinggal di iqaluit?	csv/200-csv/1774.csv	500,0

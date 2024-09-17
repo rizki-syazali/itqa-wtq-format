@@ -1,0 +1,17 @@
+kharakteristik,poin persentase sampel utama,persen sampel utama dari kesenjangan keseluruhan,poin persentase sampel kelahiran Kanada,persentase sampel kelahiran Kanada dari kesenjangan keseluruhan
+penguraian gelbach,,,,
+kesenjangan keseluruhan dekomposisi gelbach,0.385,,0.459,
+dekomposisi gelbach menjelaskan kesenjangan,0.324,84.2,0.365,94.7
+bagian dekomposisi gelbach dari kesenjangan pendapatan dalam partisipasi resp dicatat oleh,,,,
+bagian dekomposisi gelbach dari kesenjangan pendapatan dalam partisipasi sektoral diperhitungkan berdasarkan demografi,-0.053,-13.8,0.003,0.8
+bagian dekomposisi gelbach dari kesenjangan pendapatan dalam partisipasi resp dicatat oleh kekayaan bersih,0.276,71.7,0.301,78.2
+dekomposisi gelbach bagian kesenjangan pendapatan dalam partisipasi sektor pendidikan,0.029,7.5,0.051,13.2
+dekomposisi gelbach bagian kesenjangan pendapatan dalam partisipasi sektor kesehatan disebabkan oleh literasi keuangan,0.072,18.7,0.046,11.9
+dekomposisi oaxaca-blinder,,,,
+kesenjangan keseluruhan dekomposisi oaxaca-blinder,0.385,,0.459,
+dekomposisi oaxaca-blinder menjelaskan kesenjangan,0.279,72.5,0.36,93.5
+dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi resp dicatat oleh,,,,
+dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi sektor kesehatan ditentukan oleh demografi,-0.09,-23.4,-0.024,-6.2
+dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi resp dicatat oleh kekayaan bersih,0.304,79.0,0.32,83.1
+dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi sektor kesehatan disebabkan oleh pendidikan,0.016,4.2,0.034,8.8
+dekomposisi oaxaca-blinder bagian kesenjangan pendapatan dalam partisipasi sektor kesehatan disebabkan oleh literasi keuangan,0.05,13.0,0.03,7.8

@@ -1,0 +1,12 @@
+kharakteristik,kemungkinan mengimpor kolom 7,kemungkinan mengimpor kolom 8,jumlah produk kolom 9,jumlah produk kolom 10,nilai rata-rata per kolom produk 11,nilai rata-rata per kolom produk 12
+milik imigran di t-1,,,,,,
+milik imigran dalam koefisien t-1,-0.008,-0.03,-0.017,-0.218,0.414,0.147
+milik imigran dalam kesalahan standar t-1,0.002,0.002,0.014,0.015,0.024,0.027
+impor dari daerah kelahirannya,,,,,,
+impor dari daerah koefisien kelahiran,,0.162,,0.666,,0.883
+impor dari wilayah kesalahan standar kelahiran,,0.003,,0.021,,0.032
+efek gabungan,,,,,,
+koefisien efek gabungan,,0.132,,0.448,,1.03
+kesalahan standar efek gabungan,,0.003,,0.02,,0.03
+jumlah efek gabungan observasi,3936163.0,3936163.0,487909.0,487909.0,487909.0,487909.0
+efek gabungan r-kuadrat,0.191,0.196,0.174,0.183,0.135,0.14

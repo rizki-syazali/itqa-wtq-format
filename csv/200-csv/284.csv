@@ -1,0 +1,16 @@
+kharakteristik,Koefisien 1999,Kesalahan standar bootstrap 1999,Koefisien 2012,Kesalahan standar bootstrap 2012
+kuintil pendapatan setelah pajak teratas,0.318,0.028,0.679,0.023
+kuintil pendapatan setelah pajak terbawah,0.098,0.011,0.253,0.025
+kuintil pendapatan setelah pajak teratas dikurangi kuintil pendapatan setelah pajak terbawah,0.219,0.03,0.426,0.035
+menjelaskan bagian perbedaannya,0.136,0.028,0.302,0.051
+bagian perbedaan yang tidak dapat dijelaskan,0.083,0.044,0.123,0.07
+komponen yang dijelaskan secara rinci,,,,
+kekayaan bersih komponen dijelaskan secara rinci,0.077,0.025,0.184,0.044
+dijelaskan secara rinci komponen pendidikan orang tua,0.052,0.017,0.103,0.023
+dijelaskan secara rinci komponen usia orang tua,0.007,0.009,-0.008,0.017
+dijelaskan secara rinci komponen status perkawinan orang tua,0.007,0.006,0.031,0.015
+dijelaskan secara rinci komponen jumlah anak,-0.008,0.005,-0.012,0.008
+dijelaskan secara rinci komponen usia anak bungsu,0.004,0.007,0.003,0.018
+dijelaskan secara rinci komponen usia anak sulung,-0.011,0.006,-0.009,0.013
+menjelaskan secara rinci komponen wilayah,0.008,0.005,0.005,0.005
+menjelaskan secara rinci komponen status perkotaan/pedesaan,-0.001,0.005,0.005,0.003

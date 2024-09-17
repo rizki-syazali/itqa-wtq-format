@@ -1,0 +1,17 @@
+kharakteristik,berat keranjang sub-komponen pada bulan tautan,donor imputasi
+"operasi rumah tangga, perabotan dan peralatan",,
+"operasi rumah tangga, perabotan dan peralatan layanan penitipan anak",0.15,all-items
+"operasi rumah tangga, perabotan dan peralatan layanan rumah tangga",0.31,all-items
+angkutan,,
+transportasi transportasi udara,0.35,"affected sub-components imputed from parent, air transportation"
+kesehatan dan perawatan pribadi,,
+layanan perawatan pribadi kesehatan dan perawatan pribadi,0.93,all-items
+rekreasi,,
+layanan rekreasi rekreasi,0.13,all-items
+wisata perjalanan rekreasi,1.21,all-items
+hiburan penonton rekreasi,0.35,all-items
+penggunaan rekreasi fasilitas dan layanan rekreasi,0.62,all-items
+"minuman beralkohol, produk tembakau, dan ganja rekreasi",,
+"minuman beralkohol, produk tembakau, dan bir ganja rekreasional yang disajikan di tempat berlisensi",0.34,beer purchased from stores
+"minuman beralkohol, produk tembakau, dan anggur ganja rekreasional yang disajikan di tempat berlisensi",0.13,wine purchased from stores
+"minuman beralkohol, produk tembakau, dan minuman keras ganja yang disajikan di tempat yang memiliki izin",0.19,liquor purchased from stores

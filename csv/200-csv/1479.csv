@@ -1,0 +1,19 @@
+kharakteristik,koefisien diploma perguruan tinggi,kesalahan standar ijazah perguruan tinggi,efek persen ijazah perguruan tinggi,koefisien gelar sarjana universitas,kesalahan standar gelar sarjana universitas,pengaruh persen gelar sarjana universitas
+gabungan pria dan wanita,,,,,,
+laki-laki dan perempuan menggabungkan kuintil pendapatan terbawah,0.877,0.047,140.3,1.211,0.046,235.7
+laki-laki dan perempuan menggabungkan kuintil pendapatan kedua,0.564,0.031,75.8,0.861,0.031,136.5
+laki-laki dan perempuan menggabungkan kuintil pendapatan ketiga,0.432,0.034,54.0,0.706,0.031,102.7
+laki-laki dan perempuan menggabungkan kuintil pendapatan keempat,0.312,0.037,36.7,0.567,0.029,76.3
+laki-laki dan perempuan menggabungkan kuintil pendapatan tertinggi,0.151,0.055,16.3,0.432,0.036,54.0
+laki-laki,,,,,,
+kuintil pendapatan terbawah laki-laki,0.634,0.052,88.6,0.904,0.051,147.0
+kuintil pendapatan kedua laki-laki,0.377,0.04,45.8,0.632,0.04,88.2
+kuintil pendapatan ketiga laki-laki,0.243,0.039,27.6,0.471,0.037,60.1
+kuintil pendapatan keempat laki-laki,0.189,0.044,20.8,0.373,0.036,45.2
+kuintil pendapatan teratas pria,0.062,0.067,6.4,0.256,0.042,29.1
+wanita,,,,,,
+kuintil pendapatan terbawah perempuan,1.427,0.112,316.4,1.805,0.108,508.1
+kuintil pendapatan kedua perempuan,0.844,0.065,132.6,1.214,0.063,236.6
+kuintil pendapatan ketiga perempuan,0.79,0.074,120.4,1.147,0.067,214.8
+kuintil pendapatan keempat perempuan,0.633,0.09,88.2,0.965,0.071,162.6
+kuintil pendapatan teratas perempuan,0.5,0.119,64.8,0.894,0.086,144.6

@@ -1,0 +1,54 @@
+kharakteristik,wanita,laki-laki
+kelompok usia probabilitas yang diprediksi,,
+prediksi probabilitas kelompok usia 18 hingga 24 tahun,0.11,0.07
+prediksi probabilitas kelompok usia 25 hingga 34 tahun,0.1,0.07
+prediksi probabilitas kelompok usia 35 hingga 44 tahun,0.07,0.06
+prediksi probabilitas kelompok usia 45 hingga 54 tahun,0.07,0.04
+prediksi probabilitas kelompok usia 55 hingga 64 tahun,0.04,0.03
+prediksi probabilitas kelompok usia 65 tahun ke atas,0.03,0.04
+wilayah probabilitas yang diprediksi,,
+prediksi probabilitas wilayah Atlantik,0.08,0.05
+prediksi probabilitas wilayah quebec,0.05,0.04
+prediksi probabilitas wilayah ontario,0.08,0.06
+prediksi probabilitas wilayah barat,0.08,0.06
+prediksi kemungkinan status perkawinan,,
+prediksi kemungkinan status perkawinan menikah,0.06,0.04
+prediksi kemungkinan status perkawinan menurut hukum adat,0.08,0.03
+prediksi kemungkinan status perkawinan berpisah/bercerai,0.11,0.11
+prediksi kemungkinan status perkawinan lajang,0.09,0.08
+pendidikan probabilitas yang diprediksi,,
+prediksi probabilitas pendidikan ijazah SMA atau kurang,0.07,0.05
+prediksi probabilitas pendidikan pasca sekolah menengah di bawah tingkat sarjana,0.07,0.06
+prediksi probabilitas pendidikan gelar sarjana atau lebih tinggi,0.08,0.06
+prediksi probabilitas pendidikan orang tua,,
+prediksi probabilitas pendidikan orang tua keduanya mempunyai gelar sarjana,0.1,0.07
+prediksi probabilitas pendidikan orang tua paling sedikit memiliki gelar sarjana,0.09,0.06
+prediksi probabilitas pendidikan orang tua juga tidak memiliki gelar sarjana,0.07,0.05
+prediksi probabilitas pendidikan orang tua tidak mengetahui tingkat pendidikan salah satu orang tua,0.04,0.05
+prediksi probabilitas pendapatan rumah tangga,,
+prediksi probabilitas pendapatan rumah tangga kurang dari $40.000,0.11,0.04
+prediksi probabilitas pendapatan rumah tangga $40.000 hingga $79.999,0.07,0.06
+prediksi probabilitas pendapatan rumah tangga $80.000 atau lebih,0.07,0.05
+prediksi probabilitas pendapatan rumah tangga tidak disebutkan,0.08,0.06
+prediksi kemungkinan identitas penduduk asli,,
+prediksi probabilitas identitas penduduk asli,0.09,0.06
+prediksi probabilitas identitas penduduk asli non-penduduk asli,0.07,0.05
+prediksi probabilitas tempat lahir responden,,
+prediksi probabilitas tempat lahir responden yang lahir di Kanada,0.08,0.05
+prediksi probabilitas tempat lahir responden yang lahir di luar Kanada,0.07,0.06
+probabilitas prediksi status minoritas yang terlihat,,
+probabilitas prediksi status minoritas terlihat minoritas terlihat,0.06,0.04
+probabilitas prediksi status minoritas yang terlihat bukan minoritas yang terlihat,0.08,0.06
+prediksi kemungkinan orientasi seksual,,
+prediksi kemungkinan orientasi seksual heteroseksual,0.08,0.05
+prediksi kemungkinan orientasi seksual homoseksual/biseksual,0.07,0.07
+prediksi kemungkinan pengalaman pelecehan sebelum usia 15 tahun,,
+prediksi kemungkinan pengalaman pelecehan sebelum usia 15 tahun mengalami kekerasan fisik atau pelecehan seksual,0.1,0.07
+prediksi kemungkinan pengalaman pelecehan sebelum usia 15 tahun mengalami pelecehan fisik dan seksual,0.15,0.14
+prediksi kemungkinan pengalaman pelecehan sebelum usia 15 tahun tidak ada,0.06,0.04
+prediksi probabilitas menyaksikan kekerasan yang melibatkan setidaknya satu orang tua sebelum usia 15 tahun,,
+prediksi kemungkinan menyaksikan kekerasan yang melibatkan setidaknya satu orang tua sebelum usia 15 tahun ya,0.1,0.08
+prediksi probabilitas menyaksikan kekerasan yang melibatkan setidaknya satu orang tua sebelum usia 15 tahun no,0.07,0.05
+prediksi probabilitas mengalami diskriminasi dalam lima tahun terakhir,,
+prediksi probabilitas mengalami diskriminasi dalam lima tahun terakhir ya,0.13,0.1
+prediksi probabilitas mengalami diskriminasi dalam lima tahun terakhir no,0.06,0.04

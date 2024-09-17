@@ -1,0 +1,52 @@
+kharakteristik,jumlah total kelahiran tunggal,total kelahiran tunggal%,total kelahiran tunggal 95% interval kepercayaan dari,total kelahiran tunggal dengan interval kepercayaan 95%.,angka kecil untuk usia kehamilan per 100 kelahiran,interval kepercayaan 95% kecil untuk usia kehamilan dari,interval kepercayaan 95% kecil untuk usia kehamilan,angka prematur per 100 kelahiran,interval kepercayaan 95% prematur dari,interval kepercayaan 95% prematur menjadi
+total,127694.0,100.0,,,8.2,8.1,8.4,6.4,6.3,6.5
+seks anak,,,,,,,,,,
+anak berjenis kelamin laki-laki,65324.0,51.4,51.2,51.5,8.4,8.2,8.6,6.9,6.7,7.1
+jenis kelamin anak perempuan,62370.0,48.6,48.5,48.8,8.1,7.9,8.3,5.9,5.7,6.1
+tahun kelahiran anak,,,,,,,,,,
+kelahiran anak tahun 2004,39791.0,31.2,31.0,31.3,8.0,7.8,8.3,6.5,6.3,6.8
+kelahiran anak tahun 2005,63815.0,50.2,50.1,50.4,8.3,8.0,8.5,6.4,6.2,6.6
+kelahiran anak tahun 2006,24088.0,18.6,18.5,18.7,8.5,8.1,8.9,6.3,6.0,6.7
+kelompok usia ibu,,,,,,,,,,
+kelompok usia ibu di bawah 20 tahun,6162.0,4.0,4.0,4.1,10.8,9.8,11.9,8.4,7.6,9.3
+kelompok usia ibu 20 hingga 24 tahun,21162.0,16.2,16.1,16.3,9.6,9.1,10.1,6.5,6.1,6.9
+kelompok usia ibu 25 hingga 29 tahun,39353.0,31.1,30.9,31.2,8.1,7.8,8.4,6.0,5.7,6.3
+kelompok usia ibu 30 hingga 34 tahun,39386.0,31.5,31.3,31.6,7.4,7.2,7.7,6.1,5.8,6.3
+kelompok usia ibu 35 hingga 39 tahun,18033.0,14.3,14.2,14.4,8.1,7.7,8.5,6.7,6.3,7.1
+kelompok usia ibu 40 atau lebih,3598.0,2.9,2.9,3.0,8.4,7.4,9.5,9.8,8.8,10.9
+urutan kelahiran hidup,,,,,,,,,,
+urutan kelahiran hidup terlebih dahulu,56055.0,46.5,46.2,46.8,10.5,10.2,10.7,7.3,7.1,7.6
+urutan kelahiran hidup kedua,44301.0,35.3,35.0,35.5,6.2,6.0,6.5,5.2,5.0,5.5
+kelahiran hidup urutan ketiga atau lebih tinggi,27338.0,18.3,18.0,18.5,6.4,6.1,6.8,6.3,6.0,6.7
+wilayah kelahiran,,,,,,,,,,
+wilayah kelahiran Atlantik,7928.0,6.3,6.3,6.4,8.0,7.4,8.7,6.4,5.9,7.1
+wilayah kelahiran Quebec,27724.0,22.1,22.0,22.2,8.2,7.9,8.5,6.2,5.9,6.5
+wilayah kelahiran ontario,45823.0,39.2,39.0,39.3,8.5,8.3,8.8,6.2,6.0,6.5
+wilayah kelahiran manitoba,7989.0,4.2,4.2,4.3,8.7,7.9,9.5,7.3,6.6,8.0
+wilayah kelahiran saskatchewan,6059.0,3.5,3.5,3.6,8.0,7.2,8.9,6.2,5.5,7.0
+wilayah kelahiran alberta,16379.0,12.3,12.2,12.4,8.6,8.1,9.1,7.4,7.0,7.9
+wilayah kelahiran British Columbia,14204.0,12.0,11.9,12.1,7.2,6.8,7.7,5.9,5.4,6.3
+wilayah wilayah kelahiran,1588.0,0.4,0.4,0.4,5.6,4.2,7.5,7.0,5.9,8.3
+etnis ibu,,,,,,,,,,
+etnis ibu kaukasia,87308.0,73.8,73.5,74.1,7.2,7.1,7.4,6.1,5.9,6.2
+etnis ibu pribumi,17285.0,5.9,5.6,6.2,6.4,5.8,6.9,8.2,7.6,8.8
+etnis ibu berkulit hitam,3824.0,3.4,3.3,3.5,11.5,10.5,12.6,9.2,8.2,10.3
+etnis ibu di Asia Timur,4945.0,4.3,4.2,4.4,9.8,9.0,10.7,5.5,4.9,6.1
+etnis ibu di Asia Tenggara,3211.0,2.9,2.7,3.0,14.4,13.1,15.8,9.3,8.3,10.4
+etnis ibu di Asia Selatan,6896.0,6.1,6.0,6.3,15.9,15.1,16.9,7.0,6.4,7.7
+etnis ibu lainnya,4225.0,3.7,3.5,3.8,9.2,8.4,10.1,5.7,4.9,6.5
+status perkawinan ibu,,,,,,,,,,
+status perkawinan ibu lajang,16933.0,11.6,11.4,11.8,10.8,10.3,11.4,8.0,7.5,8.5
+status perkawinan ibu menurut hukum adat,31077.0,23.3,23.0,23.5,8.4,8.0,8.7,6.7,6.4,7.0
+status perkawinan ibu menikah,79684.0,65.1,64.9,65.4,7.7,7.6,7.9,6.0,5.8,6.2
+pendidikan ibu,,,,,,,,,,
+pendidikan ibu kurang dari kelulusan sekolah menengah,22514.0,13.4,13.1,13.6,10.5,10.0,11.0,7.7,7.3,8.1
+kelulusan menengah pendidikan ibu,27197.0,22.0,21.8,22.3,8.6,8.3,9.0,6.6,6.3,7.0
+ijazah atau sertifikat pasca sekolah menengah pendidikan ibu,42778.0,35.2,34.8,35.5,7.8,7.6,8.1,6.5,6.2,6.7
+gelar universitas pendidikan ibu,35205.0,29.5,29.2,29.7,7.4,7.1,7.7,5.6,5.3,5.9
+kuintil kecukupan pendapatan ekonomi keluarga ibu,,,,,,,,,,
+kuintil kecukupan pendapatan ekonomi keluarga ibu 1,28111.0,20.1,19.8,20.3,9.9,9.5,10.3,7.1,6.7,7.4
+kuintil kecukupan pendapatan ekonomi keluarga ibu 2,25482.0,19.9,19.7,20.2,8.8,8.5,9.2,6.3,6.0,6.7
+kuintil kecukupan pendapatan ekonomi keluarga ibu 3,24807.0,19.9,19.7,20.2,7.9,7.6,8.3,6.2,5.9,6.6
+kuintil kecukupan pendapatan ekonomi keluarga ibu 4,24617.0,20.1,19.8,20.3,7.6,7.2,7.9,6.1,5.7,6.4
+kuintil kecukupan pendapatan ekonomi keluarga ibu 5,24677.0,20.0,19.8,20.2,7.0,6.6,7.3,6.3,6.0,6.6

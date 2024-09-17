@@ -1,0 +1,34 @@
+kharakteristik,1 hingga 2 tahun setelah mendarat bahasa ibu Inggris/Perancis,"1 hingga 2 tahun setelah menggunakan bahasa ibu lainnya, berbicara bahasa Inggris/Perancis","1 hingga 2 tahun setelah menggunakan bahasa ibu lainnya, tidak berbicara bahasa resmi",5 sampai 6 tahun setelah mendarat bahasa ibu inggris/perancis,"5 hingga 6 tahun setelah menggunakan bahasa ibu lainnya, berbicara bahasa Inggris/Perancis","5 hingga 6 tahun setelah menggunakan bahasa ibu lainnya, tidak berbicara bahasa resmi"
+intersep koefisien,10.02,9.96,9.87,10.25,10.17,10.28
+usia koefisien,,,,,,
+koefisien usia 20 hingga 24 tahun,0.03,-0.08,-0.03,-0.03,-0.05,-0.11
+koefisien usia 30 hingga 34,0.06,-0.06,0.02,0.04,-0.08,-0.08
+koefisien usia 35 hingga 39,0.1,-0.14,-0.02,0.06,-0.15,-0.21
+koefisien usia 40 hingga 44,0.05,-0.19,-0.02,-0.02,-0.26,-0.39
+koefisien usia 45 hingga 49,0.02,-0.27,0.0,-0.07,-0.36,-0.48
+koefisien usia 50 hingga 54,-0.04,-0.28,-0.11,-0.28,-0.47,-0.43
+koefisien pendidikan,,,,,,
+koefisien pendidikan 9 tahun atau kurang bersekolah,0.31,-0.11,0.0,0.58,0.03,-0.12
+koefisien pendidikan 13 tahun atau lebih bersekolah,0.22,0.01,-0.09,0.34,0.23,-0.16
+"koefisien pendidikan perdagangan atau diploma, 12 tahun sekolah atau kurang",0.26,0.14,0.11,0.37,0.25,0.04
+"koefisien pendidikan perdagangan atau diploma, 13 tahun atau lebih sekolah",0.3,0.04,-0.21,0.47,0.18,-0.06
+koefisien pendidikan beberapa universitas,0.25,0.03,-0.4,0.49,0.25,-0.09
+"koefisien pendidikan sarjana, 14 tahun atau kurang sekolah",0.27,0.05,-0.07,0.41,0.28,0.23
+"koefisien pendidikan sarjana, 15 tahun atau lebih sekolah",0.42,0.03,-0.26,0.59,0.33,0.1
+"koefisien pendidikan master, 16 tahun atau kurang bersekolah",0.32,-0.05,-0.31,0.55,0.2,0.1
+"koefisien pendidikan master, 17 tahun atau lebih sekolah",0.52,0.08,-0.28,0.74,0.39,0.14
+koefisien pendidikan doktor,0.59,0.1,-0.23,0.78,0.42,0.1
+koefisien tahun pengalaman kerja Kanada,,,,,,
+koefisien tahun pengalaman kerja Kanada lebih dari 0 hingga kurang dari 1,0.55,0.7,0.54,0.33,0.36,0.35
+koefisien tahun pengalaman kerja Kanada 1 hingga kurang dari 2,0.75,0.69,0.3,0.5,0.39,0.31
+koefisien tahun pengalaman kerja Kanada 2 hingga kurang dari 3,1.0,0.93,0.42,0.62,0.58,0.4
+koefisien tahun pengalaman kerja Kanada 3 hingga kurang dari 4,1.08,0.98,0.74,0.66,0.59,0.38
+koefisien tahun pengalaman kerja Kanada 4 hingga kurang dari 5,1.27,1.12,0.91,0.84,0.69,0.48
+koefisien tahun pengalaman kerja Kanada 5 atau lebih,1.31,1.32,0.43,0.88,0.73,-0.05
+koefisien tahun studi di Kanada,,,,,,
+koefisien tahun studi di Kanada lebih dari 0 hingga kurang dari 1,-0.3,0.04,-0.13,-0.28,0.02,0.08
+koefisien tahun studi di Kanada 1 hingga kurang dari 2,-0.26,-0.17,-0.31,-0.25,-0.05,-0.16
+koefisien tahun studi di Kanada 2 hingga kurang dari 3,-0.28,-0.1,0.43,-0.27,0.03,0.13
+koefisien tahun studi di Kanada 3 hingga kurang dari 4,-0.36,-0.24,0.12,-0.2,-0.01,0.23
+koefisien tahun studi di Kanada 4 hingga kurang dari 5,-0.23,-0.2,-0.43,-0.1,-0.08,0.1
+koefisien tahun studi di Kanada 5 atau lebih,-0.44,-0.25,0.31,-0.31,-0.17,0.45

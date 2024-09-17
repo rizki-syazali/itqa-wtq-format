@@ -1,0 +1,42 @@
+kharakteristik,Rasio utang terhadap pendapatan rata-rata tahun 1999,Rasio utang terhadap pendapatan rata-rata tahun 2012,Rasio utang terhadap aset median tahun 1999,Rasio utang terhadap aset median tahun 2012
+semua,0.78,1.1,0.27,0.25
+usia pencari nafkah utama,,,,
+usia pencari nafkah utama 15 hingga 34,0.83,1.28,0.52,0.53
+usia pencari nafkah utama 35 hingga 44,1.15,1.93,0.31,0.39
+usia pencari nafkah utama 45 hingga 54,0.75,1.16,0.18,0.2
+usia pencari nafkah utama 55 hingga 64,0.48,0.84,0.08,0.11
+usia pencari nafkah utama 65 tahun ke atas,0.24,0.42,0.05,0.05
+pendidikan mereka yang berpenghasilan besar,,,,
+pendidikan bagi mereka yang berpenghasilan utama kurang dari sekolah menengah atas,0.44,0.5,0.22,0.2
+pendidikan sekolah menengah yang berpenghasilan besar,0.83,0.94,0.29,0.26
+pendidikan perguruan tinggi/perdagangan yang berpenghasilan besar,0.93,1.26,0.3,0.28
+pendidikan gelar universitas dengan pendapatan utama,0.96,1.43,0.24,0.23
+struktur keluarga,,,,
+struktur keluarga non-senior,,,,
+struktur keluarga lajang non-senior,0.55,0.82,0.4,0.4
+struktur keluarga pasangan non-senior tanpa anak atau dengan anak berusia 18 tahun ke atas,0.79,1.2,0.2,0.19
+struktur keluarga pasangan non-senior dengan anak di bawah 18 tahun,1.24,1.94,0.33,0.34
+struktur keluarga orang tua tunggal non-senior,0.62,0.62,0.42,0.37
+struktur keluarga non-senior lainnya,0.48,0.65,0.17,0.21
+struktur keluarga senior,0.24,0.42,0.05,0.05
+status imigran yang berpenghasilan besar,,,,
+status imigran berpenghasilan besar yang berimigrasi dalam 10 tahun terakhir,0.89,1.66,0.52,0.45
+status imigran yang berpenghasilan besar lebih dari 10 tahun sejak imigrasi,0.88,1.37,0.25,0.26
+status imigran pencari nafkah utama kelahiran Kanada,0.76,1.03,0.26,0.24
+wilayah,,,,
+wilayah Atlantik,0.56,0.87,0.2,0.22
+wilayah Quebec,0.66,0.75,0.24,0.19
+wilayah ontario,0.92,1.18,0.29,0.27
+wilayah manitoba dan saskatchewan,0.72,0.99,0.22,0.23
+wilayah alberta,0.92,1.6,0.31,0.31
+wilayah columbia inggris,0.98,1.43,0.31,0.27
+status kepemilikan rumah,,,,
+pemilik status kepemilikan rumah dengan hipotek,1.72,2.46,0.35,0.35
+pemilik status kepemilikan rumah tanpa hipotek,0.25,0.38,0.03,0.03
+status kepemilikan rumah bukan pemilik,0.27,0.31,0.34,0.37
+kuintil pendapatan,,,,
+kuintil pendapatan kuintil terbawah,0.62,0.76,0.45,0.4
+kuintil pendapatan kuintil kedua,0.64,0.79,0.28,0.28
+kuintil pendapatan kuintil menengah,0.88,1.36,0.28,0.27
+kuintil pendapatan kuintil keempat,0.91,1.34,0.24,0.21
+kuintil pendapatan kuintil teratas,0.87,1.24,0.18,0.16

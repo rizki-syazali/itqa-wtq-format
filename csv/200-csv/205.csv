@@ -1,0 +1,35 @@
+kharakteristik,negara pertama yang bukan pemberi kerja,majikan negara pertama,inuit bukan majikan,majikan yang tidak masuk akal,kelompok pembanding non-pribumi yang bukan pemberi kerja,majikan kelompok pembanding non-pribumi
+barang jutaan dolar,,,,,,
+barang jutaan dolar tidak ada pendapatan,-3.0,0.0,0.0,,,-7.0
+barang jutaan dolar lebih dari $0 dan kurang dari $30.000,-1.0,-1.0,0.0,,-24.0,-11.0
+barang jutaan dolar antara $30.000 dan $100.000,0.0,-1.0,0.0,0.0,7.0,-13.0
+barang jutaan dolar antara $100.000 dan $250.000,2.0,,0.0,0.0,64.0,23.0
+barang jutaan dolar antara $250.000 dan $1.000.000,6.0,,0.0,0.0,75.0,171.0
+barang jutaan dolar di atas $1.000.000,-3.0,49.0,3.0,19.0,78.0,2176.0
+barang jutaan dolar semua kelas pendapatan,1.0,48.0,3.0,19.0,186.0,2339.0
+barang jutaan dolar,,,,,,
+barang jutaan dolar tidak ada pendapatan,-1.0,,,,,
+barang jutaan dolar lebih dari $0 dan kurang dari $30.000,-2.0,-1.0,,,-38.0,-87.0
+barang jutaan dolar antara $30.000 dan $100.000,0.0,,,,6.0,-27.0
+barang jutaan dolar antara $100.000 dan $250.000,1.0,-4.0,,,99.0,-19.0
+barang jutaan dolar antara $250.000 dan $1.000.000,4.0,3.0,,,630.0,419.0
+barang jutaan dolar di atas $1.000.000,12.0,35.0,1.0,,654.0,1881.0
+barang jutaan dolar semua kelas pendapatan,15.0,33.0,1.0,-1.0,1338.0,2161.0
+layanan jutaan dolar,,,,,,
+jutaan dolar layanan tidak ada pendapatan,,-1.0,0.0,,-68.0,
+jutaan dolar layanan lebih dari $0 dan kurang dari $30.000,-4.0,-1.0,0.0,,-85.0,-47.0
+layanan jutaan dolar antara $30.000 dan $100.000,4.0,-1.0,0.0,0.0,119.0,-34.0
+layanan jutaan dolar antara $100.000 dan $250.000,11.0,1.0,2.0,0.0,256.0,89.0
+layanan jutaan dolar antara $250.000 dan $1.000.000,18.0,-11.0,2.0,3.0,798.0,653.0
+jutaan dolar layanan lebih dari $1.000.000,90.0,116.0,8.0,63.0,1556.0,2338.0
+jutaan dolar melayani semua kelas pendapatan,111.0,103.0,11.0,66.0,2575.0,2985.0
+jutaan dolar belum ditugaskan,,,,,,
+"jutaan dolar tanpa ditetapkan, tidak ada pendapatan",-3.0,0.0,0.0,,-9.0,-1.0
+jutaan dolar yang belum ditetapkan lebih dari $0 dan kurang dari $30.000,-2.0,-5.0,0.0,,-6.0,-2.0
+jutaan dolar yang belum ditetapkan antara $30.000 dan $100.000,1.0,0.0,0.0,,39.0,0.0
+jutaan dolar yang belum ditetapkan antara $100.000 dan $250.000,2.0,-1.0,1.0,,92.0,11.0
+jutaan dolar yang belum ditetapkan antara $250.000 dan $1.000.000,2.0,1.0,,,134.0,20.0
+jutaan dolar yang belum ditugaskan lebih dari $1.000.000,24.0,-1.0,,,186.0,22.0
+jutaan dolar membatalkan penetapan semua kelas pendapatan,25.0,-5.0,2.0,0.0,435.0,51.0
+jutaan dolar semua industri,,,,,,
+jutaan dolar semua industri semua kelas pendapatan,152.0,178.0,17.0,85.0,4535.0,7537.0

@@ -1,0 +1,34 @@
+kharakteristik,%,Interval kepercayaan 95% dari,Interval kepercayaan 95% sampai,rasio peluang,Interval kepercayaan 95% dari,Interval kepercayaan 95% sampai
+seks,,,,,,
+jenis kelamin perempuan,46.9,45.3,48.5,1.0,,
+jenis kelamin laki-laki,49.4,47.7,51.0,1.12,1.03,1.23
+kelompok umur,,,,,,
+kelompok usia 12 hingga 17 tahun,54.5,50.7,58.3,2.14,1.7,2.71
+kelompok usia 18 hingga 34 tahun,63.4,61.0,65.7,3.05,2.6,3.58
+kelompok usia 35 hingga 44 tahun,58.7,55.4,62.0,2.46,2.01,3.01
+kelompok usia 45 atau lebih,35.8,34.2,37.3,1.0,,
+pendidikan,,,,,,
+pendidikan ijazah menengah atau setara atau kurang,39.1,37.4,40.7,1.0,,
+pendidikan beberapa pendidikan pasca sekolah menengah,50.2,48.2,52.1,1.5,1.32,1.71
+"sertifikat universitas pendidikan, diploma atau gelar",58.6,56.2,61.0,2.11,1.84,2.42
+pendidikan tidak berlaku/tidak tahu/menolak/tidak disebutkan,39.2,30.9,47.6,,,
+bekerja di pekerjaan,,,,,,
+bekerja di tempat kerja ya,57.3,55.7,58.8,2.62,2.34,2.94
+bekerja di pekerjaan no,33.8,31.7,35.9,1.0,,
+bekerja pada pekerjaan tidak melamar / tidak tahu / penolakan / tidak disebutkan,20.4,18.2,22.5,,,
+status pekerjaan,,,,,,
+status pekerjaan pegawai,58.7,57.0,60.5,1.23,1.04,1.45
+status pekerjaan wiraswasta/usaha keluarga tidak dibayar,53.4,49.5,57.3,1.0,,
+status pekerjaan tidak berlaku/tidak tahu/penolakan/tidak disebutkan,33.6,32.1,35.2,,,
+pendapatan rumah tangga,,,,,,
+"pendapatan rumah tangga $39,999 atau kurang",31.4,29.5,33.3,,,
+pendapatan rumah tangga $40.000 hingga $69.999,45.1,42.8,47.4,,,
+pendapatan rumah tangga $70.000 hingga $99.999,51.6,48.8,54.4,,,
+"pendapatan rumah tangga $100,000 hingga $149,999",58.3,55.4,61.2,,,
+"pendapatan rumah tangga $150,000 atau lebih",62.9,59.8,66.0,,,
+pendapatan rumah tangga tidak berlaku/tidak tahu/menolak/tidak disebutkan,62.5,41.2,83.8,,,
+wilayah,,,,,,
+wilayah provinsi barat,55.0,52.9,57.1,1.24,1.05,1.46
+wilayah Quebec,36.7,34.3,39.1,0.59,0.49,0.71
+wilayah provinsi Atlantik,47.4,45.1,49.7,0.93,0.78,1.1
+wilayah ontario,49.5,47.4,51.6,1.0,,

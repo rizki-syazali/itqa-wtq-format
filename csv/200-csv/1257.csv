@@ -1,0 +1,54 @@
+kharakteristik,tahun terakhir kehidupan nomor rawat inap,tahun terakhir kehidupan kelompok persen yang dirawat di rumah sakit,tahun terakhir kehidupan nomor perawatan paliatif rawat inap,tahun terakhir kehidupan setiap persen perawatan paliatif rawat inap kohort yang dirawat di rumah sakit,sebelum 30 hari terakhir kehidupan nomor rawat inap,sebelum 30 hari terakhir kehidupan kelompok persen dirawat di rumah sakit,sebelum nomor perawatan paliatif pra terminal 30 hari terakhir kehidupan,sebelum 30 hari terakhir kehidupan perawatan paliatif pra-terminal persen kohort yang dirawat di rumah sakit,sebelum 30 hari terakhir kehidupan perawatan paliatif pra-terminal persen setiap kohort perawatan paliatif rawat inap yang dirawat di rumah sakit sebelum terminal
+keseluruhan,592800.0,67.3,111145.0,18.7,364350.0,41.4,14865.0,4.1,21.7
+tahun kematian,,,,,,,,,
+tahun kematian 2010,89040.0,66.8,17100.0,19.2,53670.0,40.3,2455.0,4.6,23.3
+tahun kematian 2011,122400.0,67.4,23290.0,19.0,74425.0,41.0,3245.0,4.4,22.5
+tahun kematian 2012,123705.0,67.4,22995.0,18.6,76090.0,41.5,2985.0,3.9,21.2
+tahun kematian 2013,127780.0,67.7,23785.0,18.6,79330.0,42.0,3100.0,3.9,21.2
+tahun kematian 2014,129880.0,67.2,23970.0,18.5,80825.0,41.8,3085.0,3.8,20.9
+propinsi,,,,,,,,,
+provinsi newfoundland dan labrador,14120.0,63.9,3320.0,23.5,8320.0,37.6,385.0,4.6,19.2
+provinsi pulau pangeran edward,3580.0,62.5,860.0,24.0,2310.0,40.3,140.0,6.1,24.8
+provinsi nova scotia,26945.0,66.4,8255.0,30.6,15355.0,37.9,1055.0,6.9,22.4
+provinsi brunswick baru,21965.0,71.0,6050.0,27.5,13495.0,43.7,625.0,4.6,16.1
+provinsi ontario,294795.0,68.1,49695.0,16.9,178910.0,41.4,5970.0,3.3,20.3
+provinsi manitoba,29125.0,60.8,7190.0,24.7,17265.0,36.1,720.0,4.2,17.1
+provinsi saskatchewan,28655.0,66.0,6035.0,21.1,18830.0,43.4,980.0,5.2,23.4
+provinsi alberta,69175.0,67.0,10570.0,15.3,44595.0,43.2,1515.0,3.4,21.5
+provinsi columbia inggris,104440.0,67.8,19170.0,18.4,65265.0,42.4,3480.0,5.3,28.1
+kelompok umur,,,,,,,,,
+kelompok umur 19 hingga 29 tahun,3155.0,29.2,340.0,10.8,1995.0,18.5,65.0,3.3,24.1
+kelompok umur 30 hingga 39 tahun,5400.0,42.4,895.0,16.6,3680.0,28.9,195.0,5.3,27.1
+kelompok umur 40 hingga 49 tahun,16030.0,54.1,3555.0,22.2,10815.0,36.5,665.0,6.1,25.0
+kelompok umur 50 hingga 59 tahun,46465.0,63.7,11585.0,24.9,30710.0,42.1,2120.0,6.9,26.1
+kelompok umur 60 hingga 69 tahun,88400.0,72.1,21510.0,24.3,57345.0,46.8,3370.0,5.9,23.1
+kelompok umur 70 hingga 79 tahun,136455.0,75.6,28215.0,20.7,85140.0,47.1,3880.0,4.6,21.7
+kelompok umur 80 hingga 89 tahun,200305.0,70.8,31935.0,15.9,119485.0,42.2,3455.0,2.9,19.2
+kelompok umur 90 tahun ke atas,96595.0,57.5,13110.0,13.6,55180.0,32.8,1110.0,2.0,18.2
+seks,,,,,,,,,
+jenis kelamin laki-laki,305220.0,68.5,55545.0,18.2,188075.0,42.2,6995.0,3.7,20.0
+jenis kelamin perempuan,287580.0,66.2,55595.0,19.3,176275.0,40.6,7870.0,4.5,23.5
+status perkawinan,,,,,,,,,
+status perkawinan lajang,50780.0,53.4,8575.0,16.9,31225.0,32.8,1360.0,4.4,25.0
+status perkawinan menikah,266945.0,74.4,56250.0,21.1,166010.0,46.3,7570.0,4.6,21.0
+status perkawinan janda,206960.0,64.2,33005.0,15.9,123470.0,38.3,3750.0,3.0,20.6
+status perkawinannya bercerai,48740.0,65.6,9355.0,19.2,31195.0,42.0,1550.0,5.0,25.4
+status perkawinan dipisahkan,3255.0,64.2,725.0,22.3,2115.0,41.7,120.0,5.7,24.5
+status perkawinan tidak diketahui,16125.0,64.7,3235.0,20.1,10340.0,41.5,520.0,5.0,23.7
+kuintil pendapatan lingkungan,,,,,,,,,
+kuintil pendapatan lingkungan kuintil terendah,133500.0,66.4,24430.0,18.3,82340.0,40.9,3280.0,4.0,21.8
+kuintil pendapatan lingkungan kuintil menengah-rendah,124140.0,68.6,23520.0,18.9,75770.0,41.9,3045.0,4.0,21.1
+kuintil pendapatan lingkungan kuintil menengah,115330.0,68.1,21930.0,19.0,70695.0,41.7,2930.0,4.1,21.7
+kuintil pendapatan lingkungan kuintil menengah-tinggi,111030.0,67.8,21140.0,19.0,68585.0,41.9,2865.0,4.2,21.9
+kuintil pendapatan lingkungan kuintil tertinggi,101030.0,67.0,18915.0,18.7,62155.0,41.2,2585.0,4.2,22.3
+kuintil pendapatan lingkungan tidak ada,7775.0,54.4,1205.0,15.5,4800.0,33.6,160.0,3.3,21.6
+pedesaan,,,,,,,,,
+pedesaan pedesaan,122675.0,64.6,25860.0,21.1,78155.0,41.2,3330.0,4.3,19.8
+pedesaan perkotaan,465660.0,68.3,84605.0,18.2,283560.0,41.6,11435.0,4.0,22.3
+pedesaan hilang,4465.0,49.0,675.0,15.1,2635.0,28.9,95.0,3.6,24.7
+penyebab kematian yang mendasarinya,,,,,,,,,
+penyebab utama kematian karena penyakit terminal,228395.0,84.0,78450.0,34.3,153045.0,56.3,13055.0,8.5,25.2
+penyebab utama kelemahan kematian,131410.0,52.0,9880.0,7.5,78875.0,31.2,640.0,0.8,13.0
+penyebab utama kegagalan organ kematian,192800.0,69.9,19715.0,10.2,111855.0,40.6,1065.0,1.0,10.3
+penyebab kematian lainnya,28340.0,72.2,2735.0,9.7,13645.0,34.8,95.0,0.7,7.8
+penyebab utama kematian kematian mendadak,11860.0,29.0,365.0,3.1,6925.0,16.9,15.0,0.2,8.8

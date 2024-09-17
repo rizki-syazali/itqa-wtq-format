@@ -1,0 +1,9 @@
+kharakteristik,model literasi 1,model literasi 2,model literasi 3,model berhitung 1,model berhitung 2,model berhitung 3
+prediksi probabilitas tingkat keterampilan yang lebih tinggi,,,,,,
+prediksi probabilitas tingkat keterampilan yang lebih tinggi di negara-negara off-reserve first,0.708,0.707,0.752,0.75,0.744,0.767
+prediksi probabilitas tingkat keterampilan yang lebih tinggi metis,0.857,0.86,0.869,0.863,0.864,0.861
+prediksi probabilitas tingkat keterampilan yang lebih tinggi non-aborigin,0.907,0.902,0.912,0.921,0.915,0.921
+prediksi probabilitas tingkat keterampilan yang lebih rendah,,,,,,
+prediksi probabilitas tingkat keterampilan yang lebih rendah di negara-negara off-reserve first,0.563,0.63,0.699,0.572,0.626,0.697
+prediksi probabilitas tingkat keterampilan yang lebih rendah metis,0.718,0.769,0.8,0.735,0.775,0.813
+prediksi probabilitas tingkat keterampilan yang lebih rendah non-aborigin,0.805,0.836,0.867,0.805,0.831,0.864

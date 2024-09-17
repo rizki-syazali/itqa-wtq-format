@@ -1,0 +1,42 @@
+kharakteristik,probabilitas penyesuaian negara-negara pertama di luar cadangan,negara-negara pertama di luar cadangan melakukan perubahan lipat,probabilitas yang disesuaikan secara metis,metis lipat-perubahan,probabilitas yang disesuaikan inuit,perubahan lipat inuit
+gangguan mood dan/atau kecemasan yang dilaporkan sendiri oleh dokter,,,,,,
+"gangguan mood dan/atau kecemasan yang didiagnosis sendiri oleh dokter, no",0.06,,0.03,,0.1,
+"gangguan suasana hati dan/atau kecemasan yang dilaporkan sendiri oleh dokter, ya",0.08,1.3,0.09,3.0,0.25,2.5
+penggunaan narkoba,,,,,,
+penggunaan narkoba no,0.05,,0.03,,0.09,
+penggunaan narkoba ya,0.1,2.0,0.09,3.0,0.2,2.2
+"berat, sering minum",,,,,,
+"berat, sering minum no",0.07,,0.05,,0.12,
+"berat, sering minum ya",0.08,1.1,0.05,1.0,0.11,0.9
+merokok setiap hari,,,,,,
+merokok setiap hari no,-,,-,,0.08,
+merokok setiap hari ya,-,-,-,-,0.14,1.8
+keputusasan,,,,,,
+keputusasaan tidak,0.07,,0.05,,0.11,
+keputusasaan ya,0.06,0.9,0.09,1.8,0.23,2.1
+harga diri yang tinggi,,,,,,
+harga diri tinggi no,0.2,,0.14,,0.2,
+harga diri yang tinggi ya,0.01,0.1,0.02,0.1,0.08,0.4
+riwayat pribadi/orang tua/kakek-nenek dari kehadiran di sekolah asrama,,,,,,
+riwayat pribadi/orang tua/kakek-nenek dari kehadiran di sekolah asrama no,0.05,,-,,0.16,
+riwayat pribadi/orang tua/kakek-nenek dari kehadiran di sekolah asrama ya,0.08,1.6,-,-,0.1,0.6
+"riwayat pribadi/orang tua/kakek yang bersekolah di asrama tidak diketahui, ditolak, tidak disebutkan",0.07,1.4,-,-,0.13,0.8
+keterlibatan orang tua/keluarga,,,,,,
+keterlibatan orang tua/keluarga no,0.08,,0.06,-,0.16,-
+keterlibatan orang tua/keluarga ya,0.06,0.8,0.05,0.8,0.06,0.4
+dukungan sosial yang tinggi,,,,,,
+dukungan sosial yang tinggi no,0.1,,0.07,,0.13,
+dukungan sosial yang tinggi ya,0.06,0.6,0.05,0.7,0.11,0.8
+ikatan keluarga besar yang kuat,,,,,,
+ikatan keluarga besar yang kuat tidak,0.09,,0.04,,0.11,
+ikatan keluarga besar yang kuat ya,0.06,0.7,0.06,1.5,0.12,1.1
+masalah intimidasi yang dirasakan di sekolah,,,,,,
+masalah intimidasi yang dirasakan di sekolah no,0.06,,0.06,-,0.11,-
+masalah intimidasi yang dirasakan di sekolah ya,0.08,1.3,0.05,0.8,0.12,1.1
+saat ini bersekolah,,,,,,
+saat ini bersekolah tidak bersekolah,0.08,,0.06,,0.11,
+sedang bersekolah di SMA atau SMA sederajat,0.07,0.9,0.07,1.2,0.14,1.3
+saat ini bersekolah di institusi pasca sekolah menengah,0.04,0.5,0.04,0.7,0.1,0.9
+seks,,,,,,
+jenis kelamin laki-laki,0.07,,0.06,,0.11,
+jenis kelamin perempuan,0.07,1.0,0.05,0.8,0.12,1.1

@@ -1,0 +1,41 @@
+kharakteristik,jumlah total kasus bersalah,nomor tahanan,persen hak asuh,panjang median tahanan,nomor percobaan,persen masa percobaan,panjang median masa percobaan,nomor bagus,persen baik,jumlah median yang bagus
+pelanggaran kekerasan,38020,13586,36,70,27325,72,365.0,3686,10,200.0
+pelanggaran kekerasan pembunuhan,111,91,82,1825,8,7,913.0,5,5,1000.0
+pelanggaran kekerasan percobaan pembunuhan,28,20,71,2555,2,7,,1,4,
+pelanggaran kekerasan perampokan,1742,1395,80,365,879,50,730.0,96,6,10.0
+pelanggaran kekerasan penyerangan seksual,1116,635,57,255,698,63,730.0,33,3,100.0
+pelanggaran kekerasan pelanggaran seksual lainnya,1808,1212,67,180,1274,70,730.0,100,6,200.0
+pelanggaran kekerasan serangan besar,9161,4338,47,80,6042,66,365.0,889,10,100.0
+pelanggaran kekerasan penyerangan biasa,14104,2195,16,30,10754,76,365.0,1487,11,300.0
+pelanggaran kekerasan yang mengucapkan ancaman,7626,2830,37,30,5791,76,365.0,921,12,200.0
+pelanggaran kekerasan pelecehan pidana,1323,386,29,45,1178,89,545.0,91,7,100.0
+pelanggaran kekerasan pelanggaran kekerasan lainnya,1001,484,48,121,699,70,545.0,63,6,100.0
+pelanggaran properti,45071,19019,42,30,26058,58,365.0,7925,18,150.0
+pencurian pelanggaran properti,20720,8668,42,23,11358,55,365.0,4614,22,125.0
+pelanggaran properti menerobos dan masuk,5794,3504,60,120,3791,65,540.0,420,7,10.0
+penipuan pelanggaran properti,6531,2500,38,45,3878,59,365.0,841,13,250.0
+pelanggaran properti kenakalan,6289,1346,21,19,4248,68,365.0,1094,17,200.0
+pelanggaran properti memiliki properti curian,4752,2408,51,40,2249,47,365.0,853,18,250.0
+pelanggaran properti pelanggaran properti lainnya,985,593,60,59,534,54,365.0,103,10,15.0
+administrasi pelanggaran peradilan,54072,27356,51,14,17215,32,365.0,13850,26,200.0
+pelanggaran administrasi peradilan gagal muncul,1799,745,41,7,442,25,365.0,625,35,150.0
+pelanggaran administrasi peradilan pelanggaran masa percobaan,23772,13313,56,15,8378,35,365.0,5631,24,150.0
+pelanggaran administrasi peradilan secara luas secara melawan hukum,2010,1740,87,14,446,22,365.0,176,9,150.0
+pelanggaran administrasi peradilan gagal untuk mematuhi perintah,21336,9782,46,9,5935,28,365.0,5966,28,175.0
+pelanggaran administrasi peradilan pelanggaran administrasi peradilan lainnya,5155,1776,34,17,2014,39,365.0,1452,28,300.0
+pelanggaran hukum pidana lainnya,8367,3493,42,60,4132,49,365.0,1758,21,250.0
+senjata tindak pidana KUHP lainnya,5429,2268,42,50,2608,48,365.0,1140,21,250.0
+tindak pidana prostitusi lainnya,66,29,44,180,28,42,453.0,8,12,350.0
+tindak pidana lain yang mengganggu ketentraman,706,146,21,5,328,46,365.0,251,36,200.0
+sisa tindak pidana KUHP sisa tindak pidana KUHP,2166,1050,48,90,1168,54,540.0,359,17,200.0
+hukum pidana,145530,63454,44,30,74730,51,365.0,27219,19,200.0
+KUHP pelanggaran lalu lintas,33260,5698,17,33,5264,16,365.0,25916,78,1200.0
+KUHP pelanggaran lalu lintas gangguan mengemudi,26096,2434,9,32,2827,11,365.0,23218,89,1200.0
+KUHP pelanggaran lalu lintas lainnya KUHP pelanggaran lalu lintas,7164,3264,46,39,2437,34,365.0,2698,38,1000.0
+total pelanggaran hukum pidana,178790,69152,39,30,79994,45,365.0,53135,30,1000.0
+pelanggaran undang-undang federal lainnya,28738,7188,25,90,9157,32,365.0,11829,41,250.0
+pelanggaran undang-undang federal lainnya kepemilikan narkoba,6230,749,12,14,1999,32,365.0,2988,48,300.0
+pelanggaran undang-undang federal lainnya pelanggaran narkoba lainnya,4401,2317,53,180,1485,34,365.0,511,12,500.0
+undang-undang federal lainnya melanggar tindakan peradilan pidana remaja,599,204,34,7,171,29,270.0,182,30,200.0
+pelanggaran undang-undang federal lainnya sisa pelanggaran undang-undang federal,17508,3918,22,90,5502,31,365.0,8148,47,200.0
+pelanggaran total,207528,76340,37,30,89151,43,365.0,64964,31,500.0

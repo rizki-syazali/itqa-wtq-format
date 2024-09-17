@@ -1,0 +1,39 @@
+kharakteristik,tidak ada kondisi fisik %,kondisi fisik apa pun %,rasio peluang,Interval kepercayaan 95% dari,Interval kepercayaan 95% sampai
+seks,,,,,
+pria seks,54.2,45.0,1.0,,
+wanita seks,45.8,55.0,1.4,1.3,1.6
+kelompok umur,,,,,
+kelompok usia 18 hingga 34 tahun,43.0,16.0,1.0,,
+kelompok usia 35 hingga 49 tahun,30.9,23.3,2.0,1.8,2.3
+kelompok usia 50 hingga 64 tahun,20.5,32.3,4.2,3.7,4.8
+kelompok usia 65 tahun ke atas,5.6,28.4,13.7,11.8,15.9
+pendidikan,,,,,
+pendidikannya kurang dari kelulusan sekolah menengah,10.0,18.7,1.0,,
+kelulusan sekolah menengah pendidikan,16.7,16.1,0.5,0.4,0.6
+pendidikan beberapa pasca sekolah menengah,7.7,6.1,0.4,0.3,0.5
+sertifikat/diploma pendidikan pasca sekolah menengah,37.7,38.7,0.6,0.5,0.6
+gelar universitas pendidikan,28.0,20.4,0.4,0.3,0.5
+pendapatan rumah tangga,,,,,
+"pendapatan rumah tangga $29,999 atau kurang",12.8,20.5,1.0,,
+pendapatan rumah tangga $30.000 hingga $49.999,16.0,20.3,0.8,0.7,0.9
+pendapatan rumah tangga $50.000 hingga $79.9999,24.2,25.4,0.7,0.6,0.8
+"pendapatan rumah tangga $80,0000 atau lebih",47.0,33.8,0.4,0.4,0.5
+status perkawinan,,,,,
+status perkawinan menikah / ipar,59.7,66.0,1.0,,
+status perkawinan belum pernah menikah,31.9,16.3,0.5,0.4,0.5
+status perkawinan berpisah/cerai/janda,8.4,17.8,1.9,1.6,2.2
+minoritas yang terlihat,,,,,
+minoritas yang terlihat no,71.1,82.1,1.0,,
+minoritas yang terlihat ya,28.9,17.9,0.5,0.5,0.6
+negara kelahiran,,,,,
+negara kelahiran Kanada,70.2,76.0,1.0,,
+negara kelahiran lainnya,29.9,24.0,0.7,0.7,0.8
+status merokok,,,,,
+status merokok bukan perokok,43.3,33.8,1.0,,
+status merokok mantan perokok sesekali,17.1,15.3,1.1,1.0,1.3
+status merokok mantan perokok harian,17.2,30.1,2.2,2.0,2.5
+status merokok perokok sesekali saat ini,7.4,4.0,0.7,0.6,0.9
+status merokok perokok harian saat ini,15.0,17.0,1.4,1.3,1.6
+kegemukan,,,,,
+indeks massa tubuh obesitas kurang dari 30,86.7,76.1,1.0,,
+indeks massa tubuh obesitas 30 atau lebih,13.3,23.9,2.0,1.8,2.3

@@ -1,0 +1,60 @@
+kharakteristik,memperoleh sertifikat,melanjutkan programnya,menghentikan program tersebut
+prediksi probabilitas jenis kelamin,,,
+prediksi probabilitas jenis kelamin laki-laki,0.357,0.309,0.334
+prediksi probabilitas jenis kelamin perempuan,0.404,0.279,0.317
+prediksi usia probabilitas saat pendaftaran,,,
+prediksi usia probabilitas saat pendaftaran 18 hingga 20 tahun,0.4,0.312,0.293
+prediksi usia probabilitas saat pendaftaran 21 hingga 25 tahun,0.381,0.303,0.316
+prediksi usia probabilitas saat pendaftaran 26 hingga 35 tahun,0.35,0.303,0.347
+prediksi usia probabilitas saat pendaftaran 36 hingga 45 tahun,0.324,0.306,0.37
+prediksi usia probabilitas pada saat pendaftaran 46 tahun atau lebih,0.305,0.285,0.411
+prediksi probabilitas status imigrasi,,,
+prediksi probabilitas status imigrasi non-imigran,0.363,0.3,0.337
+prediksi probabilitas status imigrasi imigran,0.362,0.348,0.291
+prediksi probabilitas status perkawinan pada tahun pendaftaran,,,
+prediksi probabilitas status perkawinan pada tahun pendaftaran lajang,0.358,0.312,0.331
+prediksi kemungkinan status perkawinan pada tahun pendaftaran menikah atau hukum adat,0.378,0.29,0.332
+"prediksi kemungkinan status perkawinan pada tahun pendaftaran cerai, berpisah atau duda",0.338,0.306,0.357
+prediksi kemungkinan terdaftar di luar provinsi atau wilayah tempat tinggal,,,
+prediksi probabilitas terdaftar di luar provinsi atau wilayah tempat tinggal no,0.365,0.303,0.332
+prediksi probabilitas terdaftar di luar provinsi atau wilayah tempat tinggal ya,0.329,0.333,0.339
+prediksi probabilitas menerima kredit untuk pelatihan prapendaftaran,,,
+prediksi probabilitas menerima kredit untuk pelatihan prapendaftaran no,0.31,0.321,0.369
+prediksi probabilitas menerima kredit untuk pelatihan prapendaftaran ya,0.438,0.277,0.285
+prediksi probabilitas pendapatan pekerjaan pada tahun pendaftaran,,,
+prediksi probabilitas pendapatan kerja pada tahun pendaftaran kurang dari $15.000,0.22,0.345,0.435
+prediksi probabilitas pendapatan kerja pada tahun pendaftaran $15.000 hingga $29.999,0.348,0.323,0.329
+prediksi probabilitas pendapatan pekerjaan pada tahun pendaftaran $30.000 hingga $44.999,0.444,0.282,0.275
+prediksi probabilitas pendapatan pekerjaan pada tahun pendaftaran $45.000 hingga $59.999,0.458,0.266,0.276
+prediksi probabilitas pendapatan kerja pada tahun pendaftaran $60.000 hingga $74.999,0.44,0.261,0.299
+prediksi probabilitas pendapatan kerja pada tahun pendaftaran $75.000 atau lebih,0.401,0.269,0.33
+prediksi probabilitas keanggotaan serikat pekerja pada tahun pendaftaran,,,
+prediksi probabilitas keanggotaan serikat pekerja pada tahun pendaftaran no,0.361,0.293,0.346
+prediksi probabilitas keanggotaan serikat pekerja pada tahun pendaftaran ya,0.367,0.321,0.312
+probabilitas yang diprediksi memiliki program pensiun terdaftar pada tahun pendaftaran,,,
+prediksi probabilitas memiliki program pensiun terdaftar pada tahun pendaftaran no,0.359,0.308,0.333
+prediksi kemungkinan memiliki program pensiun terdaftar pada tahun pendaftaran ya,0.375,0.295,0.329
+prediksi probabilitas menerima manfaat asuransi ketenagakerjaan pada tahun pendaftaran,,,
+prediksi probabilitas menerima manfaat asuransi ketenagakerjaan pada tahun pendaftaran no,0.36,0.304,0.336
+prediksi probabilitas menerima manfaat asuransi ketenagakerjaan pada tahun pendaftaran ya,0.37,0.306,0.325
+prediksi probabilitas status berpendapatan rendah setelah pajak pada tahun pendaftaran,,,
+prediksi probabilitas status berpendapatan rendah setelah pajak pada tahun pendaftaran bukan pada berpendapatan rendah,0.366,0.305,0.329
+prediksi probabilitas status berpendapatan rendah setelah pajak pada tahun pendaftaran dalam berpendapatan rendah,0.306,0.316,0.378
+prediksi probabilitas jumlah industri yang bekerja pada tahun pendaftaran,,,
+prediksi probabilitas jumlah industri yang bekerja pada tahun pendaftaran pertama,0.392,0.315,0.293
+prediksi probabilitas jumlah industri yang bekerja pada pendaftaran tahun kedua,0.355,0.298,0.347
+prediksi probabilitas jumlah industri yang bekerja pada tahun pendaftaran ketiga atau lebih,0.3,0.285,0.415
+prediksi probabilitas bekerja di salah satu dari tiga sektor yang paling umum pada tahun pendaftaran,,,
+prediksi probabilitas bekerja di salah satu dari tiga sektor yang paling umum pada tahun pendaftaran no,0.315,0.304,0.381
+prediksi probabilitas bekerja di salah satu dari tiga sektor yang paling umum pada tahun pendaftaran ya,0.382,0.305,0.313
+prediksi probabilitas dukungan segel merah dan jenis sertifikasi,,,
+prediksi probabilitas pengesahan segel merah dan jenis sertifikasi perdagangan segel merah wajib,0.394,0.304,0.302
+prediksi probabilitas dukungan segel merah dan jenis sertifikasi perdagangan segel merah sukarela,0.347,0.314,0.34
+prediksi probabilitas pengesahan segel merah dan jenis sertifikasi perdagangan wajib segel non-merah,0.29,0.388,0.322
+prediksi probabilitas dukungan segel merah dan jenis sertifikasi perdagangan sukarela non-segel merah,0.34,0.271,0.39
+durasi program probabilitas yang diprediksi,,,
+prediksi probabilitas durasi program satu tahun,0.339,0.529,0.131
+prediksi probabilitas durasi program dua tahun,0.302,0.465,0.233
+prediksi probabilitas durasi program tiga tahun,0.315,0.282,0.403
+prediksi probabilitas durasi program empat tahun,0.392,0.213,0.395
+prediksi probabilitas durasi program lima tahun,0.425,0.073,0.502

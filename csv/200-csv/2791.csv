@@ -1,0 +1,9 @@
+kharakteristik,"variabel terikat, kejutan granular pertumbuhan investasi agregat 1","variabel terikat, kejutan granular pertumbuhan investasi agregat 2","variabel terikat, guncangan granular pertumbuhan investasi agregat 3"
+guncangan granular,,,
+koefisien guncangan granular,0.57,0.768,0.764
+kesalahan standar kejutan granular,0.216,0.149,0.149
+konstan,,,
+koefisien konstan,-0.035,-0.086,-0.078
+kesalahan standar yang konstan,0.014,0.012,0.011
+jumlah observasi yang konstan,946.0,946.0,946.0
+r-kuadrat yang konstan,0.13,0.37,0.36

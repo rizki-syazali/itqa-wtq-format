@@ -1,0 +1,50 @@
+kharakteristik,jumlah alat keselamatan kebakaran di rumah tangga: tidak ada,jumlah alat keselamatan kebakaran di rumah tangga: 1 hingga 2,jumlah alat pengaman kebakaran di rumah tangga: 3
+persen jenis kelamin,,,
+persen berjenis kelamin laki-laki,1.0,50.0,45.0
+persen berjenis kelamin perempuan,1.0,52.0,40.0
+persen kelompok umur,,,
+"persen kelompok usia 15 hingga 24 tahun,",,46.0,41.0
+persen kelompok usia 25 hingga 34 tahun,1.0,56.0,36.0
+persen kelompok usia 35 hingga 44 tahun,,53.0,43.0
+persen kelompok usia 45 hingga 54 tahun,1.0,51.0,45.0
+persen kelompok usia 55 hingga 64 tahun,0.0,50.0,46.0
+persen kelompok usia 65 tahun ke atas,0.0,51.0,43.0
+persen status imigran,,,
+persen status imigran kelahiran Kanada,0.0,51.0,44.0
+persen status imigran imigran mapan,,51.0,44.0
+persen status imigran imigran baru,,65.0,24.0
+persen status minoritas yang terlihat,,,
+"persen status minoritas yang terlihat,",,56.0,35.0
+persen status minoritas yang terlihat bukan minoritas yang terlihat,0.0,51.0,45.0
+persen identitas penduduk asli,,,
+persen identitas penduduk asli penduduk asli,,50.0,43.0
+persen identitas penduduk asli bukan penduduk asli,1.0,52.0,43.0
+persen pembatasan aktivitas - kondisi fisik jangka panjang,,,
+persen pembatasan aktivitas - kondisi fisik jangka panjang ya,1.0,55.0,40.0
+persen pembatasan aktivitas - kondisi fisik jangka panjang no,0.0,51.0,44.0
+"persen pembatasan aktivitas - kondisi kesehatan psikologis, emosional, atau mental jangka panjang",,,
+"persen pembatasan aktivitas - kondisi kesehatan psikologis, emosional atau mental jangka panjang ya (sering/selalu atau kadang-kadang),",1.0,61.0,32.0
+"persen pembatasan aktivitas - kondisi kesehatan psikologis, emosional atau mental jangka panjang no",0.0,51.0,44.0
+persen pendapatan rumah tangga,,,
+"persen pendapatan rumah tangga kurang dari $20.000 (termasuk kehilangan pendapatan),",2.0,65.0,27.0
+persen pendapatan rumah tangga $20.000 hingga kurang dari $40.000,,63.0,29.0
+persen pendapatan rumah tangga $40.000 hingga kurang dari $60.000,,59.0,37.0
+persen pendapatan rumah tangga $60.000 hingga kurang dari $80.000,1.0,55.0,40.0
+persen pendapatan rumah tangga $80.000 hingga kurang dari $100.000,,52.0,42.0
+"persen pendapatan rumah tangga $100,000 hingga kurang dari $150,000",,50.0,47.0
+persen pendapatan rumah tangga $150.000 atau lebih,,42.0,54.0
+persen kepemilikan,,,
+persen kepemilikan sendiri,0.0,48.0,47.0
+persen sewa kepemilikan,1.0,65.0,27.0
+persen ukuran rumah tangga,,,
+"persen ukuran rumah tangga 1 orang,",1.0,63.0,30.0
+persen jumlah rumah tangga 2 orang,0.0,53.0,43.0
+persen jumlah rumah tangga 3 orang,,48.0,45.0
+persen jumlah rumah tangga 4 orang,,46.0,47.0
+persen ukuran rumah tangga 5 orang atau lebih,,49.0,42.0
+persen komposisi rumah tangga,,,
+persen komposisi rumah tangga rumah tangga dengan lansia,1.0,51.0,44.0
+persen komposisi rumah tangga rumah tangga tanpa lansia,1.0,52.0,42.0
+"persen komposisi rumah tangga rumah tangga yang mempunyai anak,",1.0,48.0,45.0
+persen komposisi rumah tangga rumah tangga tanpa anak(ren),1.0,52.0,42.0
+persen totalnya,1.0,51.0,42.0

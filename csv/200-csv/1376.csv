@@ -1,0 +1,9 @@
+kharakteristik,identitas penduduk asli di luar cadangan negara pertama,identitas asli metis,identitas penduduk asli inuit
+prediksi kemungkinan riwayat pemberian makan,,,
+prediksi kemungkinan riwayat menyusui hanya menyusui,0.02,0.03,0.13
+prediksi probabilitas riwayat pemberian makan baik yang diberi ASI maupun yang diberi susu botol,0.04,0.04,0.08
+prediksi kemungkinan riwayat pemberian makan hanya pada pemberian susu botol,0.05,0.04,0.06
+prediksi probabilitas durasi menyusui,,,
+prediksi probabilitas durasi menyusui tidak pernah menyusui,0.05,0.04,0.07
+prediksi probabilitas durasi menyusui menyusui 0 sampai 6 bulan,0.04,0.04,0.1
+prediksi probabilitas lama menyusui menyusui lebih dari 6 bulan,0.03,0.03,0.07

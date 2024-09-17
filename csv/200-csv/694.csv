@@ -1,0 +1,42 @@
+kharakteristik,mudah didekati dan diajak bicara,menjamin keselamatan warga negara,memperlakukan orang dengan adil,menegakkan hukum,segera menanggapi panggilan,memberikan informasi tentang cara-cara mencegah kejahatan
+probabilitas prediksi jenis kelamin,,,,,,
+probabilitas prediksi jenis kelamin laki-laki,0.68,0.62,0.57,0.48,0.49,0.47
+probabilitas prediksi jenis kelamin perempuan,0.68,0.6,0.53,0.53,0.49,0.45
+probabilitas prediksi kelompok umur,,,,,,
+probabilitas prediksi kelompok umur 15 sampai 24 tahun,0.65,0.62,0.56,0.46,0.44,0.41
+probabilitas prediksi kelompok usia 25 hingga 34 tahun,0.65,0.59,0.53,0.47,0.5,0.4
+probabilitas prediksi kelompok usia 35 hingga 44 tahun,0.71,0.59,0.53,0.49,0.49,0.47
+probabilitas prediksi kelompok usia 45 hingga 54 tahun,0.67,0.6,0.53,0.5,0.5,0.51
+probabilitas prediksi kelompok usia 55 hingga 64 tahun,0.72,0.66,0.6,0.58,0.54,0.54
+probabilitas prediksi kelompok usia 65 hingga 74 tahun,0.76,0.58,0.55,0.59,0.47,0.47
+prediksi probabilitas kelompok usia 75 tahun ke atas,0.63,0.68,0.66,0.6,0.48,0.43
+prediksi probabilitas status perkawinan,,,,,,
+prediksi probabilitas status perkawinan menikah/hukum adat,0.69,0.62,0.55,0.5,0.48,0.46
+prediksi probabilitas status perkawinan belum menikah atau dalam hubungan hukum adat,0.67,0.59,0.55,0.51,0.51,0.46
+tingkat probabilitas prediksi pendidikan,,,,,,
+prediksi probabilitas tingkat pendidikan gelar universitas,0.69,0.58,0.51,0.51,0.52,0.42
+prediksi probabilitas tingkat pendidikan kurang dari gelar universitas,0.68,0.61,0.56,0.5,0.48,0.47
+prediksi probabilitas aktivitas utama dalam 12 bulan terakhir,,,,,,
+prediksi probabilitas aktivitas utama dalam 12 bulan terakhir bekerja pada pekerjaan berbayar atau wiraswasta,0.66,0.58,0.53,0.49,0.45,0.42
+prediksi probabilitas kegiatan utama dalam 12 bulan terakhir lainnya,0.72,0.65,0.58,0.54,0.55,0.53
+prediksi probabilitas pendapatan rumah tangga,,,,,,
+prediksi probabilitas pendapatan rumah tangga $100.000 atau lebih,0.68,0.61,0.54,0.53,0.5,0.47
+prediksi probabilitas pendapatan rumah tangga kurang dari $100.000,0.65,0.58,0.5,0.46,0.45,0.44
+prediksi probabilitas pendapatan rumah tangga tidak diketahui/tidak disebutkan,0.72,0.64,0.63,0.53,0.52,0.47
+probabilitas yang diprediksi minoritas yang terlihat,,,,,,
+probabilitas yang diprediksi minoritas yang terlihat minoritas yang terlihat,0.67,0.73,0.63,0.55,0.56,0.58
+prediksi probabilitas minoritas yang terlihat minoritas yang tidak terlihat,0.68,0.6,0.55,0.5,0.49,0.45
+prediksi probabilitas identitas penduduk asli,,,,,,
+prediksi probabilitas identitas penduduk asli,0.63,0.56,0.5,0.44,0.42,0.42
+prediksi probabilitas identitas penduduk asli non-penduduk asli,0.74,0.66,0.61,0.58,0.58,0.51
+prediksi probabilitas status imigran,,,,,,
+prediksi probabilitas status imigran non-imigran,0.68,0.61,0.55,0.5,0.48,0.46
+prediksi probabilitas status imigran imigran jangka panjang,0.73,0.54,0.51,0.5,0.53,0.46
+prediksi probabilitas status imigran imigran baru,0.74,0.53,0.56,0.61,0.57,0.53
+prediksi kemungkinan korban kejahatan,,,,,,
+prediksi probabilitas korban kejahatan bukan korban kejahatan dalam 12 bulan terakhir,0.7,0.65,0.58,0.54,0.54,0.48
+prediksi probabilitas korban kejahatan korban kejahatan dalam 12 bulan terakhir,0.63,0.49,0.47,0.41,0.36,0.4
+prediksi kemungkinan kontak dengan polisi,,,,,,
+prediksi probabilitas kontak dengan polisi Kontak dengan polisi dalam 12 bulan terakhir,0.72,0.63,0.57,0.53,0.51,0.48
+prediksi kemungkinan kontak dengan polisi tidak ada kontak dengan polisi dalam 12 bulan terakhir,0.66,0.59,0.54,0.49,0.47,0.44
+total probabilitas yang diprediksi,0.68,0.61,0.55,0.5,0.49,0.46

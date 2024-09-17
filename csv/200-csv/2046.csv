@@ -1,0 +1,56 @@
+kharakteristik,koefisien model 1,kesalahan standar bootstrap model 1,koefisien model 2,kesalahan standar bootstrap model 2,koefisien model 3,kesalahan standar bootstrap model 3
+kuartil pendapatan (kelompok referensi: pertama (bawah)),,,,,,
+kuartil pendapatan (kelompok referensi: pertama (bawah)) kedua,0.184,0.08,0.067,0.07,0.065,0.07
+kuartil pendapatan (kelompok referensi: pertama (bawah)) ketiga,0.259,0.07,0.058,0.08,0.056,0.08
+kuartil pendapatan (kelompok referensi: pertama (bawah)) keempat,0.467,0.06,0.131,0.08,0.128,0.08
+kuartil pendapatan (kelompok referensi: pertama (bawah)) skor melek huruf,,,0.057,0.06,,
+kuartil pendapatan (kelompok referensi: pertama (bawah)) skor berhitung,,,,,0.043,0.06
+tingkat pendidikan,,,,,,
+tingkat pendidikannya kurang dari sekolah menengah atas,,,0.072,0.15,0.075,0.15
+tingkat pendidikan pasca sekolah menengah non-universitas,,,0.072,0.06,0.076,0.06
+gelar sarjana tingkat pendidikan,,,0.137,0.08,0.141,0.08
+tingkat pendidikan di atas gelar sarjana,,,0.109,0.09,0.116,0.09
+perempuan tingkat pendidikan,,,0.129,0.05,0.133,0.05
+usia tingkat pendidikan,,,0.007,0.0,0.006,0.0
+status perkawinan,,,,,,
+status perkawinan menurut hukum adat,,,-0.077,0.06,-0.077,0.06
+"status perkawinan berpisah, bercerai atau duda",,,-0.004,0.07,-0.006,0.07
+"status perkawinan lajang, belum pernah menikah",,,-0.125,0.08,-0.124,0.08
+status perkawinan jumlah anak berusia 15 hingga 17 tahun dalam rumah tangga,,,-0.065,0.04,-0.065,0.04
+status perkawinan jumlah anak berusia 12 hingga 14 tahun dalam rumah tangga,,,0.041,0.05,0.04,0.05
+status perkawinan jumlah anak di bawah 12 tahun dalam rumah tangga,,,0.04,0.03,0.04,0.03
+provinsi tempat tinggal,,,,,,
+provinsi tempat tinggal newfoundland dan labrador,,,-0.216,0.1,-0.211,0.1
+provinsi tempat tinggal pulau pangeran Edward,,,-0.083,0.17,-0.083,0.17
+provinsi tempat tinggal nova scotia,,,-0.033,0.08,-0.026,0.08
+provinsi tempat tinggal new brunswick,,,-0.17,0.08,-0.166,0.08
+provinsi tempat tinggal Quebec,,,-0.137,0.06,-0.137,0.06
+provinsi tempat tinggal manitoba,,,-0.33,0.08,-0.326,0.08
+provinsi tempat tinggal saskatchewan,,,-0.192,0.07,-0.195,0.07
+provinsi tempat tinggal alberta,,,-0.167,0.07,-0.166,0.07
+provinsi tempat tinggal British Columbia,,,-0.12,0.09,-0.118,0.09
+aset berwujud,,,,,,
+aset berwujud $100.000 hingga kurang dari $300.000,,,0.032,0.07,0.031,0.07
+aset berwujud $300.000 hingga kurang dari $500.000,,,0.032,0.07,0.032,0.07
+aset berwujud $500.000 atau lebih,,,0.081,0.08,0.082,0.08
+aset berwujud yang nilainya hilang,,,-0.112,0.13,-0.111,0.13
+rencana tabungan pensiun terdaftar,,,,,,
+rencana tabungan pensiun terdaftar lebih dari $0 hingga kurang dari $25.000,,,0.234,0.07,0.237,0.07
+rencana tabungan pensiun terdaftar $25.000 atau lebih,,,0.325,0.06,0.331,0.06
+nilai hilang rencana tabungan pensiun terdaftar,,,0.313,0.11,0.315,0.1
+aset keuangan,,,,,,
+aset keuangan lebih dari $0 hingga kurang dari $10.000,,,-0.01,0.06,-0.007,0.06
+aset keuangan $10.000 hingga kurang dari $30.000,,,0.19,0.07,0.192,0.07
+aset keuangan $30.000 atau lebih,,,0.024,0.07,0.025,0.07
+nilai aset keuangan yang hilang,,,0.022,0.1,0.021,0.1
+aset bisnis,,,,,,
+aset bisnis aset bisnis dengan nilai berapa pun,,,-0.013,0.06,-0.012,0.06
+nilai aset bisnis hilang,,,0.352,0.12,0.356,0.12
+hutang dan kewajiban,,,,,,
+utang dan kewajiban lebih dari $0 hingga kurang dari $50.000,,,0.042,0.08,0.043,0.08
+utang dan kewajiban $50.000 hingga kurang dari $150.000,,,0.052,0.08,0.054,0.08
+utang dan kewajiban $150.000 hingga kurang dari $250.000,,,0.086,0.09,0.088,0.09
+hutang dan kewajiban $250.000 atau lebih,,,0.014,0.09,0.014,0.09
+utang dan kewajiban yang nilainya hilang,,,0.071,0.14,0.071,0.13
+bendera penghitungan ganda utang dan kewajiban,,,0.014,0.16,0.012,0.16
+hutang dan kewajiban konstan,0.343,0.06,-0.305,0.23,-0.264,0.23

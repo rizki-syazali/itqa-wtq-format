@@ -1,0 +1,23 @@
+kharakteristik,1985 hingga 2001,2002 hingga 2010,1985 hingga 2010
+menilai deskripsi dan kode aset,,,
+"menilai deskripsi aset dan kode perabot kantor, perabotan",0.2,0.282,0.227
+"menilai deskripsi aset dan kode komputer, perangkat keras terkait, dan pengolah kata",0.385,0.479,0.431
+"menilai deskripsi dan kode aset perabot, perabot dan perlengkapan non-kantor",0.224,0.259,0.24
+"menilai deskripsi aset dan kode perangkat ilmiah, profesional dan medis",0.197,0.198,0.189
+"deskripsi aset tarif dan kode peralatan pemanas, listrik, pipa ledeng, AC dan pendingin",0.132,0.204,0.13
+menilai deskripsi aset dan kode peralatan pengurangan dan pengendalian polusi,0.115,0.146,0.125
+"deskripsi dan kode aset tarif motor, generator, transformator, turbin, kompresor dan pompa dari semua jenis",0.117,0.106,0.103
+menilai deskripsi aset dan kode alat konstruksi berat,0.149,0.155,0.157
+menilai deskripsi aset dan kode traktor dari semua jenis dan peralatan lapangan lainnya,0.151,0.175,0.17
+menilai deskripsi aset dan kode perkakas yang dikapitalisasi dan perkakas lainnya,0.211,0.221,0.229
+menilai deskripsi aset dan kode peralatan pengeboran dan peledakan,0.168,0.128,0.156
+menilai deskripsi aset dan kode mobil dan suku cadang pengganti utama,0.295,0.287,0.279
+menilai deskripsi aset dan kode bus (semua jenis) dan suku cadang pengganti utama,0.125,0.098,0.103
+"menilai deskripsi dan kode aset truk, van, traktor truk, trailer truk, dan suku cadang pengganti utama",0.203,0.192,0.201
+menilai uraian aset dan kode alat transportasi lainnya,0.177,0.171,0.162
+menilai deskripsi aset dan kode mesin dan peralatan pemrosesan dengan bantuan komputer,0.142,0.134,0.134
+menilai deskripsi dan kode aset mesin dan peralatan pemrosesan tanpa bantuan komputer,0.136,0.137,0.125
+menilai deskripsi aset dan komunikasi kode serta peralatan terkait,0.188,0.222,0.201
+menilai deskripsi aset dan kode peralatan keselamatan dan keamanan serta mesin dan peralatan lainnya,0.145,0.185,0.167
+"rata-rata tingkat, semua aset",0.195,0.256,0.218
+"kesalahan standar kesalahan standar rata-rata, semua aset",0.004,0.008,0.003

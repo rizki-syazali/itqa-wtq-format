@@ -1,0 +1,17 @@
+kharakteristik,"rasa memiliki terhadap tempat tinggal, negara asal dan metode analisis kelompok masyarakat - regresi logistik terurut masyarakat lokal","rasa memiliki sehubungan dengan tempat tinggal, negara asal dan metode analisis kelompok masyarakat - kota regresi logistik terurut","rasa memiliki terhadap tempat tinggal, negara asal dan kelompok masyarakat metode analisis - provinsi regresi logistik terurut","rasa memiliki sehubungan dengan tempat tinggal, negara asal dan metode analisis kelompok masyarakat - regresi logistik terurut kanada","rasa memiliki terhadap tempat tinggal, negara asal dan metode analisis kelompok masyarakat - regresi logistik terurut negara asal","rasa memiliki sehubungan dengan tempat tinggal, negara asal dan metode analisis kelompok masyarakat - regresi logistik terurut orang-orang dari etnis atau budaya yang sama","rasa memiliki sehubungan dengan tempat tinggal, negara asal dan metode analisis kelompok masyarakat - regresi logistik terurut orang-orang dengan bahasa ibu yang sama"
+rasio odds sensus wilayah metropolitan,,,,,,,
+rasio odds sensus wilayah metropolitan montreal,0.99,1.44,0.85,0.92,1.31,1.14,1.06
+rasio odds sensus wilayah metropolitan toronto,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+odds rasio sensus wilayah metropolitan vancouver,1.29,1.4,1.08,0.92,0.91,0.87,0.85
+rasio odds jenis kotamadya,,,,,,,
+rasio odds jenis kotamadya pusat,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+rasio odds jenis lingkar pertama kotamadya,0.86,0.64,0.89,0.76,0.87,1.17,1.06
+rasio odds jenis lingkar ke-2 periferal kotamadya,0.85,0.52,0.99,0.9,1.29,1.21,1.17
+rasio odds bobot demografi populasi imigran di lingkungan sekitar,,,,,,,
+rasio odds bobot demografis populasi imigran di lingkungan sekitar kurang dari 50%,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+rasio odds bobot demografi populasi imigran di lingkungan sekitar 50% hingga kurang dari 70%,0.9,0.94,0.86,0.97,0.93,1.14,1.02
+rasio odds bobot demografis populasi imigran di lingkungan sekitar 70% atau lebih besar,0.81,0.91,0.83,1.09,1.06,1.25,1.27
+rasio odds periode imigrasi dan generasi,,,,,,,
+rasio odds periode imigrasi dan generasi imigran baru,1.21,1.07,1.28,0.86,1.92,1.33,1.21
+rasio odds periode imigrasi dan generasi imigran mapan,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+odds rasio masa imigrasi dan generasi generasi kedua,1.14,1.02,0.89,0.93,,1.55,1.6

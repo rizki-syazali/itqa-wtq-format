@@ -1,0 +1,13 @@
+kharakteristik,total biaya $,total tahun hidup yang disesuaikan dengan kualitas (qalys) per 1.000 wanita,biaya tambahan per qaly $,biaya rata-rata per qaly relatif terhadap tanpa penyaringan $
+tidak ada penyaringan,1387948,14059,,base case
+tahunan berusia 40 hingga 69 tahun,6668051,14094,216828.0,150938.0
+tahunan berusia 40 hingga 74 tahun,6943065,14095,262828.0,154187.0
+tahunan berusia 50 hingga 69 tahun,3970099,14082,159858.0,114778.0
+tahunan berusia 50 hingga 74 tahun,3970099,14083,226278.0,120521.0
+dua tahunan berusia 50 hingga 69 tahun,2885565,14075,97006.0,95313.0
+dua tahunan berusia 50 hingga 74 tahun,3083486,14076,dominated,100912.0
+tiga tahunan berusia 50 hingga 69 tahun,2511486,14071,94762.0,94762.0
+tiga tahunan berusia 50 hingga 74 tahun,2652005,14072,dominated,99670.0
+tahunan usia 40 hingga 49 tahun/dua tahunan usia 50 hingga 69 tahun,5572348,14088,dominated,146333.0
+tahunan usia 40 hingga 49 tahun/dua tahunan usia 50 hingga 74 tahun,5767102,14089,dominated,146951.0
+tahunan berusia 40 hingga 49 tahun,4156667,14073,dominated,higher cost/worse outcome

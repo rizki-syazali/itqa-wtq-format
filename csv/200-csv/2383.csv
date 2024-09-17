@@ -1,0 +1,56 @@
+kharakteristik,%,Interval kepercayaan 95% dari,Interval kepercayaan 95% sampai,rasio odds yang tidak disesuaikan,Interval kepercayaan 95% dari,Interval kepercayaan 95% sampai,P,rasio odds yang disesuaikan,Interval kepercayaan 95% dari,Interval kepercayaan 95% sampai,P
+total,62.2,60.8,63.7,,,,,,,,
+usia,,,,,,,,,,,
+usia 18 hingga 24 tahun,81.4,77.8,84.9,3.7,2.9,4.6,<0.001,3.39,2.68,4.28,<0.001
+usia 25 hingga 44 tahun,72.1,69.7,74.6,2.2,1.9,2.5,<0.001,2.19,1.9,2.52,<0.001
+usia 45 hingga 64 tahun,54.5,52.6,56.4,1.0,,,,1.0,,,
+seks,,,,,,,,,,,
+pria seks,64.2,62.0,66.3,1.2,1.1,1.3,0.007,1.21,1.07,1.36,0.002
+wanita seks,60.3,58.5,62.2,1.0,,,,1.0,,,
+provinsi atau wilayah,,,,,,,,,,,
+provinsi atau wilayah newfoundland dan labrador,63.3,57.2,69.3,2.4,1.7,3.3,<0.001,2.61,1.84,3.7,<0.001
+provinsi atau wilayah pulau pangeran edward,64.2,55.7,72.8,2.5,1.6,3.8,<0.001,2.86,1.87,4.37,<0.001
+provinsi atau wilayah nova scotia,42.0,37.0,47.1,1.0,,,,1.0,,,
+provinsi atau wilayah brunswick baru,54.2,48.2,60.1,1.6,1.2,2.2,0.003,1.8,1.3,2.49,<0.001
+provinsi atau wilayah quebec,68.6,65.7,71.5,3.0,2.4,3.8,<0.001,2.97,2.17,4.07,<0.001
+provinsi atau wilayah ontario,59.8,57.3,62.3,2.1,1.6,2.6,<0.001,2.13,1.68,2.68,<0.001
+provinsi atau wilayah manitoba,69.2,63.6,74.7,3.1,2.2,4.3,<0.001,2.94,2.13,4.07,<0.001
+provinsi atau wilayah saskatchewan,64.8,59.4,70.3,2.5,1.9,3.5,<0.001,2.56,1.85,3.52,<0.001
+provinsi atau wilayah alberta,63.8,59.3,68.2,2.4,1.8,3.2,<0.001,2.26,1.68,3.04,<0.001
+provinsi atau wilayah columbia inggris,60.0,55.6,64.4,2.1,1.6,2.7,<0.001,2.1,1.58,2.79,<0.001
+provinsi atau wilayah yukon,60.1,51.1,69.0,2.1,1.4,3.2,0.001,2.04,1.33,3.13,0.001
+provinsi atau wilayah wilayah barat laut,56.7,47.1,66.3,1.8,1.2,2.8,0.009,1.39,0.87,2.24,0.173
+provinsi atau wilayah nunavut,70.7,58.8,82.7,3.3,1.8,6.2,<0.001,1.71,0.9,3.27,0.103
+pendidikan,,,,,,,,,,,
+pendidikan sekolah menengah atas atau kurang,63.8,61.4,66.2,1.3,1.1,1.6,0.003,1.53,1.26,1.86,<0.001
+pendidikan pasca sekolah menengah di bawah tingkat sarjana,63.5,61.4,65.6,1.3,1.1,1.6,0.002,1.38,1.16,1.64,<0.001
+gelar universitas pendidikan,57.0,53.4,60.7,1.0,,,,1.0,,,
+total pendapatan rumah tangga,,,,,,,,,,,
+"total pendapatan rumah tangga $0 hingga $29,999",61.7,58.6,64.9,1.0,0.9,1.2,0.886,,,,
+total pendapatan rumah tangga $30.000 hingga $59.999,64.0,61.3,66.6,1.1,1.0,1.3,0.181,,,,
+total pendapatan rumah tangga $60.000 hingga $89.999,61.9,58.7,65.1,1.0,0.9,1.2,0.83,,,,
+total pendapatan rumah tangga $90.000 atau lebih,61.4,58.8,64.0,1.0,,,,,,,
+negara kelahiran,,,,,,,,,,,
+negara kelahiran lainnya,61.2,57.4,65.1,1.0,0.8,1.1,0.537,,,,
+negara kelahiran Kanada,62.5,60.9,64.0,1.0,,,,,,,
+identitas penduduk asli,,,,,,,,,,,
+identitas penduduk asli tidak ada,62.2,60.7,63.8,1.0,,,,,,,
+identitas penduduk asli bangsa pertama,65.8,59.7,71.9,1.2,0.9,1.5,0.271,,,,
+identitas asli metis,57.1,49.0,65.1,0.8,0.6,1.1,0.211,,,,
+identitas penduduk asli inuk atau inuit,69.2,50.0,88.5,1.4,0.5,3.5,0.518,,,,
+bahasa ibu,,,,,,,,,,,
+bahasa ibu bahasa inggris,60.4,58.6,62.1,1.0,,,,1.0,,,
+bahasa ibu Perancis,66.0,63.1,68.8,1.3,1.1,1.5,0.001,1.0,0.79,1.27,0.979
+bahasa ibu lainnya,63.6,59.5,67.7,1.2,1.0,1.4,0.156,1.3,1.07,1.58,0.01
+wilayah tempat tinggal,,,,,,,,,,,
+daerah tempat tinggal perkotaan,62.1,60.4,63.8,1.0,,,,,,,
+daerah tempat tinggal pedesaan,63.0,60.6,65.3,1.0,0.9,1.2,0.534,,,,
+mempunyai dokter keluarga,,,,,,,,,,,
+memiliki dokter keluarga no,80.4,77.1,83.7,2.7,2.2,3.4,<0.001,2.1,1.68,2.62,<0.001
+punya dokter keluarga ya,59.9,58.4,61.5,1.0,,,,1.0,,,
+kesehatan yang dirasakan,,,,,,,,,,,
+kesehatan yang dirasakan sangat baik,63.6,58.6,68.6,1.7,1.3,2.3,<0.001,1.39,1.03,1.88,0.033
+kesehatan yang dirasakan sangat baik,64.4,61.6,67.1,1.8,1.4,2.3,<0.001,1.47,1.13,1.91,0.004
+kesehatan yang dirasakan baik,64.3,62.0,66.6,1.8,1.4,2.2,<0.001,1.55,1.19,2.01,0.001
+kesehatan yang dirasakan adil,59.5,55.9,63.1,1.4,1.1,1.9,0.016,1.34,1.0,1.8,0.053
+kesehatan yang dirasakan buruk,50.7,45.1,56.3,1.0,,,,1.0,,,

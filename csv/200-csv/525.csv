@@ -1,0 +1,47 @@
+kharakteristik,jumlah rawat inap terkait tuberkulosis,berarti,median,persentil ke-90
+semua rawat inap terkait tuberkulosis pada tahun 2001/2002 hingga 2013/2014 ayah dalam sdle,7675.0,22.4,14.0,51.0
+semua rawat inap terkait tuberkulosis tahun 2000 hingga 2013 di imdb terkait dengan ayah tahun 2001/2002 hingga 2013/2014 di sdle,1340.0,17.4,11.0,36.0
+usia saat dirawat di rumah sakit,,,,
+usia rawat inap 0 hingga 17 tahun,90.0,12.0,7.0,24.0
+usia rawat inap 18 sampai 24 tahun,230.0,15.4,10.0,33.0
+usia rawat inap 25 hingga 34 tahun,375.0,15.1,10.0,30.0
+usia rawat inap 35 hingga 44 tahun,220.0,15.3,9.5,35.0
+usia rawat inap 45 hingga 64 tahun,235.0,23.4,13.0,53.0
+usia rawat inap 65 tahun ke atas,185.0,22.0,16.0,49.0
+seks,,,,
+jenis kelamin laki-laki,725.0,17.5,12.0,38.0
+jenis kelamin perempuan,615.0,17.2,10.0,34.0
+tahun pendaratan,,,,
+pendaratan tahun 2000 hingga 2003,485.0,18.0,12.0,41.0
+tahun pendaratan 2004 hingga 2008,565.0,17.1,11.0,35.0
+tahun pendaratan 2009 hingga 2013,285.0,16.9,11.0,35.0
+tingkat risiko negara,,,,
+tingkat risiko negara rendah,45.0,15.6,8.0,40.0
+tingkat risiko negara yang tinggi,1290.0,17.4,11.0,36.0
+tingkat risiko negara tinggi siapa,1020.0,17.2,11.0,35.0
+tingkat risiko negara yang tinggi spesifik IRCC,275.0,18.2,11.0,41.0
+12 negara sumber teratas untuk rawat inap TBC di Kanada,,,,
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, India",300.0,20.9,12.0,49.0
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, Filipina",235.0,17.0,11.0,33.0
+"12 negara sumber teratas untuk rawat inap tb di Kanada, Cina",90.0,15.9,10.5,35.0
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, Etiopia",80.0,16.0,13.0,34.0
+"12 negara sumber teratas untuk rawat inap tb di Kanada, Pakistan",55.0,14.0,9.0,26.0
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, Somalia",65.0,15.9,13.0,30.0
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, Sri Lanka",45.0,21.3,14.0,41.0
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, Afganistan",35.0,18.5,14.0,51.0
+12 negara sumber teratas untuk rawat inap tb di Kanada Vietnam,35.0,14.7,12.0,33.0
+12 negara sumber teratas untuk rawat inap tb di Kanada Nepal,40.0,11.2,8.5,21.0
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, Sudan",35.0,26.1,11.5,36.0
+"12 negara sumber teratas untuk rawat inap TBC di Kanada, Bangladesh",25.0,18.1,13.0,42.0
+12 negara sumber teratas untuk rawat inap TBC di Kanada dan lainnya,290.0,15.2,10.0,35.0
+wilayah tempat tinggal yang dituju,,,,
+wilayah tempat tinggal yang dituju Atlantik,15.0,12.8,11.0,31.0
+wilayah tempat tinggal yang dituju ontario,785.0,15.7,9.0,33.0
+padang rumput wilayah tempat tinggal yang dituju,335.0,16.7,13.0,33.0
+wilayah tempat tinggal yang dituju british columbia,200.0,25.2,15.0,57.0
+kategori imigran,,,,
+"kategori imigran ekonomi, pelamar utama",200.0,14.6,10.0,31.0
+"kategori imigran ekonomi, pasangan/anak",225.0,13.8,9.0,32.0
+keluarga kategori imigran,480.0,20.7,13.0,42.0
+pengungsi kategori imigran,395.0,16.8,10.5,34.0
+kategori imigran lainnya/tidak diketahui/hilang,35.0,17.6,10.0,32.0

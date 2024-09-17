@@ -1,0 +1,41 @@
+kharakteristik,pembayaran non-hipotek dilewati atau ditunda dalam satu tahun terakhir,pembayaran hipotek dilewati atau ditunda dalam setahun terakhir
+kategori rasio utang terhadap aset probabilitas yang diprediksi,,
+"prediksi probabilitas kategori rasio utang terhadap aset hingga 0,25",0.048,0.013
+"prediksi probabilitas kategori rasio utang terhadap aset di atas 0,25 dan sampai dengan 0,50",0.068,0.027
+"prediksi probabilitas kategori rasio utang terhadap aset di atas 0,50",0.098,0.056
+prediksi probabilitas kelompok usia penerima penghasilan utama,,
+prediksi probabilitas kelompok usia pencari nafkah utama 15 hingga 34 tahun,0.071,0.015
+prediksi probabilitas kelompok usia pencari nafkah utama 35 hingga 44 tahun,0.065,0.027
+prediksi probabilitas kelompok usia pencari nafkah utama 45 hingga 54 tahun,0.094,0.035
+prediksi probabilitas kelompok usia pencari nafkah utama 55 hingga 64 tahun,0.074,0.057
+prediksi probabilitas kelompok usia pencari nafkah utama di atas 64 tahun,0.034,0.029
+tipe keluarga probabilitas yang diprediksi,,
+tipe keluarga probabilitas yang diprediksi tidak terikat,0.067,0.03
+prediksi kemungkinan pasangan tipe keluarga tanpa anak,0.054,0.019
+prediksi probabilitas tipe keluarga pasangan dengan anak,0.072,0.03
+prediksi probabilitas tipe keluarga orang tua tunggal,0.091,0.077
+"prediksi probabilitas tipe keluarga tipe keluarga ""lainnya"".",0.085,0.029
+prediksi probabilitas pendidikan pencari nafkah utama,,
+prediksi probabilitas pendidikan pencari nafkah utama kurang dari sekolah menengah atas,0.083,0.044
+prediksi probabilitas pendidikan sekolah menengah dengan pendapatan utama,0.077,0.031
+prediksi probabilitas pendidikan pencari nafkah utama beberapa pasca sekolah menengah,0.087,0.034
+prediksi probabilitas pendidikan ijazah atau gelar universitas yang menghasilkan pendapatan utama,0.042,0.021
+kelompok pendapatan probabilitas yang diprediksi,,
+prediksi probabilitas kelompok pendapatan kuintil pertama,0.097,0.062
+prediksi probabilitas kelompok pendapatan kuintil kedua,0.095,0.031
+prediksi probabilitas kelompok pendapatan kuintil ketiga,0.057,0.028
+prediksi probabilitas kelompok pendapatan kuintil keempat,0.054,0.032
+prediksi probabilitas kelompok pendapatan kuintil kelima,0.02,0.012
+wilayah probabilitas yang diprediksi,,
+prediksi probabilitas wilayah Atlantik,0.049,0.037
+prediksi probabilitas wilayah quebec,0.075,0.027
+prediksi probabilitas wilayah ontario,0.062,0.022
+prediksi kemungkinan wilayah padang rumput,0.091,0.049
+prediksi probabilitas wilayah british columbia,0.071,0.031
+prediksi probabilitas jenis kelamin penerima pendapatan utama,,
+prediksi probabilitas jenis kelamin laki-laki yang berpenghasilan utama,0.071,0.03
+prediksi probabilitas jenis kelamin perempuan pencari nafkah utama,0.07,0.03
+prediksi probabilitas status kepemilikan rumah,,
+prediksi probabilitas status kepemilikan rumah sendiri tanpa KPR,0.048,
+prediksi probabilitas status kepemilikan rumah yang dimiliki dengan KPR,0.051,
+prediksi probabilitas status kepemilikan rumah tidak dimiliki,0.099,

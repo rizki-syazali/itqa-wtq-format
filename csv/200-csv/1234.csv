@@ -1,0 +1,39 @@
+kharakteristik,pria,perempuan,total
+persen sumber rujukan,,,
+persen sumber rujukan polisi,54.0,64.0,57.0
+persen penuntutan mahkota sumber rujukan,39.0,32.0,37.0
+persen pengadilan sumber rujukan,5.0,3.0,4.0
+persen koreksi sumber rujukan,2.0,1.0,2.0
+persen total sumber rujukan,100.0,100.0,100.0
+persen status file keadilan restoratif,,,
+"persen status berkas restorative justice yang dirujuk, tidak diterima",6.0,3.0,5.0
+"persen status berkas keadilan restoratif diterima, berhasil seluruhnya atau sebagian",89.0,91.0,90.0
+"persen status berkas restorative justice diterima, tidak berhasil atau tidak diketahui keberhasilannya",5.0,6.0,6.0
+persen status total berkas restorative justice,100.0,100.0,100.0
+persen lamanya proses keadilan restoratif,,,
+persen lamanya proses keadilan restoratif 90 hari atau kurang,22.0,32.0,25.0
+persen lamanya proses keadilan restoratif 91 hingga 180 hari,48.0,50.0,49.0
+persen lamanya proses restorative justice 181 hingga 365 hari,27.0,16.0,23.0
+persen lamanya proses keadilan restoratif selama 365 hari,3.0,3.0,3.0
+persen lamanya total proses keadilan restoratif,100.0,100.0,100.0
+persen jumlah kontak kembali dengan keadilan restoratif,,,
+persen jumlah kontak ulang dengan keadilan restoratif 0,82.0,87.0,84.0
+persen jumlah kontak ulang dengan keadilan restoratif 1 kontak kembali,16.0,11.0,14.0
+persen jumlah kontak ulang dengan keadilan restoratif 2 atau lebih kontak ulang,2.0,2.0,2.0
+persen jumlah kontak ulang dengan keadilan restoratif total,100.0,100.0,100.0
+persen waktu untuk melakukan kontak ulang pertama kali,,,
+persen waktu untuk melakukan kontak ulang pertama kali 90 hari atau kurang,8.0,14.0,10.0
+persen waktu untuk melakukan kontak ulang pertama kali 91 hingga 180 hari,20.0,14.0,19.0
+persen waktu untuk menghubungi kembali pertama kali 181 hingga 365 hari,20.0,19.0,20.0
+persen waktu untuk melakukan kontak ulang pertama kali selama 365 hari,51.0,53.0,51.0
+persen waktu untuk menghubungi kembali total,100.0,100.0,100.0
+persen kontak ulang berdasarkan jenis pelanggaran,,,
+persen kontak kembali berdasarkan jenis pelanggaran kejahatan kekerasan,,,21.0
+persen kontak kembali berdasarkan jenis pelanggaran kejahatan properti,,,15.0
+persen kontak kembali berdasarkan jenis pelanggaran kejahatan lain dan undang-undang federal,,,15.0
+persen kontak ulang berdasarkan jenis pelanggaran total,,,16.0
+persen perubahan keseriusan pelanggaran,,,
+persen perubahan keseriusan pelanggaran kurang serius,,,35.0
+persen perubahan keseriusan pelanggaran tidak ada perubahan,,,23.0
+persen perubahan keseriusan pelanggaran menjadi lebih serius,,,42.0
+persen perubahan keseriusan pelanggaran total,100.0,100.0,100.0

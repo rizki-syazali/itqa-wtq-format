@@ -1,0 +1,37 @@
+kharakteristik,ambang batas angka '000,ambang batas gad %,ambang batas dengan interval kepercayaan 95% dari,ambang batas dengan interval kepercayaan 95% hingga,angka gad subthreshold '000,batas bawah gad %,subthreshold gad interval kepercayaan 95% dari,subthreshold memiliki interval kepercayaan 95% hingga
+total,721.7,2.6,2.3,2.9,654.7,2.3,2.0,2.7
+seks,,,,,,,,
+pria seks,270.5,2.0,1.6,2.4,177.2,1.3,1.0,1.6
+wanita seks,451.2,3.2,2.8,3.7,477.6,3.4,2.8,4.0
+kelompok umur,,,,,,,,
+kelompok usia 15 hingga 24 tahun,107.7,2.4,1.8,3.2,82.3,1.9,1.3,2.7
+kelompok usia 25 hingga 44 tahun,268.2,2.9,2.4,3.5,229.1,2.5,2.0,3.2
+kelompok usia 45 hingga 64 tahun,288.4,3.0,2.5,3.6,286.6,3.0,2.4,3.7
+kelompok usia 65 tahun ke atas,57.4,1.2,0.9,1.7,56.7,1.2,0.9,1.6
+tingkat pendidikan rumah tangga tertinggi,,,,,,,,
+tingkat tertinggi pendidikan rumah tangga yang menyelesaikan pasca sekolah menengah,498.5,2.5,2.2,2.8,443.3,2.2,1.9,2.5
+tingkat pendidikan rumah tangga tertinggi kurang dari penyelesaian pasca sekolah menengah,169.5,3.0,2.4,3.7,137.8,2.4,1.7,3.4
+status perkawinan,,,,,,,,
+pasangan status perkawinan,345.8,2.1,1.7,2.5,391.5,2.3,1.9,10.2
+status perkawinan janda/bercerai/bercerai,137.0,3.8,3.0,4.8,80.3,2.2,1.8,11.2
+status perkawinan belum pernah menikah,235.2,3.1,2.6,3.7,182.2,2.4,1.9,11.2
+tempat tinggal,,,,,,,,
+tempat tinggal pedesaan,122.0,2.5,1.9,3.2,131.1,2.7,2.0,3.6
+tempat tinggal pusat populasi,599.7,2.6,2.3,2.9,523.6,2.3,1.9,2.6
+gangguan suasana hati,,,,,,,,
+gangguan mood 12 bulan terakhir,404.5,27.2,23.6,31.2,152.7,10.3,8.0,13.1
+"gangguan mood seumur hidup, tidak lebih dari 12 bulan",65.2,3.3,2.3,4.7,134.5,6.8,5.4,8.5
+gangguan mood tidak ada,246.7,1.0,0.9,1.2,361.3,1.5,1.2,1.8
+gangguan penggunaan zat,,,,,,,,
+gangguan penggunaan narkoba dalam 12 bulan terakhir,95.8,8.0,6.1,10.4,51.1,4.3,2.6,6.8
+"gangguan penggunaan narkoba seumur hidup, tidak lebih dari 12 bulan",197.8,4.3,3.5,5.2,159.6,3.4,2.7,4.4
+gangguan penggunaan narkoba tidak ada,406.0,1.9,1.6,2.2,437.7,2.0,1.7,2.4
+skizofrenia,,,,,,,,
+skizofrenia ya,21.7,,,,11.0,10.8,5.6,19.9
+skizofrenia no,700.0,2.5,2.2,2.8,638.5,2.3,2.0,2.6
+psikosis,,,,,,,,
+psikosis ya,36.7,13.6,9.2,19.5,59.2,21.9,14.4,31.8
+psikosis no,680.7,2.5,2.2,2.8,595.0,2.1,1.9,2.5
+ptsd,,,,,,,,
+PTSD ya,113.0,24.3,18.4,31.4,69.2,14.9,9.8,21.9
+ptsd no,605.2,2.2,2.0,2.5,585.0,2.1,1.8,2.5
